@@ -1,0 +1,5822 @@
+[
+    {
+        "startTime": 0,
+        "endTime": 28.52,
+        "id": 1,
+        "text": "Cement production is not a simple industrial task; it is a precise journey where raw materials transform into the binding force of modern civilization, with each stage carefully engineered to ensure strength and quality. WELCOME BACK! In this video, our objective is to explain the main stages of cement clinker production: raw material preparation, preheating stage, calcination, kiln burning, and cooling, highlighting the purpose and essential conditions of each stage.",
+        "keywords": [
+            {
+                "word": "Cement production",
+                "type": "main"
+            },
+            {
+                "word": "precise journey",
+                "type": "Key Terms"
+            },
+            {
+                "word": "main stages",
+                "type": "Callouts"
+            }
+        ],
+        "wordTimestamps": [
+            {
+                "id": "9a1b4a3d-723c-475c-bbcd-ab3b46cbf96f",
+                "text": " cement",
+                "start": 0,
+                "end": 0.24,
+                "segment_id": "1"
+            },
+            {
+                "id": "1d28fa8e-9df3-422f-8906-0f9e9f0f528e",
+                "text": " production",
+                "start": 0.24,
+                "end": 0.58,
+                "segment_id": "1"
+            },
+            {
+                "id": "69d427c4-42dd-4ca5-9b54-f95dc4040c0e",
+                "text": " is",
+                "start": 0.58,
+                "end": 1.08,
+                "segment_id": "1"
+            },
+            {
+                "id": "f8c21676-273f-471e-8045-bb28fe293fa1",
+                "text": " not",
+                "start": 1.08,
+                "end": 1.32,
+                "segment_id": "1"
+            },
+            {
+                "id": "e773e20c-a8ae-474f-8af6-c171876a0021",
+                "text": " a",
+                "start": 1.32,
+                "end": 1.44,
+                "segment_id": "1"
+            },
+            {
+                "id": "edd6226a-f0aa-4ebe-b209-e0df30be0940",
+                "text": " simple",
+                "start": 1.44,
+                "end": 1.76,
+                "segment_id": "1"
+            },
+            {
+                "id": "86e27820-7467-4c4a-a589-44a5e0ccc722",
+                "text": " industrial",
+                "start": 1.76,
+                "end": 2.12,
+                "segment_id": "1"
+            },
+            {
+                "id": "19c0cd3f-c70a-4539-b98e-765794ad830f",
+                "text": " task",
+                "start": 2.12,
+                "end": 2.72,
+                "segment_id": "1"
+            },
+            {
+                "id": "94eff2d1-6785-4587-b7ca-2920c3a7e0a8",
+                "text": " it",
+                "start": 2.72,
+                "end": 3.36,
+                "segment_id": "1"
+            },
+            {
+                "id": "33bf161a-71b4-48e6-b912-9d6db373cd47",
+                "text": " is",
+                "start": 3.36,
+                "end": 3.52,
+                "segment_id": "1"
+            },
+            {
+                "id": "6598055f-343b-452e-bf53-5a62e35778e6",
+                "text": " a",
+                "start": 3.52,
+                "end": 3.62,
+                "segment_id": "1"
+            },
+            {
+                "id": "ace2bd8e-d7d5-4061-8d4f-8382610bec22",
+                "text": " precise",
+                "start": 3.62,
+                "end": 4.04,
+                "segment_id": "1"
+            },
+            {
+                "id": "4791085c-e150-43f9-961e-d682f165ac67",
+                "text": " journey",
+                "start": 4.04,
+                "end": 4.56,
+                "segment_id": "1"
+            },
+            {
+                "id": "f76adbd0-d7b2-468e-8d10-fcb98453246a",
+                "text": " where",
+                "start": 4.56,
+                "end": 5.14,
+                "segment_id": "1"
+            },
+            {
+                "id": "2394b869-f1f9-408e-a5a5-c5d86d0d2b7c",
+                "text": " raw",
+                "start": 5.14,
+                "end": 5.36,
+                "segment_id": "1"
+            },
+            {
+                "id": "1b69dc65-5878-4608-84c5-80d2dfb3cd9c",
+                "text": " materials",
+                "start": 5.36,
+                "end": 5.96,
+                "segment_id": "1"
+            },
+            {
+                "id": "62270447-20a3-44b2-87ab-44caf1342529",
+                "text": " transform",
+                "start": 5.96,
+                "end": 6.6,
+                "segment_id": "2"
+            },
+            {
+                "id": "e0063f48-b90f-4adf-bbfc-20d34934dfb5",
+                "text": " into",
+                "start": 6.6,
+                "end": 7.14,
+                "segment_id": "2"
+            },
+            {
+                "id": "fe1b56db-f1c7-44be-a861-6a0fd2562810",
+                "text": " the",
+                "start": 7.14,
+                "end": 7.34,
+                "segment_id": "2"
+            },
+            {
+                "id": "a64b7719-f5f4-4506-9592-b097fbd9ba62",
+                "text": " binding",
+                "start": 7.34,
+                "end": 7.66,
+                "segment_id": "2"
+            },
+            {
+                "id": "2f724e60-e53e-48b1-bc82-689dc0fa6b94",
+                "text": " force",
+                "start": 7.66,
+                "end": 8.08,
+                "segment_id": "2"
+            },
+            {
+                "id": "b31f91e8-d6ff-489c-bccc-2d22c14713c3",
+                "text": " of",
+                "start": 8.08,
+                "end": 8.32,
+                "segment_id": "2"
+            },
+            {
+                "id": "b888844b-8bdc-481c-aa8c-de03505e2959",
+                "text": " modern",
+                "start": 8.32,
+                "end": 8.7,
+                "segment_id": "2"
+            },
+            {
+                "id": "1b352372-8911-4c16-94f5-d61745255896",
+                "text": " civilization",
+                "start": 8.7,
+                "end": 9.34,
+                "segment_id": "2"
+            },
+            {
+                "id": "5c7225ee-fd3b-45e6-85df-de059e0ac17c",
+                "text": " with",
+                "start": 9.34,
+                "end": 10.38,
+                "segment_id": "2"
+            },
+            {
+                "id": "76e29a43-5ea9-4b5d-9e5c-1a186b5216c1",
+                "text": " each",
+                "start": 10.38,
+                "end": 10.66,
+                "segment_id": "2"
+            },
+            {
+                "id": "24ee1ced-47c6-475c-8716-dfdbda3a2af4",
+                "text": " stage",
+                "start": 10.66,
+                "end": 11.02,
+                "segment_id": "2"
+            },
+            {
+                "id": "c0e1771a-0a9a-485d-98dd-1a592a84a3e3",
+                "text": " carefully",
+                "start": 11.02,
+                "end": 11.54,
+                "segment_id": "2"
+            },
+            {
+                "id": "73ca3a37-2a0c-4ec5-a13b-0c4527a444ed",
+                "text": " engineered",
+                "start": 11.54,
+                "end": 12.2,
+                "segment_id": "3"
+            },
+            {
+                "id": "c56d7c9a-b072-4267-b081-8c66c3ccdc89",
+                "text": " to",
+                "start": 12.2,
+                "end": 12.5,
+                "segment_id": "3"
+            },
+            {
+                "id": "684e9b6c-1c39-4492-aad7-48900cfe8f72",
+                "text": " ensure",
+                "start": 12.5,
+                "end": 12.78,
+                "segment_id": "3"
+            },
+            {
+                "id": "98116679-1a70-49ea-9364-eea1f776a5bf",
+                "text": " strength",
+                "start": 12.78,
+                "end": 13.34,
+                "segment_id": "3"
+            },
+            {
+                "id": "ddcb5ecf-a3be-42aa-86a2-0f5a205c13be",
+                "text": " and",
+                "start": 13.34,
+                "end": 13.62,
+                "segment_id": "3"
+            },
+            {
+                "id": "7184de93-e097-4c8e-9a31-a67b7642d5d5",
+                "text": " quality",
+                "start": 13.62,
+                "end": 14,
+                "segment_id": "3"
+            },
+            {
+                "id": "6968d20a-9a4f-4aec-9c15-4d5edb945eaf",
+                "text": " welcome",
+                "start": 14,
+                "end": 15,
+                "segment_id": "3"
+            },
+            {
+                "id": "546ca99a-29bb-4c72-86fc-fe8b122c7124",
+                "text": " back",
+                "start": 15,
+                "end": 15.4,
+                "segment_id": "3"
+            },
+            {
+                "id": "b1afc456-1786-43eb-bba8-b7e2437803ee",
+                "text": " in",
+                "start": 15.4,
+                "end": 16.36,
+                "segment_id": "3"
+            },
+            {
+                "id": "aeba288c-ca84-42b3-b826-c15b3590fd64",
+                "text": " this",
+                "start": 16.36,
+                "end": 16.58,
+                "segment_id": "3"
+            },
+            {
+                "id": "32ee0c23-66fc-4086-b034-cf24057e2306",
+                "text": " video",
+                "start": 16.58,
+                "end": 16.94,
+                "segment_id": "3"
+            },
+            {
+                "id": "f1a46a48-c2df-43fb-89a5-abee656de6b6",
+                "text": " our",
+                "start": 16.94,
+                "end": 17.46,
+                "segment_id": "3"
+            },
+            {
+                "id": "c4d66340-6303-46f8-8f52-fdbfa9d06447",
+                "text": " objective",
+                "start": 17.46,
+                "end": 17.86,
+                "segment_id": "3"
+            },
+            {
+                "id": "9ff2ac37-a195-4235-b7d0-6bfabf1fce85",
+                "text": " is",
+                "start": 17.86,
+                "end": 18.28,
+                "segment_id": "3"
+            },
+            {
+                "id": "da804536-21b5-4855-8f8c-9f8fb52b5ccf",
+                "text": " to",
+                "start": 18.28,
+                "end": 18.4,
+                "segment_id": "3"
+            },
+            {
+                "id": "0ae7ba64-476a-4867-9c3f-1e90c4af7126",
+                "text": " explain",
+                "start": 18.4,
+                "end": 18.82,
+                "segment_id": "3"
+            },
+            {
+                "id": "431da35b-c61b-436c-9918-a43a7f1002ec",
+                "text": " the",
+                "start": 18.82,
+                "end": 19.12,
+                "segment_id": "3"
+            },
+            {
+                "id": "91ccd2da-3ff7-4db8-8cd5-3d7e777fb4c4",
+                "text": " main",
+                "start": 19.12,
+                "end": 19.34,
+                "segment_id": "4"
+            },
+            {
+                "id": "b955db5b-b855-4167-83b5-e4f9b923456e",
+                "text": " stages",
+                "start": 19.34,
+                "end": 19.84,
+                "segment_id": "4"
+            },
+            {
+                "id": "8ada9394-999b-4a38-8c57-d7fa0e0a2126",
+                "text": " of",
+                "start": 19.84,
+                "end": 20.08,
+                "segment_id": "4"
+            },
+            {
+                "id": "edead3c6-dd90-4bdc-9162-27e9bc78448f",
+                "text": " cement",
+                "start": 20.08,
+                "end": 20.42,
+                "segment_id": "4"
+            },
+            {
+                "id": "9206a7f5-9bf3-45c9-ba04-7d29799bb470",
+                "text": " clinker",
+                "start": 20.42,
+                "end": 20.88,
+                "segment_id": "4"
+            },
+            {
+                "id": "67e40d8a-9ca5-4c71-afce-7d3cf239dc40",
+                "text": " production",
+                "start": 20.88,
+                "end": 21.28,
+                "segment_id": "4"
+            },
+            {
+                "id": "0e098ba6-4529-4e18-83a6-812e7cc295f9",
+                "text": " raw",
+                "start": 21.28,
+                "end": 22.28,
+                "segment_id": "4"
+            },
+            {
+                "id": "702fbf52-c3a4-4eae-afc0-5727ed082b63",
+                "text": " material",
+                "start": 22.28,
+                "end": 22.7,
+                "segment_id": "4"
+            },
+            {
+                "id": "de37cddb-f7fe-4a13-bbcf-91bccafbd7f3",
+                "text": " preparation",
+                "start": 22.7,
+                "end": 23.34,
+                "segment_id": "4"
+            },
+            {
+                "id": "2b9ad72f-579f-4f5f-9205-690322638f20",
+                "text": " preheating",
+                "start": 23.34,
+                "end": 24.86,
+                "segment_id": "4"
+            },
+            {
+                "id": "ce63cc4f-b2a8-46c8-8f4e-469f3d1997cd",
+                "text": " stage",
+                "start": 24.86,
+                "end": 25.22,
+                "segment_id": "4"
+            },
+            {
+                "id": "c010e292-4f32-4c4b-ac98-22abe669dd6b",
+                "text": " calcination",
+                "start": 25.22,
+                "end": 26.32,
+                "segment_id": "4"
+            },
+            {
+                "id": "375ecc5a-00a7-47b0-bb1a-12906ee41587",
+                "text": " kiln",
+                "start": 26.32,
+                "end": 27.3,
+                "segment_id": "5"
+            },
+            {
+                "id": "33c823ae-e467-450f-a4ff-6fbaa8229fd7",
+                "text": " burning",
+                "start": 27.3,
+                "end": 27.62,
+                "segment_id": "5"
+            },
+            {
+                "id": "cc8a95f8-efbc-41cc-9247-9f4a7e22c841",
+                "text": " and",
+                "start": 27.62,
+                "end": 28.1,
+                "segment_id": "5"
+            },
+            {
+                "id": "8c58fa21-af8b-41f8-937a-3d2ce68e449c",
+                "text": " cooling",
+                "start": 28.1,
+                "end": 28.52,
+                "segment_id": "5"
+            },
+            {
+                "id": "8b35c080-2349-497e-a175-ed5956b1a82a",
+                "text": " highlighting",
+                "start": 28.52,
+                "end": 29.52,
+                "segment_id": "5"
+            },
+            {
+                "id": "fc880443-9b4b-4d74-bd89-0bd24668c128",
+                "text": " the",
+                "start": 29.52,
+                "end": 30,
+                "segment_id": "5"
+            },
+            {
+                "id": "d9793817-0c59-4aba-93dd-01b81235e0f8",
+                "text": " purpose",
+                "start": 30,
+                "end": 30.34,
+                "segment_id": "5"
+            },
+            {
+                "id": "4a4832f4-3c0b-4073-a7fc-9868019888c2",
+                "text": " and",
+                "start": 30.34,
+                "end": 30.78,
+                "segment_id": "5"
+            },
+            {
+                "id": "eb53df7b-ad89-46d2-8f69-e13754c53334",
+                "text": " essential",
+                "start": 30.78,
+                "end": 31.18,
+                "segment_id": "5"
+            },
+            {
+                "id": "f9ddb67c-e560-4524-9a08-a74753eed312",
+                "text": " conditions",
+                "start": 31.18,
+                "end": 31.82,
+                "segment_id": "5"
+            },
+            {
+                "id": "39b1a698-c6ed-498d-a98e-48c3fe93279d",
+                "text": " of",
+                "start": 31.82,
+                "end": 32.12,
+                "segment_id": "5"
+            },
+            {
+                "id": "2a4df9b4-7a03-4592-9485-0e4179182435",
+                "text": " each",
+                "start": 32.12,
+                "end": 32.32,
+                "segment_id": "5"
+            },
+            {
+                "id": "afad6cc5-5c13-4b18-83f9-3d6484e58ee7",
+                "text": " stage",
+                "start": 32.32,
+                "end": 32.64,
+                "segment_id": "5"
+            }
+        ],
+        "visual": {
+            "type": "image",
+            "src": "https://img.freepik.com/premium-photo/huge-cement-producing-plant-aerial-view-silos-towers-pipes-structures-industrial-area_1048944-24732626.jpg",
+            "title": "Industrial Cement Plant",
+            "alt": "An aerial view of an industrial cement plant located in a desert area, featuring tall structures and silo towers with surrounding infrastructure.",
+            "startTime": 0,
+            "assist_image_id": "abcc11a8-afeb-43e7-bae6-f22cbbeab534"
+        }
+    },
+    {
+        "startTime": 33.16,
+        "endTime": 50.36,
+        "id": 2,
+        "text": "In our previous video, we identified the fundamental raw materials for cement: limestone as the primary source of calcium, clays for silicon and aluminum, and iron ore for iron. We learned about their natural abundance and the importance of their chemical composition.",
+        "keywords": [
+            {
+                "word": "fundamental raw materials",
+                "type": "main"
+            },
+            {
+                "word": "limestone",
+                "type": "Key Terms"
+            },
+            {
+                "word": "chemical composition",
+                "type": "Callouts"
+            }
+        ],
+        "wordTimestamps": [
+            {
+                "id": "f3ea7431-9a55-4a0a-8225-56e9601641d7",
+                "text": " in",
+                "start": 33.16,
+                "end": 33.54,
+                "segment_id": "6"
+            },
+            {
+                "id": "ab0a2ead-0bb9-419a-9d7b-e16a34046f48",
+                "text": " our",
+                "start": 33.54,
+                "end": 33.84,
+                "segment_id": "6"
+            },
+            {
+                "id": "bdd63484-3ac8-4f0c-b72d-9a5744941f49",
+                "text": " previous",
+                "start": 33.84,
+                "end": 34.24,
+                "segment_id": "6"
+            },
+            {
+                "id": "038bfbc4-4d91-462b-abe0-d04937aef91c",
+                "text": " video",
+                "start": 34.24,
+                "end": 34.62,
+                "segment_id": "6"
+            },
+            {
+                "id": "428b58e1-5906-48dc-8a8b-33e4665268e3",
+                "text": " we",
+                "start": 34.62,
+                "end": 34.98,
+                "segment_id": "6"
+            },
+            {
+                "id": "9ebc9628-375e-40d3-b344-303fd86dfc48",
+                "text": " identified",
+                "start": 34.98,
+                "end": 35.62,
+                "segment_id": "6"
+            },
+            {
+                "id": "958e1626-5c64-4b80-a312-80f6bc724b97",
+                "text": " the",
+                "start": 35.62,
+                "end": 35.96,
+                "segment_id": "6"
+            },
+            {
+                "id": "717ff8ff-45fb-409d-9194-7b14e773e5ac",
+                "text": " fundamental",
+                "start": 35.96,
+                "end": 36.36,
+                "segment_id": "6"
+            },
+            {
+                "id": "a88555ab-7f23-4969-a059-c5ac40ae8783",
+                "text": " raw",
+                "start": 36.36,
+                "end": 36.86,
+                "segment_id": "6"
+            },
+            {
+                "id": "596382ff-09b5-4a3c-9a79-43c27745e776",
+                "text": " materials",
+                "start": 36.86,
+                "end": 37.4,
+                "segment_id": "6"
+            },
+            {
+                "id": "b3d119cd-13d8-451b-b0c7-2082eb10f6c5",
+                "text": " for",
+                "start": 37.4,
+                "end": 37.72,
+                "segment_id": "6"
+            },
+            {
+                "id": "5424d328-c68d-42ac-bf9b-2edbccccbd63",
+                "text": " cement",
+                "start": 37.72,
+                "end": 38.12,
+                "segment_id": "6"
+            },
+            {
+                "id": "49703c04-d6bb-4d68-a6eb-a9650144e396",
+                "text": " limestone",
+                "start": 38.88,
+                "end": 39.36,
+                "segment_id": "7"
+            },
+            {
+                "id": "549509a9-5d0e-4375-91a1-13f3f7e413da",
+                "text": " is",
+                "start": 39.36,
+                "end": 39.7,
+                "segment_id": "7"
+            },
+            {
+                "id": "5eaf576c-9b78-4397-820e-e887904a09df",
+                "text": " the",
+                "start": 39.7,
+                "end": 39.8,
+                "segment_id": "7"
+            },
+            {
+                "id": "d112e525-5e1d-4b8b-997a-4ab821e88987",
+                "text": " primary",
+                "start": 39.8,
+                "end": 40.12,
+                "segment_id": "7"
+            },
+            {
+                "id": "11123e80-f0ab-4b7d-9ecb-7f9eb8df59ad",
+                "text": " source",
+                "start": 40.12,
+                "end": 40.4,
+                "segment_id": "7"
+            },
+            {
+                "id": "29640e35-7e60-43b4-a317-56dae170ffcb",
+                "text": " of",
+                "start": 40.4,
+                "end": 40.64,
+                "segment_id": "7"
+            },
+            {
+                "id": "df44cbb9-e402-4cf6-9a0a-8aa849174eb1",
+                "text": " calcium",
+                "start": 40.64,
+                "end": 41.04,
+                "segment_id": "7"
+            },
+            {
+                "id": "aef0c740-27ae-4551-8a9f-ff990089e37a",
+                "text": " clays",
+                "start": 41.04,
+                "end": 42.1,
+                "segment_id": "7"
+            },
+            {
+                "id": "9225f42d-8419-45cf-b4d2-47f80792a88b",
+                "text": " for",
+                "start": 42.1,
+                "end": 42.2,
+                "segment_id": "7"
+            },
+            {
+                "id": "42b8fe7a-e3ef-4da8-9242-d7e144fc4a9c",
+                "text": " silicon",
+                "start": 42.2,
+                "end": 42.64,
+                "segment_id": "7"
+            },
+            {
+                "id": "98ae1189-d65a-4b90-80e1-2e0c5f10b9e7",
+                "text": " and",
+                "start": 42.64,
+                "end": 43.06,
+                "segment_id": "7"
+            },
+            {
+                "id": "bdccc90c-97a4-4905-a46b-d4e245f7e4dd",
+                "text": " aluminum",
+                "start": 43.06,
+                "end": 43.36,
+                "segment_id": "7"
+            },
+            {
+                "id": "40e7f768-2d6e-4f85-8c13-fbce40645cfb",
+                "text": " and",
+                "start": 43.36,
+                "end": 44.12,
+                "segment_id": "7"
+            },
+            {
+                "id": "43037f1f-c3f4-4d2c-bf1e-a54491fc9bc2",
+                "text": " iron",
+                "start": 44.12,
+                "end": 44.48,
+                "segment_id": "7"
+            },
+            {
+                "id": "53b9e595-decd-40d2-9da6-5717ed538cb1",
+                "text": " ore",
+                "start": 44.48,
+                "end": 44.7,
+                "segment_id": "7"
+            },
+            {
+                "id": "1f92623b-b5f3-443b-9224-97f3e357941b",
+                "text": " for",
+                "start": 44.7,
+                "end": 44.94,
+                "segment_id": "7"
+            },
+            {
+                "id": "9d8e5f2e-80b4-40cb-9d16-1cd105ca69b9",
+                "text": " iron",
+                "start": 44.94,
+                "end": 45.24,
+                "segment_id": "7"
+            },
+            {
+                "id": "cc31a450-3bc4-44c5-acc9-0396631bce07",
+                "text": " we",
+                "start": 45.66,
+                "end": 46.04,
+                "segment_id": "8"
+            },
+            {
+                "id": "84014e2d-4ac0-43f3-a109-f29f84e6b122",
+                "text": " learned",
+                "start": 46.04,
+                "end": 46.42,
+                "segment_id": "8"
+            },
+            {
+                "id": "083a4e0d-4770-4205-9478-7a41da38676f",
+                "text": " about",
+                "start": 46.42,
+                "end": 46.7,
+                "segment_id": "8"
+            },
+            {
+                "id": "55c563e4-6659-4bc9-af2a-193cb37561f1",
+                "text": " their",
+                "start": 46.7,
+                "end": 46.94,
+                "segment_id": "8"
+            },
+            {
+                "id": "36663451-cf2f-47a6-8d07-c80084c35159",
+                "text": " natural",
+                "start": 46.94,
+                "end": 47.4,
+                "segment_id": "8"
+            },
+            {
+                "id": "50c544dc-84a9-43a9-a686-e683481cdfb8",
+                "text": " abundance",
+                "start": 47.4,
+                "end": 47.92,
+                "segment_id": "8"
+            },
+            {
+                "id": "421c68e9-3f5d-444c-be2e-5fb96ad99b23",
+                "text": " and",
+                "start": 47.92,
+                "end": 48.4,
+                "segment_id": "8"
+            },
+            {
+                "id": "a99cf247-75e4-4bd5-9a27-908656d2b763",
+                "text": " the",
+                "start": 48.4,
+                "end": 48.5,
+                "segment_id": "8"
+            },
+            {
+                "id": "611d9ddd-5774-4ab0-a8ed-a6fdbb800b63",
+                "text": " importance",
+                "start": 48.5,
+                "end": 48.92,
+                "segment_id": "8"
+            },
+            {
+                "id": "c96dd969-9b81-426c-9c2f-73586ba25c35",
+                "text": " of",
+                "start": 48.92,
+                "end": 49.28,
+                "segment_id": "8"
+            },
+            {
+                "id": "c0a6aec5-3ccb-4c04-bba4-9be9a81b9053",
+                "text": " their",
+                "start": 49.28,
+                "end": 49.46,
+                "segment_id": "8"
+            },
+            {
+                "id": "91f316d1-a990-435a-a706-a312938ab65a",
+                "text": " chemical",
+                "start": 49.46,
+                "end": 49.84,
+                "segment_id": "8"
+            },
+            {
+                "id": "8298ae9a-e78f-4d26-bcd5-1b58dcb0f486",
+                "text": " composition",
+                "start": 49.84,
+                "end": 50.36,
+                "segment_id": "8"
+            }
+        ],
+        "visual": {
+            "type": "image",
+            "src": "https://pahppwewbggcchrvxpzg.supabase.co/storage/v1/object/public/interactive_files/images/3d59eed3-7a66-4894-b727-a5aa4a03737e_image6jpg.jpg?",
+            "title": "Magnetite Rock Sample",
+            "alt": "A dark gray, rough-textured rock believed to be a sample of magnetite, showcasing natural contours and textures on a neutral background.",
+            "startTime": 33,
+            "assist_image_id": "1b06768f-5f91-4a1b-a27c-ba3366faa5ef"
+        }
+    },
+    {
+        "startTime": 51,
+        "endTime": 76.44,
+        "id": 3,
+        "text": "Now, we're ready to see how these raw materials are transformed. The cement production journey can be broadly divided into three main parts: preparation of raw materials, pyro-processing (the high-temperature burning stage), and finally, grinding the clinker into cement. This video will focus on the first two parts, which together account for the creation of clinker.",
+        "keywords": [
+            {
+                "word": "cement production journey",
+                "type": "main"
+            },
+            {
+                "word": "pyro-processing",
+                "type": "Key Terms"
+            },
+            {
+                "word": "three main parts",
+                "type": "Callouts"
+            }
+        ],
+        "wordTimestamps": [
+            {
+                "word": " Now",
+                "start": 51,
+                "end": 51.32,
+                "word_type": "text"
+            },
+            {
+                "word": " we're",
+                "start": 51.32,
+                "end": 51.54,
+                "word_type": "text"
+            },
+            {
+                "word": " ready",
+                "start": 51.54,
+                "end": 51.82,
+                "word_type": "text"
+            },
+            {
+                "word": " to",
+                "start": 51.82,
+                "end": 52.06,
+                "word_type": "text"
+            },
+            {
+                "word": " see",
+                "start": 52.06,
+                "end": 52.28,
+                "word_type": "text"
+            },
+            {
+                "word": " how",
+                "start": 52.28,
+                "end": 52.5,
+                "word_type": "text"
+            },
+            {
+                "word": " these",
+                "start": 52.5,
+                "end": 52.72,
+                "word_type": "text"
+            },
+            {
+                "word": " raw",
+                "start": 52.72,
+                "end": 52.98,
+                "word_type": "text"
+            },
+            {
+                "word": " materials",
+                "start": 52.98,
+                "end": 53.5,
+                "word_type": "text"
+            },
+            {
+                "word": " are",
+                "start": 53.5,
+                "end": 53.82,
+                "word_type": "text"
+            },
+            {
+                "word": " transformed.",
+                "start": 54,
+                "end": 54.58,
+                "word_type": "text"
+            },
+            {
+                "word": " The",
+                "start": 54.62,
+                "end": 55.08,
+                "word_type": "text"
+            },
+            {
+                "word": " cement",
+                "start": 55.08,
+                "end": 55.42,
+                "word_type": "text"
+            },
+            {
+                "word": " production",
+                "start": 55.42,
+                "end": 55.72,
+                "word_type": "text"
+            },
+            {
+                "word": " journey",
+                "start": 55.72,
+                "end": 56.32,
+                "word_type": "text"
+            },
+            {
+                "word": " can",
+                "start": 56.32,
+                "end": 56.76,
+                "word_type": "text"
+            },
+            {
+                "word": " be",
+                "start": 56.76,
+                "end": 56.88,
+                "word_type": "text"
+            },
+            {
+                "word": " broadly",
+                "start": 57,
+                "end": 57.44,
+                "word_type": "text"
+            },
+            {
+                "word": " divided",
+                "start": 57.44,
+                "end": 57.84,
+                "word_type": "text"
+            },
+            {
+                "word": " into",
+                "start": 57.84,
+                "end": 58.44,
+                "word_type": "text"
+            },
+            {
+                "word": " three",
+                "start": 58.44,
+                "end": 58.8,
+                "word_type": "text"
+            },
+            {
+                "word": " main",
+                "start": 58.8,
+                "end": 59.14,
+                "word_type": "text"
+            },
+            {
+                "word": " parts.",
+                "start": 59.14,
+                "end": 59.58,
+                "word_type": "text"
+            },
+            {
+                "word": " Preparation",
+                "start": 60,
+                "end": 60.96,
+                "word_type": "text"
+            },
+            {
+                "word": " of",
+                "start": 60.96,
+                "end": 61.16,
+                "word_type": "text"
+            },
+            {
+                "word": " raw",
+                "start": 61.16,
+                "end": 61.3,
+                "word_type": "text"
+            },
+            {
+                "word": " materials,",
+                "start": 61.3,
+                "end": 61.9,
+                "word_type": "text"
+            },
+            {
+                "word": " pyro",
+                "start": 62.18,
+                "end": 62.82,
+                "word_type": "text"
+            },
+            {
+                "word": " processing,",
+                "start": 63,
+                "end": 63.64,
+                "word_type": "text"
+            },
+            {
+                "word": " the",
+                "start": 63.8,
+                "end": 64.24,
+                "word_type": "text"
+            },
+            {
+                "word": " high",
+                "start": 64.24,
+                "end": 64.42,
+                "word_type": "text"
+            },
+            {
+                "word": " temperature",
+                "start": 64.42,
+                "end": 64.82,
+                "word_type": "text"
+            },
+            {
+                "word": " burning",
+                "start": 64.82,
+                "end": 65.4,
+                "word_type": "text"
+            },
+            {
+                "word": " stage,",
+                "start": 65.4,
+                "end": 65.78,
+                "word_type": "text"
+            },
+            {
+                "word": " and",
+                "start": 66,
+                "end": 66.66,
+                "word_type": "text"
+            },
+            {
+                "word": " finally,",
+                "start": 66.66,
+                "end": 67.14,
+                "word_type": "text"
+            },
+            {
+                "word": " grinding",
+                "start": 67.3,
+                "end": 68.04,
+                "word_type": "text"
+            },
+            {
+                "word": " the",
+                "start": 68.04,
+                "end": 68.38,
+                "word_type": "text"
+            },
+            {
+                "word": " clinker",
+                "start": 68.38,
+                "end": 68.78,
+                "word_type": "text"
+            },
+            {
+                "word": " into",
+                "start": 69,
+                "end": 69.3,
+                "word_type": "text"
+            },
+            {
+                "word": " cement.",
+                "start": 69.3,
+                "end": 69.66,
+                "word_type": "text"
+            },
+            {
+                "id": "57ce8a47-6260-4aa2-a2f5-c8afcdb50e30",
+                "text": " this",
+                "start": 69.64,
+                "end": 70.52,
+                "segment_id": "11"
+            },
+            {
+                "id": "de49309a-d00c-42fc-a6a2-2f4350d50f47",
+                "text": " video",
+                "start": 70.52,
+                "end": 70.88,
+                "segment_id": "11"
+            },
+            {
+                "id": "25099875-b228-4670-a815-d3e745f3a39a",
+                "text": " will",
+                "start": 70.88,
+                "end": 71.28,
+                "segment_id": "11"
+            },
+            {
+                "id": "a959206b-a765-4768-be99-8d3b062e3921",
+                "text": " focus",
+                "start": 71.28,
+                "end": 71.68,
+                "segment_id": "12"
+            },
+            {
+                "id": "81d45006-c33a-43e9-aa75-4c522b6125c8",
+                "text": " on",
+                "start": 71.68,
+                "end": 71.96,
+                "segment_id": "12"
+            },
+            {
+                "id": "ec14d011-a5e0-4626-9a89-f37bc5ce7d4a",
+                "text": " the",
+                "start": 71.96,
+                "end": 72.12,
+                "segment_id": "12"
+            },
+            {
+                "id": "9dd59287-f65e-4158-8942-3001747eeb8f",
+                "text": " first",
+                "start": 72.12,
+                "end": 72.42,
+                "segment_id": "12"
+            },
+            {
+                "id": "b039e31f-6431-4c4c-b6e5-f2d4cbdda69a",
+                "text": " two",
+                "start": 72.42,
+                "end": 72.76,
+                "segment_id": "12"
+            },
+            {
+                "id": "a5079122-241a-4643-b079-539f973a3ba9",
+                "text": " parts",
+                "start": 72.76,
+                "end": 73.12,
+                "segment_id": "12"
+            },
+            {
+                "id": "a4ff2d51-bf1b-42c3-b978-77e4fbc72ac9",
+                "text": " which",
+                "start": 73.12,
+                "end": 73.96,
+                "segment_id": "12"
+            },
+            {
+                "id": "d53eb726-cf4f-4655-8b38-5da9023ac20f",
+                "text": " together",
+                "start": 73.96,
+                "end": 74.34,
+                "segment_id": "12"
+            },
+            {
+                "id": "76d9eb4d-94a3-4524-9bad-ba8754ba000a",
+                "text": " account",
+                "start": 74.34,
+                "end": 74.9,
+                "segment_id": "12"
+            },
+            {
+                "id": "986e3afa-96d4-412b-9956-6a377e6cb21d",
+                "text": " for",
+                "start": 74.9,
+                "end": 75.24,
+                "segment_id": "12"
+            },
+            {
+                "id": "759e17be-c645-43ca-8e48-1cb70c2084fb",
+                "text": " the",
+                "start": 75.24,
+                "end": 75.4,
+                "segment_id": "12"
+            },
+            {
+                "id": "60acb3ec-7810-439e-8fb7-a0007c94e6b9",
+                "text": " creation",
+                "start": 75.4,
+                "end": 75.74,
+                "segment_id": "12"
+            },
+            {
+                "id": "12e12fb3-535d-4c57-bb81-2b5737076b38",
+                "text": " of",
+                "start": 75.74,
+                "end": 76.1,
+                "segment_id": "12"
+            },
+            {
+                "id": "228bb479-188f-4fa0-afba-9cc866e6f0ff",
+                "text": " clinker",
+                "start": 76.1,
+                "end": 76.44,
+                "segment_id": "12"
+            }
+        ],
+        "visual": {
+            "type": "image",
+            "src": "https://pahppwewbggcchrvxpzg.supabase.co/storage/v1/object/public/interactive_files/images/ee632387-0094-4755-91e9-b0b0683fc27c_image9jpg.jpg?",
+            "title": "Cement Manufacturing Process Diagram",
+            "alt": "Diagram showing the cement manufacturing process with stages like extraction, crushing, grinding, and packaging, alongside ship loading and unloading.",
+            "startTime": 51,
+            "assist_image_id": "776b7506-a535-4dd9-8f11-f0d235194e2c"
+        }
+    },
+    {
+        "startTime": 76.64,
+        "endTime": 103.64,
+        "id": 4,
+        "text": "The very first step is 1) Preparation of the Raw Materials. This is where everything begins. Imagine large quantities of limestone, typically around 80% calcium carbonate, along with clay containing silicon and aluminum, and iron ore. These materials are crushed, ground, and blended in precise proportions to create what is known as raw meal.",
+        "keywords": [
+            {
+                "word": "Preparation of the Raw Materials",
+                "type": "main"
+            },
+            {
+                "word": "raw meal",
+                "type": "Key Terms"
+            },
+            {
+                "word": "80% calcium carbonate",
+                "type": "Callouts"
+            }
+        ],
+        "wordTimestamps": [
+            {
+                "id": "7bd05f25-ed90-40c9-bec1-f955842d25db",
+                "text": " the",
+                "start": 76.44,
+                "end": 77.06,
+                "segment_id": "12"
+            },
+            {
+                "id": "2341c6b0-ca97-4229-af03-4813a8bfc973",
+                "text": " very",
+                "start": 77.06,
+                "end": 77.34,
+                "segment_id": "12"
+            },
+            {
+                "id": "476c657e-70ef-4c06-ab4a-2ca3956b6b95",
+                "text": " first",
+                "start": 77.34,
+                "end": 77.72,
+                "segment_id": "12"
+            },
+            {
+                "id": "34004c86-af19-4b6d-a0a2-a16f27e91e61",
+                "text": " step",
+                "start": 77.72,
+                "end": 78.1,
+                "segment_id": "12"
+            },
+            {
+                "id": "2ce7d2c1-d4eb-40b6-961c-b2fdf110e86c",
+                "text": " is",
+                "start": 78.1,
+                "end": 78.44,
+                "segment_id": "13"
+            },
+            {
+                "id": "975947f0-00bd-4bfb-b416-00137a9f42fa",
+                "text": " one",
+                "start": 78.44,
+                "end": 78.72,
+                "segment_id": "13"
+            },
+            {
+                "id": "280b892b-0cc2-421c-a8ce-693c3c1dff26",
+                "text": " preparation",
+                "start": 78.72,
+                "end": 79.26,
+                "segment_id": "13"
+            },
+            {
+                "id": "aee97a07-e64b-4a10-8aab-2d41f920c245",
+                "text": " of",
+                "start": 79.26,
+                "end": 79.84,
+                "segment_id": "13"
+            },
+            {
+                "id": "250724f9-9b8d-4329-a3ff-0ad8a833aead",
+                "text": " the",
+                "start": 79.84,
+                "end": 79.98,
+                "segment_id": "13"
+            },
+            {
+                "id": "e318c96d-98a3-40f5-84f0-a7b7b345ec17",
+                "text": " raw",
+                "start": 79.98,
+                "end": 80.16,
+                "segment_id": "13"
+            },
+            {
+                "id": "2dd03a4a-b7a9-4c10-a8dc-71e94be5b911",
+                "text": " materials",
+                "start": 80.16,
+                "end": 80.68,
+                "segment_id": "13"
+            },
+            {
+                "id": "bc1b8a01-7eeb-482e-94e4-29df9bf3a253",
+                "text": " this",
+                "start": 80.68,
+                "end": 81.6,
+                "segment_id": "13"
+            },
+            {
+                "id": "bf0c168a-df87-493c-873b-b4579c70f708",
+                "text": " is",
+                "start": 81.6,
+                "end": 81.8,
+                "segment_id": "13"
+            },
+            {
+                "id": "da2dbc61-97e8-44e5-a3c0-7f87ce4765c8",
+                "text": " where",
+                "start": 81.8,
+                "end": 82.04,
+                "segment_id": "13"
+            },
+            {
+                "id": "bc4e4c54-e4a8-43ca-8fc9-b5436714b8bd",
+                "text": " everything",
+                "start": 82.04,
+                "end": 82.64,
+                "segment_id": "13"
+            },
+            {
+                "id": "7d22610a-e26d-429c-a5f0-6646853541de",
+                "text": " begins",
+                "start": 82.64,
+                "end": 83.26,
+                "segment_id": "13"
+            },
+            {
+                "id": "1e33f4b0-fd05-4740-b67c-e64411685257",
+                "text": " imagine",
+                "start": 83.26,
+                "end": 84.12,
+                "segment_id": "13"
+            },
+            {
+                "id": "2265ab2d-b30d-436d-ba40-7f5bb3eccb04",
+                "text": " large",
+                "start": 84.12,
+                "end": 84.8,
+                "segment_id": "13"
+            },
+            {
+                "id": "783b52f9-50c6-4689-a5a4-f7b8a3d2edf7",
+                "text": " quantities",
+                "start": 84.8,
+                "end": 85.46,
+                "segment_id": "13"
+            },
+            {
+                "id": "eceb5ba9-5cce-42a1-b661-9666abe72396",
+                "text": " of",
+                "start": 85.46,
+                "end": 85.88,
+                "segment_id": "14"
+            },
+            {
+                "id": "2d397869-b823-40cb-86a6-8fde60001ea8",
+                "text": " limestone",
+                "start": 85.88,
+                "end": 86.3,
+                "segment_id": "14"
+            },
+            {
+                "id": "2b98e156-2b21-4b9e-84d6-80c9e880d681",
+                "text": " typically",
+                "start": 86.32,
+                "end": 86.8,
+                "segment_id": "15"
+            },
+            {
+                "id": "a296ffe7-ac06-44c9-8ee8-41050fb656dc",
+                "text": " around",
+                "start": 86.8,
+                "end": 87.92,
+                "segment_id": "15"
+            },
+            {
+                "id": "b8163e3e-edb8-4486-a6d2-b40925cee220",
+                "text": " 80",
+                "start": 87.92,
+                "end": 88.46,
+                "segment_id": "15"
+            },
+            {
+                "id": "51a9694f-668d-48ff-8104-c4c25b038f51",
+                "text": " percent",
+                "start": 88.46,
+                "end": 88.9,
+                "segment_id": "15"
+            },
+            {
+                "id": "08260ce2-70cf-4892-a5d5-f90232efa30f",
+                "text": " calcium",
+                "start": 88.9,
+                "end": 89.44,
+                "segment_id": "15"
+            },
+            {
+                "id": "98ee2264-7cd8-4a01-aba7-53682ba03160",
+                "text": " carbonate",
+                "start": 89.44,
+                "end": 90.22,
+                "segment_id": "15"
+            },
+            {
+                "id": "4b73fe01-9957-49e7-814a-2d7dc0283bf8",
+                "text": " along",
+                "start": 90.22,
+                "end": 90.88,
+                "segment_id": "15"
+            },
+            {
+                "id": "873f4bae-ba3c-4c2b-8214-eb94e1beb74d",
+                "text": " with",
+                "start": 90.88,
+                "end": 91.28,
+                "segment_id": "15"
+            },
+            {
+                "id": "6459a56d-867a-41d8-92e4-7ff710f7dbac",
+                "text": " clay",
+                "start": 91.28,
+                "end": 91.54,
+                "segment_id": "15"
+            },
+            {
+                "id": "e1ae7b2e-e4e4-4b4f-aee3-c51424a3b9f7",
+                "text": " containing",
+                "start": 91.54,
+                "end": 92.06,
+                "segment_id": "15"
+            },
+            {
+                "id": "dc45e1dc-e5c2-42ba-8199-45f550a787a9",
+                "text": " silicon",
+                "start": 92.06,
+                "end": 92.72,
+                "segment_id": "15"
+            },
+            {
+                "id": "668e086d-cda5-4943-9f37-aa05e897d24a",
+                "text": " and",
+                "start": 92.72,
+                "end": 93.26,
+                "segment_id": "15"
+            },
+            {
+                "id": "11c898ab-afe0-4be2-8ceb-87b39a67fc62",
+                "text": " aluminum",
+                "start": 93.26,
+                "end": 93.82,
+                "segment_id": "15"
+            },
+            {
+                "id": "96054872-03d4-4c18-baa5-84447d34c215",
+                "text": " and",
+                "start": 93.82,
+                "end": 94.66,
+                "segment_id": "15"
+            },
+            {
+                "id": "b4f24c38-1720-4511-98b8-2d8f2122fda3",
+                "text": " iron",
+                "start": 94.66,
+                "end": 95.22,
+                "segment_id": "15"
+            },
+            {
+                "id": "0f5195f4-386a-4250-9237-325037e01c8d",
+                "text": " ore",
+                "start": 95.22,
+                "end": 95.5,
+                "segment_id": "16"
+            },
+            {
+                "id": "39d393f2-975c-40a9-b2b4-ad9ef55e206b",
+                "text": " these",
+                "start": 95.5,
+                "end": 96.44,
+                "segment_id": "16"
+            },
+            {
+                "id": "86f6906e-3df4-4617-a335-e57334e0c294",
+                "text": " materials",
+                "start": 96.44,
+                "end": 97.04,
+                "segment_id": "16"
+            },
+            {
+                "id": "1d094d5a-990c-4933-b98b-825f6edeb5c5",
+                "text": " are",
+                "start": 97.04,
+                "end": 97.46,
+                "segment_id": "16"
+            },
+            {
+                "id": "183f4405-a2d1-4aa4-bea4-186bc930eb5e",
+                "text": " crushed",
+                "start": 97.46,
+                "end": 97.96,
+                "segment_id": "16"
+            },
+            {
+                "id": "46d3a93e-44c6-4538-9eea-a907a5cce9de",
+                "text": " ground",
+                "start": 97.96,
+                "end": 98.76,
+                "segment_id": "16"
+            },
+            {
+                "id": "c64e13d9-5513-4695-b185-45b03cee88aa",
+                "text": " and",
+                "start": 98.76,
+                "end": 99.14,
+                "segment_id": "16"
+            },
+            {
+                "id": "01f3a431-412e-4fd7-a2c3-7f2b91153a9d",
+                "text": " blended",
+                "start": 99.14,
+                "end": 99.62,
+                "segment_id": "16"
+            },
+            {
+                "id": "92f404b8-16a8-428f-8c36-de7b9300d4ae",
+                "text": " in",
+                "start": 99.62,
+                "end": 99.84,
+                "segment_id": "16"
+            },
+            {
+                "id": "4943bf69-7d61-495a-9824-67a8128130ea",
+                "text": " precise",
+                "start": 99.84,
+                "end": 100.28,
+                "segment_id": "16"
+            },
+            {
+                "id": "f422627c-ba6c-4fde-be21-c2dec55bd533",
+                "text": " proportions",
+                "start": 100.28,
+                "end": 100.92,
+                "segment_id": "16"
+            },
+            {
+                "id": "8530bf7b-8d8b-4d1a-8e29-120cc5fc5210",
+                "text": " to",
+                "start": 100.92,
+                "end": 101.76,
+                "segment_id": "16"
+            },
+            {
+                "id": "be3ea897-4791-444c-a793-ba0c419261e9",
+                "text": " create",
+                "start": 101.76,
+                "end": 102.08,
+                "segment_id": "16"
+            },
+            {
+                "id": "83bf01ea-48cf-4617-85ec-0dc82917b16b",
+                "text": " what",
+                "start": 102.08,
+                "end": 102.48,
+                "segment_id": "16"
+            },
+            {
+                "id": "5f986965-43bb-43df-a80b-9a0eb597975d",
+                "text": " is",
+                "start": 102.48,
+                "end": 102.62,
+                "segment_id": "16"
+            },
+            {
+                "id": "ffc69be2-82cb-430c-b62a-22654a08bbc5",
+                "text": " known",
+                "start": 102.62,
+                "end": 102.8,
+                "segment_id": "16"
+            },
+            {
+                "id": "e610047a-c617-45e8-9b74-dbca55e5f45f",
+                "text": " as",
+                "start": 102.8,
+                "end": 103.06,
+                "segment_id": "16"
+            },
+            {
+                "id": "2d07ce13-aaa9-4bb0-a25e-e7fcebc4028f",
+                "text": " raw",
+                "start": 103.06,
+                "end": 103.28,
+                "segment_id": "17"
+            },
+            {
+                "id": "395008ae-a30e-451d-af6b-f8fc849537ca",
+                "text": " meal",
+                "start": 103.28,
+                "end": 103.6,
+                "segment_id": "17"
+            }
+        ],
+        "visual": {
+            "type": "image",
+            "src": "https://pahppwewbggcchrvxpzg.supabase.co/storage/v1/object/public/interactive_files/images/24833498-81fe-48f1-919e-5e289bde5022_image8jpg.jpg?",
+            "title": "Pile of Concrete Powder",
+            "alt": "A pile of concrete powder with a ruler beside it for scale, on a white background.",
+            "startTime": 76.64,
+            "assist_image_id": "cc12931e-74cd-4a07-9246-a153d6e0418e"
+        }
+    },
+    {
+        "startTime": 103.6,
+        "endTime": 128.12,
+        "id": 5,
+        "text": "This isn't just about mixing them together; it's about achieving a homogeneous and finely ground mixture. The finer the particles and the more uniform the blend, the better they will react in the kiln. A precondition for producing good clinker, the intermediate product before cement, is the preparation of a suitable and uniform raw meal with good burnability.",
+        "keywords": [
+            {
+                "word": "homogeneous mixture",
+                "type": "main"
+            },
+            {
+                "word": "good burnability",
+                "type": "Key Terms"
+            },
+            {
+                "word": "uniform raw meal",
+                "type": "Callouts"
+            }
+        ],
+        "wordTimestamps": [
+            {
+                "id": "1383edd6-e7de-4375-a15b-9ffb7a7b18b8",
+                "text": " this",
+                "start": 103.6,
+                "end": 104.42,
+                "segment_id": "17"
+            },
+            {
+                "id": "bb9e7ee6-8af2-4659-8bf2-c44e25a89fbe",
+                "text": " isn't",
+                "start": 104.42,
+                "end": 104.78,
+                "segment_id": "17"
+            },
+            {
+                "id": "be180f3c-5fd5-48cb-8141-8946e28b8d3a",
+                "text": " just",
+                "start": 104.78,
+                "end": 104.98,
+                "segment_id": "17"
+            },
+            {
+                "id": "e3899cb1-aeb7-4d08-be7c-9c49b667ee6e",
+                "text": " about",
+                "start": 104.98,
+                "end": 105.36,
+                "segment_id": "17"
+            },
+            {
+                "id": "befabb2a-e0ce-41b7-8cb5-3889fee25a01",
+                "text": " mixing",
+                "start": 105.36,
+                "end": 105.76,
+                "segment_id": "17"
+            },
+            {
+                "id": "69dc0ace-8ecf-4dce-ab53-b927ce946176",
+                "text": " them",
+                "start": 105.76,
+                "end": 105.98,
+                "segment_id": "17"
+            },
+            {
+                "id": "4ffe133c-c93b-4a35-886a-b9fb480901ba",
+                "text": " together",
+                "start": 105.98,
+                "end": 106.32,
+                "segment_id": "17"
+            },
+            {
+                "id": "e343c8dc-c1b9-4b58-b54e-1471bd4ed0d5",
+                "text": " it's",
+                "start": 106.32,
+                "end": 107.12,
+                "segment_id": "17"
+            },
+            {
+                "id": "61b7bc22-dc1b-4151-9e15-26c2fad1e55f",
+                "text": " about",
+                "start": 107.12,
+                "end": 107.32,
+                "segment_id": "17"
+            },
+            {
+                "id": "4929a0ee-8b35-458b-92d5-e11ce69c2a60",
+                "text": " achieving",
+                "start": 107.32,
+                "end": 107.76,
+                "segment_id": "17"
+            },
+            {
+                "id": "9754e949-d862-4341-8e3d-82849273796d",
+                "text": " a",
+                "start": 107.76,
+                "end": 108.08,
+                "segment_id": "17"
+            },
+            {
+                "id": "123b55cc-1405-4865-b41d-535839f7c3b2",
+                "text": " homogeneous",
+                "start": 108.08,
+                "end": 108.58,
+                "segment_id": "17"
+            },
+            {
+                "id": "77b5d189-005f-44e0-9555-f709dfc923cd",
+                "text": " and",
+                "start": 108.86,
+                "end": 109.3,
+                "segment_id": "18"
+            },
+            {
+                "id": "bfcb53a6-cc42-49b0-bdbc-60464eefa0fd",
+                "text": " finely",
+                "start": 109.3,
+                "end": 109.68,
+                "segment_id": "18"
+            },
+            {
+                "id": "8969a4cc-097c-4859-a3b5-fb645d415017",
+                "text": " ground",
+                "start": 109.68,
+                "end": 110.12,
+                "segment_id": "18"
+            },
+            {
+                "id": "86d5269f-8c37-450f-b167-08771f25dd1c",
+                "text": " mixture",
+                "start": 110.12,
+                "end": 110.54,
+                "segment_id": "18"
+            },
+            {
+                "id": "d789fbcf-d9b2-4437-925b-d3b17b566d41",
+                "text": " the",
+                "start": 110.54,
+                "end": 111.42,
+                "segment_id": "18"
+            },
+            {
+                "id": "2448e808-5c79-4cd8-be77-6088fcb30a7f",
+                "text": " finer",
+                "start": 111.42,
+                "end": 111.78,
+                "segment_id": "18"
+            },
+            {
+                "id": "0469078d-262b-4479-a955-03dae95e0113",
+                "text": " the",
+                "start": 111.78,
+                "end": 111.98,
+                "segment_id": "18"
+            },
+            {
+                "id": "0ed79601-8a83-49b3-9c37-1b0b7686c41c",
+                "text": " particles",
+                "start": 111.98,
+                "end": 112.42,
+                "segment_id": "18"
+            },
+            {
+                "id": "2abdfa74-0c14-4e9a-8e72-b315db0a6a0a",
+                "text": " and",
+                "start": 112.42,
+                "end": 112.86,
+                "segment_id": "18"
+            },
+            {
+                "id": "3c91865e-e28f-45e9-bfb4-84af8d6c37cc",
+                "text": " the",
+                "start": 112.86,
+                "end": 113.02,
+                "segment_id": "18"
+            },
+            {
+                "id": "2d2c968c-0561-451c-ab84-c8664d980e42",
+                "text": " more",
+                "start": 113.02,
+                "end": 113.26,
+                "segment_id": "18"
+            },
+            {
+                "id": "e35afc43-fcef-400e-982d-2ec5a5e67226",
+                "text": " uniform",
+                "start": 113.26,
+                "end": 113.8,
+                "segment_id": "18"
+            },
+            {
+                "id": "d041d219-0346-4481-889e-83858fb36ce1",
+                "text": " the",
+                "start": 113.8,
+                "end": 114.08,
+                "segment_id": "18"
+            },
+            {
+                "id": "a29abe1e-08c7-4ea1-9966-2436fb41af10",
+                "text": " blend",
+                "start": 114.08,
+                "end": 114.36,
+                "segment_id": "18"
+            },
+            {
+                "id": "557df4af-4655-48d9-ac85-e43d9cc706c8",
+                "text": " the",
+                "start": 114.36,
+                "end": 115.02,
+                "segment_id": "18"
+            },
+            {
+                "id": "d9c41041-054c-4d5b-b59b-325cbb36babd",
+                "text": " better",
+                "start": 115.02,
+                "end": 115.3,
+                "segment_id": "18"
+            },
+            {
+                "id": "5494b7a5-ed8e-41a0-b31c-6f9b573045c3",
+                "text": " they",
+                "start": 115.3,
+                "end": 115.5,
+                "segment_id": "18"
+            },
+            {
+                "id": "905e63f8-9449-41ad-a2a5-6f2b6aa9a6ee",
+                "text": " will",
+                "start": 115.5,
+                "end": 115.66,
+                "segment_id": "19"
+            },
+            {
+                "id": "ed749b6e-8ac4-4f91-b4f4-d7b8feb21777",
+                "text": " react",
+                "start": 115.66,
+                "end": 116.1,
+                "segment_id": "19"
+            },
+            {
+                "id": "e5a5bb49-16a7-4075-98c7-e39ca355fa2b",
+                "text": " in",
+                "start": 116.1,
+                "end": 116.34,
+                "segment_id": "19"
+            },
+            {
+                "id": "231ddbef-a4ee-4640-bfb1-c72ba9f9eb6c",
+                "text": " the",
+                "start": 116.34,
+                "end": 116.44,
+                "segment_id": "19"
+            },
+            {
+                "id": "d1b8efe7-6cd0-4cb3-92b6-3fa5e332f44c",
+                "text": " kiln",
+                "start": 116.44,
+                "end": 116.8,
+                "segment_id": "19"
+            },
+            {
+                "id": "3faa4207-ba58-400d-87f9-64e0656e3226",
+                "text": " a",
+                "start": 116.8,
+                "end": 117.58,
+                "segment_id": "19"
+            },
+            {
+                "id": "395ae2eb-e25c-4b3b-84e0-8fbbd942144c",
+                "text": " precondition",
+                "start": 117.58,
+                "end": 118.4,
+                "segment_id": "19"
+            },
+            {
+                "id": "03e80024-99f3-40d2-9087-75c65559b0d4",
+                "text": " for",
+                "start": 118.4,
+                "end": 118.7,
+                "segment_id": "19"
+            },
+            {
+                "id": "dbd768e8-e67b-47d0-b0b2-ee7fb85169ef",
+                "text": " producing",
+                "start": 118.7,
+                "end": 119.08,
+                "segment_id": "19"
+            },
+            {
+                "id": "d0e9f95e-f5e5-4ee1-ad8a-a4c82cacc955",
+                "text": " good",
+                "start": 119.08,
+                "end": 119.48,
+                "segment_id": "19"
+            },
+            {
+                "id": "55c91be3-30d2-4055-ab8a-5955285400d8",
+                "text": " clinker",
+                "start": 119.48,
+                "end": 119.92,
+                "segment_id": "19"
+            },
+            {
+                "id": "a717705c-b258-415b-b203-b09226fc8541",
+                "text": " the",
+                "start": 119.92,
+                "end": 120.62,
+                "segment_id": "19"
+            },
+            {
+                "id": "f2cecceb-dc48-48a3-b814-f3e01b5511b0",
+                "text": " intermediate",
+                "start": 120.62,
+                "end": 121.06,
+                "segment_id": "19"
+            },
+            {
+                "id": "5ffbefc0-f5ba-46a9-b24d-fbe25dd9baab",
+                "text": " product",
+                "start": 121.06,
+                "end": 121.66,
+                "segment_id": "19"
+            },
+            {
+                "id": "52013c8e-d736-40b5-8620-5f0610a6a962",
+                "text": " before",
+                "start": 121.66,
+                "end": 122.1,
+                "segment_id": "19"
+            },
+            {
+                "id": "9a46733e-98df-43e1-acc5-6cab4d231536",
+                "text": " cement",
+                "start": 122.1,
+                "end": 122.56,
+                "segment_id": "20"
+            },
+            {
+                "id": "5894f9b2-f1d9-44dd-b25e-1403f96b724c",
+                "text": " is",
+                "start": 122.56,
+                "end": 123.34,
+                "segment_id": "20"
+            },
+            {
+                "id": "bdbc0cc4-079f-4361-81a3-590aa32d78ed",
+                "text": " the",
+                "start": 123.34,
+                "end": 123.44,
+                "segment_id": "20"
+            },
+            {
+                "id": "45d8849a-8b8f-4f68-b080-34a7da2aa4a0",
+                "text": " preparation",
+                "start": 123.44,
+                "end": 123.9,
+                "segment_id": "20"
+            },
+            {
+                "id": "af46b7a1-ee6e-4449-8dc6-9d3d05dbd86e",
+                "text": " of",
+                "start": 123.9,
+                "end": 124.46,
+                "segment_id": "20"
+            },
+            {
+                "id": "299dc2ca-dd54-49c0-bed9-9f6f3c26814d",
+                "text": " a",
+                "start": 124.46,
+                "end": 124.58,
+                "segment_id": "20"
+            },
+            {
+                "id": "aa45fe68-8b57-4d1c-a621-978ba440bc8c",
+                "text": " suitable",
+                "start": 124.58,
+                "end": 124.94,
+                "segment_id": "20"
+            },
+            {
+                "id": "21b38e38-cad3-469b-b641-47450efaeab2",
+                "text": " and",
+                "start": 124.94,
+                "end": 125.34,
+                "segment_id": "20"
+            },
+            {
+                "id": "316598fe-a96d-4acf-bbc2-4529bcf42bb8",
+                "text": " uniform",
+                "start": 125.34,
+                "end": 125.76,
+                "segment_id": "20"
+            },
+            {
+                "id": "cc23cc4a-9a4a-4ac6-9b9b-d35f31628e94",
+                "text": " raw",
+                "start": 125.76,
+                "end": 126.16,
+                "segment_id": "20"
+            },
+            {
+                "id": "c1bbee4f-7cb3-449b-a5b6-3da86e400dec",
+                "text": " meal",
+                "start": 126.16,
+                "end": 126.46,
+                "segment_id": "20"
+            },
+            {
+                "id": "b9e11a31-1f56-4c0c-8a56-e3355406139f",
+                "text": " with",
+                "start": 126.46,
+                "end": 127.2,
+                "segment_id": "20"
+            },
+            {
+                "id": "0deca433-c96d-46a4-9745-4b2b5e54407e",
+                "text": " good",
+                "start": 127.2,
+                "end": 127.54,
+                "segment_id": "20"
+            },
+            {
+                "id": "49755c80-3a43-457c-b1dd-5d1171c3222c",
+                "text": " burnability",
+                "start": 127.54,
+                "end": 128.12,
+                "segment_id": "20"
+            }
+        ],
+        "visual": null
+    },
+    {
+        "startTime": 128.12,
+        "endTime": 175.94,
+        "id": 6,
+        "text": "Burnability refers to how easily the raw meal can be converted into clinker minerals in the kiln. This careful preparation is essential because it directly impacts the efficiency of the burning process and the quality of the final clinker. Once the raw materials are finely prepared, they enter the Pyro Processing stage—the core of clinker production—where major chemical transformations occur under extreme heat, and strict control is essential to ensure quality. It takes roughly 1.6 to 1.5 kilograms of raw materials to produce just 1 kilogram of cement, highlighting the material transformation and energy input involved.",
+        "keywords": [
+            {
+                "word": "Pyro Processing stage",
+                "type": "main"
+            },
+            {
+                "word": "clinker production",
+                "type": "Key Terms"
+            },
+            {
+                "word": "strict control",
+                "type": "Callouts"
+            }
+        ],
+        "wordTimestamps": [
+            {
+                "id": "02f8b56f-5c0f-47e2-aba0-70d606e42fc4",
+                "text": " burnability",
+                "start": 128.12,
+                "end": 129.66,
+                "segment_id": "20"
+            },
+            {
+                "id": "1c36336a-4388-42c7-b4d7-4c69bb89bd9d",
+                "text": " refers",
+                "start": 129.66,
+                "end": 130.28,
+                "segment_id": "20"
+            },
+            {
+                "id": "d63ef262-caa9-41cb-a4a9-00fc7346d789",
+                "text": " to",
+                "start": 130.28,
+                "end": 130.72,
+                "segment_id": "21"
+            },
+            {
+                "id": "b1bd622b-8e61-4f37-9a1b-a9940904f399",
+                "text": " how",
+                "start": 130.72,
+                "end": 131,
+                "segment_id": "21"
+            },
+            {
+                "id": "38c563d1-1199-47eb-8084-32acbadb14fa",
+                "text": " easily",
+                "start": 131,
+                "end": 131.56,
+                "segment_id": "21"
+            },
+            {
+                "id": "1083520f-0e9e-4283-bc0d-723f2e95515a",
+                "text": " the",
+                "start": 131.56,
+                "end": 132.38,
+                "segment_id": "21"
+            },
+            {
+                "id": "1fbc0e18-a697-432a-a092-c38192fa9faa",
+                "text": " raw",
+                "start": 132.38,
+                "end": 132.6,
+                "segment_id": "21"
+            },
+            {
+                "id": "29c7bd04-bdf9-4359-9e12-3c4044a8066b",
+                "text": " meal",
+                "start": 132.6,
+                "end": 132.9,
+                "segment_id": "21"
+            },
+            {
+                "id": "2269f9b5-7c03-4de5-964d-6d49245181b0",
+                "text": " can",
+                "start": 132.9,
+                "end": 133.2,
+                "segment_id": "21"
+            },
+            {
+                "id": "42eb0cad-868c-4ce6-96b9-57617b78cab9",
+                "text": " be",
+                "start": 133.2,
+                "end": 133.32,
+                "segment_id": "21"
+            },
+            {
+                "id": "fa9d085b-3638-4513-a271-354ab47d8fb6",
+                "text": " converted",
+                "start": 133.32,
+                "end": 133.88,
+                "segment_id": "21"
+            },
+            {
+                "id": "6806216b-8dda-4b7c-a525-48dacf80c2e8",
+                "text": " into",
+                "start": 133.88,
+                "end": 134.36,
+                "segment_id": "21"
+            },
+            {
+                "id": "3cec8314-98b1-4a9e-a285-1e825500c93a",
+                "text": " clinker",
+                "start": 134.36,
+                "end": 134.78,
+                "segment_id": "21"
+            },
+            {
+                "id": "54f19309-6095-4df3-ad5e-9a1649cdc728",
+                "text": " minerals",
+                "start": 134.78,
+                "end": 135.24,
+                "segment_id": "21"
+            },
+            {
+                "id": "e20bf7ba-0490-4c98-848c-a14d8ce10a79",
+                "text": " in",
+                "start": 135.24,
+                "end": 135.58,
+                "segment_id": "21"
+            },
+            {
+                "id": "70b25d7a-cba1-4eb2-87d3-2002f1d80779",
+                "text": " the",
+                "start": 135.58,
+                "end": 135.68,
+                "segment_id": "21"
+            },
+            {
+                "id": "3a6dbd49-c704-4a05-8b7f-4fe49de1de88",
+                "text": " kiln",
+                "start": 135.68,
+                "end": 136.06,
+                "segment_id": "21"
+            },
+            {
+                "id": "60ab0280-e2f3-411d-8f64-1019d62043a6",
+                "text": " this",
+                "start": 136.06,
+                "end": 137.1,
+                "segment_id": "21"
+            },
+            {
+                "id": "c5163ce6-50e6-40dd-b365-6a55cfb99fb4",
+                "text": " careful",
+                "start": 137.1,
+                "end": 137.56,
+                "segment_id": "21"
+            },
+            {
+                "id": "77750928-c42f-4473-83fa-e3d87347fcd3",
+                "text": " preparation",
+                "start": 137.56,
+                "end": 138.06,
+                "segment_id": "22"
+            },
+            {
+                "id": "bbd0c83e-550f-4ed4-8e3b-473e0f592ef9",
+                "text": " is",
+                "start": 138.06,
+                "end": 138.64,
+                "segment_id": "22"
+            },
+            {
+                "id": "9ad9adf6-bba2-405d-a0a5-eca499072fc5",
+                "text": " essential",
+                "start": 138.64,
+                "end": 139.04,
+                "segment_id": "22"
+            },
+            {
+                "id": "3c5669e8-7211-40b1-ad83-cd8e57082b49",
+                "text": " because",
+                "start": 139.04,
+                "end": 139.84,
+                "segment_id": "22"
+            },
+            {
+                "id": "28e6cb18-7606-4758-ab59-59c0106c4b2e",
+                "text": " it",
+                "start": 139.84,
+                "end": 140.2,
+                "segment_id": "22"
+            },
+            {
+                "id": "f7d48e14-40ce-419b-a594-a018dcff0eb1",
+                "text": " directly",
+                "start": 140.2,
+                "end": 140.56,
+                "segment_id": "22"
+            },
+            {
+                "id": "fc1d16a0-0e96-4290-b4fa-36cd5ba8901c",
+                "text": " impacts",
+                "start": 140.56,
+                "end": 141.12,
+                "segment_id": "22"
+            },
+            {
+                "id": "e669323c-10dd-4049-97d1-e5431c82d601",
+                "text": " the",
+                "start": 141.12,
+                "end": 141.54,
+                "segment_id": "22"
+            },
+            {
+                "id": "e0335d09-ea93-4af1-90ec-52c1db70256e",
+                "text": " efficiency",
+                "start": 141.54,
+                "end": 141.92,
+                "segment_id": "22"
+            },
+            {
+                "id": "f25e92c8-a829-48c6-ae1e-585dca516bed",
+                "text": " of",
+                "start": 141.92,
+                "end": 142.44,
+                "segment_id": "22"
+            },
+            {
+                "id": "22c8f865-b4cc-40a4-92ba-63da19d8c005",
+                "text": " the",
+                "start": 142.44,
+                "end": 142.58,
+                "segment_id": "22"
+            },
+            {
+                "id": "70499077-c502-4960-9e59-639311eb34d1",
+                "text": " burning",
+                "start": 142.58,
+                "end": 142.92,
+                "segment_id": "22"
+            },
+            {
+                "id": "f5925b24-b431-4308-a915-52554563b414",
+                "text": " process",
+                "start": 142.92,
+                "end": 143.3,
+                "segment_id": "22"
+            },
+            {
+                "id": "2e859a8f-0c4c-44b0-895d-a5171c2c3fad",
+                "text": " and",
+                "start": 143.3,
+                "end": 143.84,
+                "segment_id": "22"
+            },
+            {
+                "id": "d290d282-91c5-493f-a98c-9f38b41a731e",
+                "text": " the",
+                "start": 143.84,
+                "end": 143.94,
+                "segment_id": "23"
+            },
+            {
+                "id": "289d87dd-305e-4eae-9a30-7de3cfbc410c",
+                "text": " quality",
+                "start": 143.94,
+                "end": 144.3,
+                "segment_id": "23"
+            },
+            {
+                "id": "217183a3-55e1-4266-aeb7-6b5a1be6f7c2",
+                "text": " of",
+                "start": 144.3,
+                "end": 144.62,
+                "segment_id": "23"
+            },
+            {
+                "id": "a63bfa13-6cfa-49e8-8e9b-40ed36e0e380",
+                "text": " the",
+                "start": 144.62,
+                "end": 144.74,
+                "segment_id": "23"
+            },
+            {
+                "id": "15e732f7-f7a4-4270-9359-036e9d141e63",
+                "text": " final",
+                "start": 144.74,
+                "end": 145.1,
+                "segment_id": "23"
+            },
+            {
+                "id": "43d842da-6848-473c-9fd2-9f20d7e1ebb4",
+                "text": " clinking",
+                "start": 145.1,
+                "end": 145.48,
+                "segment_id": "23"
+            },
+            {
+                "id": "2fd4a2a0-ccd1-46a5-9583-8f8aa415eb08",
+                "text": " clinker",
+                "start": 145.48,
+                "end": 145.82,
+                "segment_id": "24"
+            },
+            {
+                "id": "2d65ff5a-0742-4878-887c-3a8258cb9ea9",
+                "text": " once",
+                "start": 145.82,
+                "end": 146.12,
+                "segment_id": "24"
+            },
+            {
+                "id": "bd61fd3b-c70e-4c13-8079-34813ed2722c",
+                "text": " the",
+                "start": 146.12,
+                "end": 146.68,
+                "segment_id": "24"
+            },
+            {
+                "id": "1202b18b-bcd8-4fc9-b2e6-ad7d11e2e2ea",
+                "text": " raw",
+                "start": 146.68,
+                "end": 146.8,
+                "segment_id": "24"
+            },
+            {
+                "id": "fe114ecc-2d52-4f8d-8c7b-ddc16e1aa7a5",
+                "text": " materials",
+                "start": 146.8,
+                "end": 147.42,
+                "segment_id": "24"
+            },
+            {
+                "id": "ba6b00d4-b2fd-4d50-a9a7-c582ae75444b",
+                "text": " are",
+                "start": 147.42,
+                "end": 147.74,
+                "segment_id": "24"
+            },
+            {
+                "id": "ab66d54a-14b9-40cc-8124-5f4a0d1b6295",
+                "text": " finely",
+                "start": 147.74,
+                "end": 148.1,
+                "segment_id": "24"
+            },
+            {
+                "id": "e538733a-d101-4590-bc58-b281e485fae6",
+                "text": " prepared",
+                "start": 148.1,
+                "end": 148.64,
+                "segment_id": "24"
+            },
+            {
+                "id": "fcd8d4a0-c28c-47ae-b640-80c4c786e5cc",
+                "text": " they",
+                "start": 148.64,
+                "end": 149.36,
+                "segment_id": "24"
+            },
+            {
+                "id": "6862c944-3303-41c9-b637-6bb8f7fe64c5",
+                "text": " enter",
+                "start": 149.36,
+                "end": 149.8,
+                "segment_id": "24"
+            },
+            {
+                "id": "efcfd060-a605-4367-bf2e-92539cb3686d",
+                "text": " the",
+                "start": 149.8,
+                "end": 150.06,
+                "segment_id": "24"
+            },
+            {
+                "id": "700c5bf9-fb8d-4cad-b1a5-d7ff75f4eda9",
+                "text": " pyro",
+                "start": 150.06,
+                "end": 150.44,
+                "segment_id": "24"
+            },
+            {
+                "id": "2ff821bd-0ba6-4f13-96ee-676d7ce883f4",
+                "text": " processing",
+                "start": 150.44,
+                "end": 150.92,
+                "segment_id": "24"
+            },
+            {
+                "id": "6c032d9e-c90d-4254-8e86-664afb5dac19",
+                "text": " stage",
+                "start": 150.92,
+                "end": 151.4,
+                "segment_id": "24"
+            },
+            {
+                "id": "64d4dbb2-b0c8-47e9-bca3-c534c1265562",
+                "text": " the",
+                "start": 151.4,
+                "end": 152.32,
+                "segment_id": "24"
+            },
+            {
+                "id": "4eaec41d-9880-44bd-afd7-034b743a0bd7",
+                "text": " core",
+                "start": 152.32,
+                "end": 152.7,
+                "segment_id": "24"
+            },
+            {
+                "id": "4c126a7b-ded5-4273-94de-82d188285195",
+                "text": " of",
+                "start": 152.7,
+                "end": 153,
+                "segment_id": "24"
+            },
+            {
+                "id": "06b4c2b0-ef0c-440b-a0f9-76436c0cf913",
+                "text": " clinker",
+                "start": 153,
+                "end": 153.38,
+                "segment_id": "25"
+            },
+            {
+                "id": "da734ef3-91a1-4ee6-a38f-3a74754a3e80",
+                "text": " production",
+                "start": 153.38,
+                "end": 153.78,
+                "segment_id": "25"
+            },
+            {
+                "id": "26bfe355-a386-4b1e-83b3-dcc35eff917a",
+                "text": " where",
+                "start": 153.78,
+                "end": 154.66,
+                "segment_id": "25"
+            },
+            {
+                "id": "b916dfda-a8fd-4a8e-bd78-64caa5200c95",
+                "text": " major",
+                "start": 154.66,
+                "end": 155.04,
+                "segment_id": "25"
+            },
+            {
+                "id": "ce43efbc-5b05-4525-99e7-8becaabd0ae5",
+                "text": " chemical",
+                "start": 155.04,
+                "end": 155.6,
+                "segment_id": "25"
+            },
+            {
+                "id": "006b6ad6-4f72-4845-ac1b-ad435f08c7b0",
+                "text": " transformations",
+                "start": 155.6,
+                "end": 156.36,
+                "segment_id": "25"
+            },
+            {
+                "id": "7a1e7ca4-24e1-4fa8-a342-f07cef6d59b8",
+                "text": " occur",
+                "start": 156.36,
+                "end": 157.02,
+                "segment_id": "25"
+            },
+            {
+                "id": "62aded4c-c39d-4ebe-8705-26fa3221d679",
+                "text": " under",
+                "start": 157.02,
+                "end": 157.74,
+                "segment_id": "25"
+            },
+            {
+                "id": "d8867d0a-83fe-4f83-8c7d-0ab47df34a67",
+                "text": " extreme",
+                "start": 157.74,
+                "end": 158.4,
+                "segment_id": "25"
+            },
+            {
+                "id": "aa76650e-f714-44da-9c06-09e4fa20017c",
+                "text": " heat",
+                "start": 158.4,
+                "end": 158.86,
+                "segment_id": "25"
+            },
+            {
+                "id": "40c7b040-41b0-4f11-954d-b91379e60a75",
+                "text": " and",
+                "start": 158.86,
+                "end": 159.68,
+                "segment_id": "25"
+            },
+            {
+                "id": "16e2d71f-1888-4642-9cdc-a58dfd30adb3",
+                "text": " strict",
+                "start": 159.68,
+                "end": 160.1,
+                "segment_id": "26"
+            },
+            {
+                "id": "904cca71-a515-464a-93ff-df4a8671cfb3",
+                "text": " control",
+                "start": 160.1,
+                "end": 160.62,
+                "segment_id": "26"
+            },
+            {
+                "id": "2f0c925e-6a56-4dc6-a1f8-9c1bffd09e78",
+                "text": " is",
+                "start": 160.62,
+                "end": 161.14,
+                "segment_id": "26"
+            },
+            {
+                "id": "645f0400-25fb-4c18-8eb4-10dda5ae52bd",
+                "text": " essential",
+                "start": 161.14,
+                "end": 161.62,
+                "segment_id": "26"
+            },
+            {
+                "id": "cc546a65-3d92-4139-a35f-dea5259c87d5",
+                "text": " to",
+                "start": 161.62,
+                "end": 162.3,
+                "segment_id": "26"
+            },
+            {
+                "id": "02c48343-241e-44b3-aafa-41eb8272b9da",
+                "text": " ensure",
+                "start": 162.3,
+                "end": 162.54,
+                "segment_id": "26"
+            },
+            {
+                "id": "f9cadd56-78fc-4dbe-bb1f-433ef6b62568",
+                "text": " quality",
+                "start": 162.54,
+                "end": 163.16,
+                "segment_id": "26"
+            },
+            {
+                "id": "2a2579fb-daa3-4a2f-8d96-2d44bae9744d",
+                "text": " it",
+                "start": 163.16,
+                "end": 163.96,
+                "segment_id": "26"
+            },
+            {
+                "id": "e4a730e1-9956-4230-a224-5ef86da0b700",
+                "text": " takes",
+                "start": 163.96,
+                "end": 164.3,
+                "segment_id": "26"
+            },
+            {
+                "id": "acd76c08-f034-448a-8d41-64331265ea4a",
+                "text": " roughly",
+                "start": 164.3,
+                "end": 164.76,
+                "segment_id": "26"
+            },
+            {
+                "id": "392583d8-6f02-4059-b89e-2580d7e69956",
+                "text": " 1",
+                "start": 164.76,
+                "end": 165.08,
+                "segment_id": "26"
+            },
+            {
+                "id": "d115f1ef-34cf-41dd-96d2-197ca8dc25b5",
+                "text": ".6",
+                "start": 165.08,
+                "end": 165.96,
+                "segment_id": "26"
+            },
+            {
+                "id": "4f9a6ca4-d404-4e98-af49-1b3f41cae658",
+                "text": " to",
+                "start": 165.96,
+                "end": 166.24,
+                "segment_id": "26"
+            },
+            {
+                "id": "b5471b7a-0afe-4d67-a45e-983df2ad61d7",
+                "text": " 1",
+                "start": 166.24,
+                "end": 166.42,
+                "segment_id": "26"
+            },
+            {
+                "id": "70af0453-4f68-45ae-8eb7-197b6ed70bd1",
+                "text": ".5",
+                "start": 166.42,
+                "end": 167.14,
+                "segment_id": "26"
+            },
+            {
+                "id": "2ac661f2-5a00-4166-a187-2da3af8d49f3",
+                "text": " kilograms",
+                "start": 167.14,
+                "end": 167.5,
+                "segment_id": "26"
+            },
+            {
+                "id": "38ad4dd4-8261-4db6-a8ed-3e581d2eb8f7",
+                "text": " of",
+                "start": 167.5,
+                "end": 168.02,
+                "segment_id": "26"
+            },
+            {
+                "id": "a5186696-e1c0-4575-859e-65d1093e3423",
+                "text": " raw",
+                "start": 168.02,
+                "end": 168.24,
+                "segment_id": "26"
+            },
+            {
+                "id": "e4a4990c-9442-4094-aa3b-62a8c545c8f3",
+                "text": " materials",
+                "start": 168.24,
+                "end": 168.74,
+                "segment_id": "26"
+            },
+            {
+                "id": "abc48c24-6543-4474-99da-8559ab1ae7e7",
+                "text": " to",
+                "start": 168.74,
+                "end": 169.38,
+                "segment_id": "27"
+            },
+            {
+                "id": "b12e58a2-fa1f-4d03-a0d4-57b60d046a19",
+                "text": " produce",
+                "start": 169.38,
+                "end": 169.66,
+                "segment_id": "27"
+            },
+            {
+                "id": "f0b65540-5209-4f63-90f3-de452b4053e0",
+                "text": " just",
+                "start": 169.66,
+                "end": 170.02,
+                "segment_id": "27"
+            },
+            {
+                "id": "5cbcabca-213b-4a93-8a96-56772c0c15eb",
+                "text": " one",
+                "start": 170.02,
+                "end": 170.42,
+                "segment_id": "27"
+            },
+            {
+                "id": "4433d483-98f8-4963-afef-4dd6c69e5ed9",
+                "text": " kilogram",
+                "start": 170.42,
+                "end": 170.94,
+                "segment_id": "27"
+            },
+            {
+                "id": "bfe6decf-8b9e-4043-b2e7-41c09e5a493b",
+                "text": " of",
+                "start": 170.94,
+                "end": 171.38,
+                "segment_id": "27"
+            },
+            {
+                "id": "36a23e78-d5bf-4eb6-ae2e-e012bbcf5c26",
+                "text": " cement",
+                "start": 171.38,
+                "end": 171.7,
+                "segment_id": "27"
+            },
+            {
+                "id": "3a87be22-1f10-452f-a43b-3fa17c476565",
+                "text": " highlighting",
+                "start": 171.7,
+                "end": 172.64,
+                "segment_id": "27"
+            },
+            {
+                "id": "0511f7c5-b65b-4fa4-9bb2-a7f5fd5b0a47",
+                "text": " the",
+                "start": 172.64,
+                "end": 173.04,
+                "segment_id": "27"
+            },
+            {
+                "id": "a105df97-93e1-4bbb-a831-4b33c729545b",
+                "text": " material",
+                "start": 173.04,
+                "end": 173.38,
+                "segment_id": "27"
+            },
+            {
+                "id": "3dbfba59-6d66-4c64-b772-a7618e1fb9d9",
+                "text": " transformation",
+                "start": 173.38,
+                "end": 174.02,
+                "segment_id": "27"
+            },
+            {
+                "id": "8731ebf1-66f9-4c74-91a5-3cd2a03ceb7f",
+                "text": " and",
+                "start": 174.02,
+                "end": 174.64,
+                "segment_id": "27"
+            },
+            {
+                "id": "d2d61db6-a4a4-4834-8399-caf5b6b3dc1f",
+                "text": " energy",
+                "start": 174.64,
+                "end": 175.04,
+                "segment_id": "27"
+            },
+            {
+                "id": "726ef313-1acd-4850-a5cd-9d937c0fa5df",
+                "text": " output",
+                "start": 175.48,
+                "end": 175.58,
+                "segment_id": "28"
+            },
+            {
+                "id": "aa3faf1b-85e6-458f-8e9b-6dada386e28d",
+                "text": " involved",
+                "start": 175.58,
+                "end": 175.94,
+                "segment_id": "28"
+            }
+        ],
+        "visual": {
+            "type": "image",
+            "src": "http://feeco.com/wp-content/uploads/2015/09/Rotary-Kiln-Components-2-1024x628.jpg",
+            "title": "Industrial Kiln Cross-Section",
+            "alt": "Cross-sectional view of an industrial rotary kiln showing interior process with materials being processed through heat treatment.",
+            "startTime": 145.92,
+            "assist_image_id": "556b5ec8-14fe-4a30-90be-435df9b99446"
+        }
+    },
+    {
+        "startTime": 175.94,
+        "endTime": 210.2,
+        "id": 7,
+        "text": "The pyro-processing begins with 2.1) Preheating/Calcination. The raw meal first enters a preheater tower, where it is subjected to temperatures of approximately 800 to 900 degrees Celsius. This phase is relatively quick, with the material spending about one minute here. The primary functions of preheating are, as the name suggests, to preheat the raw meal before it enters the main kiln, significantly improving energy efficiency.",
+        "keywords": [
+            {
+                "word": "Preheating/Calcination",
+                "type": "main"
+            },
+            {
+                "word": "preheater tower",
+                "type": "Key Terms"
+            },
+            {
+                "word": "energy efficiency",
+                "type": "Callouts"
+            }
+        ],
+        "wordTimestamps": [
+            {
+                "id": "da4d498f-4bd9-4f3c-8dee-a957c6cb3a40",
+                "text": " the",
+                "start": 175.94,
+                "end": 176.7,
+                "segment_id": "28"
+            },
+            {
+                "id": "820b5586-9663-4a38-929e-28c56cded190",
+                "text": " pyro",
+                "start": 176.7,
+                "end": 177.12,
+                "segment_id": "28"
+            },
+            {
+                "id": "2b512d24-758d-4c92-9ebf-4c437a376abe",
+                "text": " processing",
+                "start": 177.12,
+                "end": 177.58,
+                "segment_id": "28"
+            },
+            {
+                "id": "33ec146c-5ce4-4d80-9c88-5c23b9b72243",
+                "text": " begins",
+                "start": 177.58,
+                "end": 178.1,
+                "segment_id": "28"
+            },
+            {
+                "id": "7f2b0703-c3b5-48b9-a8ea-acafe250281b",
+                "text": " with",
+                "start": 178.1,
+                "end": 178.6,
+                "segment_id": "28"
+            },
+            {
+                "id": "cf3fe283-99b0-4c38-b8e0-0c72065e9221",
+                "text": " 2",
+                "start": 178.6,
+                "end": 178.82,
+                "segment_id": "28"
+            },
+            {
+                "id": "6ee343fb-ec06-47f1-9d98-9fc256a1db95",
+                "text": ".1",
+                "start": 178.82,
+                "end": 179.38,
+                "segment_id": "28"
+            },
+            {
+                "id": "5adb6274-de8b-4cac-a302-df5d75f79e9f",
+                "text": " preheating",
+                "start": 179.38,
+                "end": 181.5,
+                "segment_id": "28"
+            },
+            {
+                "id": "fdb78b3c-d386-4c62-9c4c-e66ab3689b5e",
+                "text": " slash",
+                "start": 181.5,
+                "end": 181.78,
+                "segment_id": "28"
+            },
+            {
+                "id": "2ecefe50-3c75-4d20-a440-30599a4e9636",
+                "text": " calcination",
+                "start": 181.78,
+                "end": 182.6,
+                "segment_id": "28"
+            },
+            {
+                "id": "f26469d0-87b1-4427-8397-039a3bb9d4e8",
+                "text": " the",
+                "start": 182.6,
+                "end": 183.88,
+                "segment_id": "28"
+            },
+            {
+                "id": "d00a3740-61d3-4a46-87b7-e2d8a079cd89",
+                "text": " raw",
+                "start": 183.88,
+                "end": 184.1,
+                "segment_id": "28"
+            },
+            {
+                "id": "7e13c335-4877-42dd-9311-628b056fae68",
+                "text": " meal",
+                "start": 184.1,
+                "end": 184.42,
+                "segment_id": "28"
+            },
+            {
+                "id": "251ae1a2-181b-4c6f-a25e-a01ba589127a",
+                "text": " first",
+                "start": 184.42,
+                "end": 184.82,
+                "segment_id": "28"
+            },
+            {
+                "id": "ae30eff3-4623-4547-b7f1-d80a6fbcef00",
+                "text": " enters",
+                "start": 184.82,
+                "end": 185.4,
+                "segment_id": "29"
+            },
+            {
+                "id": "aaa3b061-3d8e-4bea-80c0-2d386a0ef653",
+                "text": " a",
+                "start": 185.4,
+                "end": 185.62,
+                "segment_id": "29"
+            },
+            {
+                "id": "88d3feeb-b7d7-4890-97f1-393d97839b47",
+                "text": " preheater",
+                "start": 185.62,
+                "end": 186.22,
+                "segment_id": "29"
+            },
+            {
+                "id": "d44d731a-0541-448d-a9b7-c669e79c8030",
+                "text": " tower",
+                "start": 186.22,
+                "end": 186.48,
+                "segment_id": "29"
+            },
+            {
+                "id": "54c6b7cc-99b7-4413-bd4e-ca5ca5092955",
+                "text": " where",
+                "start": 186.48,
+                "end": 187.32,
+                "segment_id": "29"
+            },
+            {
+                "id": "8f5f7a3e-7058-4d08-9503-518af6d2ca00",
+                "text": " it",
+                "start": 187.32,
+                "end": 187.48,
+                "segment_id": "29"
+            },
+            {
+                "id": "462b0e33-c75a-40e2-93a3-b7d82db17ae6",
+                "text": " is",
+                "start": 187.48,
+                "end": 187.62,
+                "segment_id": "29"
+            },
+            {
+                "id": "a75ad7fb-9544-4f7f-be04-9461e7ac50f6",
+                "text": " subjected",
+                "start": 187.62,
+                "end": 187.92,
+                "segment_id": "29"
+            },
+            {
+                "id": "15aad4fa-c611-4cc3-8f14-1ba721857867",
+                "text": " to",
+                "start": 187.92,
+                "end": 188.38,
+                "segment_id": "29"
+            },
+            {
+                "id": "9cabca6a-6796-45a5-8a52-7979c2b6b488",
+                "text": " temperatures",
+                "start": 188.38,
+                "end": 188.86,
+                "segment_id": "29"
+            },
+            {
+                "id": "7f31a849-f657-4be1-aea6-ec324265d0b0",
+                "text": " of",
+                "start": 188.86,
+                "end": 189.2,
+                "segment_id": "29"
+            },
+            {
+                "id": "7a9091e5-1207-4289-b932-563faf6a50f6",
+                "text": " approximately",
+                "start": 189.2,
+                "end": 189.7,
+                "segment_id": "29"
+            },
+            {
+                "id": "cfa2c694-7559-41aa-b1c9-d835e87cc840",
+                "text": " 800",
+                "start": 189.7,
+                "end": 190.42,
+                "segment_id": "29"
+            },
+            {
+                "id": "d832ddbb-c936-4a8a-b7f7-26dbebe4f88c",
+                "text": " to",
+                "start": 190.42,
+                "end": 191,
+                "segment_id": "29"
+            },
+            {
+                "id": "574ece4b-2e3b-4ae5-bf50-11e16eeec524",
+                "text": " 900",
+                "start": 191,
+                "end": 191.4,
+                "segment_id": "29"
+            },
+            {
+                "id": "621f1756-395a-4ea6-aedb-eb6dacac7ed7",
+                "text": " degrees",
+                "start": 191.4,
+                "end": 191.9,
+                "segment_id": "29"
+            },
+            {
+                "id": "30b27f98-7abc-4de3-934a-43aaae114b5c",
+                "text": " celsius",
+                "start": 191.9,
+                "end": 192.54,
+                "segment_id": "30"
+            },
+            {
+                "id": "9244db95-0172-421e-a3eb-8cc6cfa5e644",
+                "text": " this",
+                "start": 192.54,
+                "end": 193.64,
+                "segment_id": "30"
+            },
+            {
+                "id": "45d10c15-ab3e-4a53-a339-86373e80a460",
+                "text": " phase",
+                "start": 193.64,
+                "end": 193.96,
+                "segment_id": "30"
+            },
+            {
+                "id": "3417571d-f19e-42ba-97d3-1397f6d1675e",
+                "text": " is",
+                "start": 193.96,
+                "end": 194.32,
+                "segment_id": "30"
+            },
+            {
+                "id": "e74f34ab-c5a4-413f-beb9-e2fd79c8cc83",
+                "text": " relatively",
+                "start": 194.32,
+                "end": 194.74,
+                "segment_id": "30"
+            },
+            {
+                "id": "c4be6ab3-0d15-4094-ae46-dc1b17e129f8",
+                "text": " quick",
+                "start": 194.74,
+                "end": 195.3,
+                "segment_id": "30"
+            },
+            {
+                "id": "9c7eb766-f47e-4464-ba02-4ef515e5122b",
+                "text": " with",
+                "start": 195.3,
+                "end": 195.98,
+                "segment_id": "30"
+            },
+            {
+                "id": "e8a5c059-d3b3-49c7-ac2a-f984628ca352",
+                "text": " the",
+                "start": 195.98,
+                "end": 196.08,
+                "segment_id": "30"
+            },
+            {
+                "id": "e46d7433-8e66-4ed3-9b56-689ab6aecea2",
+                "text": " material",
+                "start": 196.08,
+                "end": 196.5,
+                "segment_id": "30"
+            },
+            {
+                "id": "8165c359-805f-4d61-8e26-0bf756932771",
+                "text": " spending",
+                "start": 196.5,
+                "end": 196.98,
+                "segment_id": "30"
+            },
+            {
+                "id": "9a1a4523-8af4-4f8c-bb98-15e29e81f7db",
+                "text": " about",
+                "start": 196.98,
+                "end": 197.5,
+                "segment_id": "30"
+            },
+            {
+                "id": "bd640bc2-2658-4da1-a875-db7a1ee06ce0",
+                "text": " one",
+                "start": 197.5,
+                "end": 197.86,
+                "segment_id": "30"
+            },
+            {
+                "id": "29cfab95-cecd-48a8-b457-88e6febc363c",
+                "text": " minute",
+                "start": 197.86,
+                "end": 198.2,
+                "segment_id": "30"
+            },
+            {
+                "id": "12661c51-4472-49a5-a75a-40e9f903187a",
+                "text": " here",
+                "start": 198.2,
+                "end": 198.5,
+                "segment_id": "30"
+            },
+            {
+                "id": "840f2abe-d0de-46be-bbd2-4937193c4e36",
+                "text": " the",
+                "start": 198.5,
+                "end": 199.86,
+                "segment_id": "31"
+            },
+            {
+                "id": "832df1a4-0e01-4e71-a616-05fbbcf9d271",
+                "text": " primary",
+                "start": 199.86,
+                "end": 200.28,
+                "segment_id": "31"
+            },
+            {
+                "id": "b6edfba3-bb74-46a2-9b2d-877567fc193d",
+                "text": " functions",
+                "start": 200.28,
+                "end": 200.84,
+                "segment_id": "31"
+            },
+            {
+                "id": "8190a3c2-0eb8-460f-a768-e739ac9dcf85",
+                "text": " of",
+                "start": 200.84,
+                "end": 201.12,
+                "segment_id": "31"
+            },
+            {
+                "id": "bf01078a-156d-441d-a384-6e3c7215a439",
+                "text": " preheating",
+                "start": 201.12,
+                "end": 201.68,
+                "segment_id": "31"
+            },
+            {
+                "id": "fe8bb25a-3fbb-4dfa-b0e3-33089ac2f63a",
+                "text": " are",
+                "start": 201.68,
+                "end": 201.96,
+                "segment_id": "31"
+            },
+            {
+                "id": "0ff60585-b5d0-4c4b-aaaa-2a6f1e8a7969",
+                "text": " as",
+                "start": 201.96,
+                "end": 202.62,
+                "segment_id": "31"
+            },
+            {
+                "id": "164d6b44-ba6d-4715-bbdf-050770bca555",
+                "text": " the",
+                "start": 202.62,
+                "end": 202.76,
+                "segment_id": "31"
+            },
+            {
+                "id": "2013ec16-4f62-4d28-965e-421a2fb07784",
+                "text": " name",
+                "start": 202.76,
+                "end": 203.02,
+                "segment_id": "31"
+            },
+            {
+                "id": "b6651263-329b-47c0-8b65-4ebddf27aae0",
+                "text": " suggests",
+                "start": 203.02,
+                "end": 203.4,
+                "segment_id": "31"
+            },
+            {
+                "id": "da2966d8-3b3b-47bf-b182-f09cc352cfd1",
+                "text": " to",
+                "start": 203.4,
+                "end": 203.76,
+                "segment_id": "32"
+            },
+            {
+                "id": "6cbfe379-c968-4364-9262-fdfc0cb41480",
+                "text": " preheat",
+                "start": 203.76,
+                "end": 204.9,
+                "segment_id": "32"
+            },
+            {
+                "id": "30b1c8e7-ba3a-4c9a-9335-6b2f3c498cf0",
+                "text": " the",
+                "start": 204.9,
+                "end": 205.06,
+                "segment_id": "32"
+            },
+            {
+                "id": "8c4d7d09-40ff-4c0b-afd5-18f521b819dd",
+                "text": " raw",
+                "start": 205.06,
+                "end": 205.28,
+                "segment_id": "32"
+            },
+            {
+                "id": "8b834605-a6a7-4c48-a411-55642b889114",
+                "text": " meal",
+                "start": 205.28,
+                "end": 205.54,
+                "segment_id": "32"
+            },
+            {
+                "id": "ee45db8d-c84a-4647-b683-e8be8b0fdd95",
+                "text": " before",
+                "start": 205.54,
+                "end": 205.98,
+                "segment_id": "32"
+            },
+            {
+                "id": "81987293-54d7-4d4a-876b-e8b9be4bfa23",
+                "text": " it",
+                "start": 205.98,
+                "end": 206.22,
+                "segment_id": "32"
+            },
+            {
+                "id": "b4ac3a49-49b1-4856-86cf-0c7b83e687bf",
+                "text": " enters",
+                "start": 206.22,
+                "end": 206.54,
+                "segment_id": "32"
+            },
+            {
+                "id": "dbefb5b6-6a64-4f8f-87a8-19bf31648a5f",
+                "text": " the",
+                "start": 206.54,
+                "end": 206.72,
+                "segment_id": "32"
+            },
+            {
+                "id": "78d166e1-6662-42a9-bf12-eb3608757d6a",
+                "text": " main",
+                "start": 206.72,
+                "end": 206.98,
+                "segment_id": "32"
+            },
+            {
+                "id": "d0e03aea-aacb-494c-9fd4-56c706701d73",
+                "text": " kiln",
+                "start": 206.98,
+                "end": 207.38,
+                "segment_id": "32"
+            },
+            {
+                "id": "5fc1e189-63cf-478a-9fb6-b99d2361f764",
+                "text": " significantly",
+                "start": 207.38,
+                "end": 208.24,
+                "segment_id": "32"
+            },
+            {
+                "id": "3a8f4039-9e66-49a4-86f3-937be92673cd",
+                "text": " improving",
+                "start": 208.24,
+                "end": 208.92,
+                "segment_id": "32"
+            },
+            {
+                "id": "94da2fc7-f840-41c0-8d3f-629ad504960f",
+                "text": " energy",
+                "start": 208.92,
+                "end": 209.6,
+                "segment_id": "32"
+            },
+            {
+                "id": "98e9ad9e-bb8d-440b-9c1c-39202bcf2302",
+                "text": " efficiency",
+                "start": 209.6,
+                "end": 210.2,
+                "segment_id": "32"
+            }
+        ],
+        "visual": null
+    },
+    {
+        "startTime": 210.54,
+        "endTime": 238.46,
+        "id": 8,
+        "text": "More importantly, it performs calcination, a critical chemical reaction where carbon dioxide (CO2) is driven off from the limestone. The reaction is: Calcium Carbonate (CaCO3) breaks down into Calcium Oxide (CaO) and CO2, plus heat. This release of CO2 is a major contributor to cement's carbon footprint, a topic we touched on earlier.",
+        "keywords": [
+            {
+                "word": "calcination",
+                "type": "main"
+            },
+            {
+                "word": "carbon dioxide",
+                "type": "Key Terms"
+            },
+            {
+                "word": "carbon footprint",
+                "type": "Warnings"
+            }
+        ],
+        "wordTimestamps": [
+            {
+                "id": "44f810f7-3641-4926-81bd-53251bfbf54c",
+                "text": " more",
+                "start": 211.04,
+                "end": 211.48,
+                "segment_id": "33"
+            },
+            {
+                "id": "7f08493b-bf76-4183-85bc-a3e37b185c9c",
+                "text": " importantly",
+                "start": 211.48,
+                "end": 212.08,
+                "segment_id": "33"
+            },
+            {
+                "id": "de6b8a89-0603-46f0-9a80-4ae327a4006f",
+                "text": " it",
+                "start": 212.08,
+                "end": 212.52,
+                "segment_id": "33"
+            },
+            {
+                "id": "133b6f48-bcb3-4281-9d78-da78656ab469",
+                "text": " performs",
+                "start": 212.52,
+                "end": 212.86,
+                "segment_id": "33"
+            },
+            {
+                "id": "b8fb09b8-dfe5-46f5-be05-51ac54633eb2",
+                "text": " calcination",
+                "start": 212.86,
+                "end": 213.62,
+                "segment_id": "33"
+            },
+            {
+                "id": "06188d6f-472a-4150-b5ee-de74f3a8bb6b",
+                "text": " a",
+                "start": 213.62,
+                "end": 214.44,
+                "segment_id": "33"
+            },
+            {
+                "id": "45df85c7-005d-4255-a92a-12838f9bfd00",
+                "text": " critical",
+                "start": 214.44,
+                "end": 214.84,
+                "segment_id": "33"
+            },
+            {
+                "id": "267b4ebd-21d1-412e-a607-2512e0930720",
+                "text": " chemical",
+                "start": 214.84,
+                "end": 215.2,
+                "segment_id": "33"
+            },
+            {
+                "id": "96b3c862-b3af-4d09-9d88-856c4c17525b",
+                "text": " reaction",
+                "start": 215.2,
+                "end": 215.74,
+                "segment_id": "33"
+            },
+            {
+                "id": "1efee526-608f-4149-b813-665ca2bff1f2",
+                "text": " where",
+                "start": 215.74,
+                "end": 216.48,
+                "segment_id": "33"
+            },
+            {
+                "id": "c7b3e2ab-c45c-4ada-93da-bfba5cdb0bb9",
+                "text": " carbon",
+                "start": 216.48,
+                "end": 216.86,
+                "segment_id": "33"
+            },
+            {
+                "id": "4b3266b6-664e-4518-927a-5762278c42a3",
+                "text": " dioxide",
+                "start": 216.86,
+                "end": 217.22,
+                "segment_id": "33"
+            },
+            {
+                "id": "948d7c2b-9b4c-448b-8470-22636b06b928",
+                "text": " co2",
+                "start": 217.88,
+                "end": 218.36,
+                "segment_id": "34"
+            },
+            {
+                "id": "fd6e005a-f331-40c4-a54a-0f40f9f1b1cc",
+                "text": " is",
+                "start": 218.36,
+                "end": 218.98,
+                "segment_id": "34"
+            },
+            {
+                "id": "2a152f77-394c-4e17-9585-39f051700c92",
+                "text": " driven",
+                "start": 218.98,
+                "end": 219.32,
+                "segment_id": "34"
+            },
+            {
+                "id": "4a3ccb1b-b2a7-4a2d-9fc3-b72a16a42eda",
+                "text": " off",
+                "start": 219.32,
+                "end": 219.56,
+                "segment_id": "34"
+            },
+            {
+                "id": "f0d0e510-692b-4200-81ac-cf9cf9e3245c",
+                "text": " from",
+                "start": 219.56,
+                "end": 219.76,
+                "segment_id": "34"
+            },
+            {
+                "id": "11f77839-40fe-4968-9bda-e93da24cf459",
+                "text": " the",
+                "start": 219.76,
+                "end": 219.9,
+                "segment_id": "34"
+            },
+            {
+                "id": "9cf84e01-0093-4533-9a5e-72eb22357479",
+                "text": " limestone",
+                "start": 219.9,
+                "end": 220.3,
+                "segment_id": "34"
+            },
+            {
+                "id": "0a5a5599-3fd1-43f4-8384-f359627a2596",
+                "text": " the",
+                "start": 220.3,
+                "end": 221.1,
+                "segment_id": "34"
+            },
+            {
+                "id": "44823bb8-6995-4e03-803e-64224de57dad",
+                "text": " reaction",
+                "start": 221.1,
+                "end": 221.44,
+                "segment_id": "34"
+            },
+            {
+                "id": "61a3e4eb-242b-43d4-a93b-5bd8ecce571a",
+                "text": " is",
+                "start": 221.44,
+                "end": 221.78,
+                "segment_id": "34"
+            },
+            {
+                "id": "23a6b2b8-fdc7-4da0-94c9-0646b4d2bc2a",
+                "text": " calcium",
+                "start": 221.78,
+                "end": 222.6,
+                "segment_id": "34"
+            },
+            {
+                "id": "8e50566a-cd6e-4396-9347-3070f0943ce9",
+                "text": " carbonate",
+                "start": 222.6,
+                "end": 223.3,
+                "segment_id": "34"
+            },
+            {
+                "id": "5aeeb1c3-0a15-45ca-b9f2-1f4f13386698",
+                "text": " caco3",
+                "start": 223.3,
+                "end": 224.52,
+                "segment_id": "34"
+            },
+            {
+                "id": "01696a0a-99c5-4330-a635-390f8073c264",
+                "text": " breaks",
+                "start": 224.88,
+                "end": 225.32,
+                "segment_id": "35"
+            },
+            {
+                "id": "c82c8981-cd7f-46c1-808f-aedd734f5ec6",
+                "text": " down",
+                "start": 225.32,
+                "end": 225.64,
+                "segment_id": "35"
+            },
+            {
+                "id": "66138a2e-fb3e-4079-ac09-74eb4742d852",
+                "text": " into",
+                "start": 225.64,
+                "end": 226,
+                "segment_id": "35"
+            },
+            {
+                "id": "ff72c610-e077-4618-b49e-455bbaee71f2",
+                "text": " calcium",
+                "start": 226,
+                "end": 226.36,
+                "segment_id": "35"
+            },
+            {
+                "id": "34e3e911-b4df-40fc-91c5-461a37929ec6",
+                "text": " oxide",
+                "start": 226.36,
+                "end": 226.86,
+                "segment_id": "35"
+            },
+            {
+                "id": "ccda966b-6a4f-4911-bdc7-4b6f9fc1a216",
+                "text": " cao",
+                "start": 226.86,
+                "end": 228.14,
+                "segment_id": "35"
+            },
+            {
+                "id": "dc8188b1-f475-4f72-875a-394dc759d5c5",
+                "text": " and",
+                "start": 228.14,
+                "end": 228.58,
+                "segment_id": "35"
+            },
+            {
+                "id": "ea73ceec-1a22-4ba4-bacf-999e634e0574",
+                "text": " co2",
+                "start": 228.58,
+                "end": 229.24,
+                "segment_id": "35"
+            },
+            {
+                "id": "0a750baa-624f-4171-8beb-c0e62be49479",
+                "text": " plus",
+                "start": 229.24,
+                "end": 229.92,
+                "segment_id": "35"
+            },
+            {
+                "id": "3aec23d1-9fcd-4420-9cc4-b4b15045da54",
+                "text": " heat",
+                "start": 229.92,
+                "end": 230.26,
+                "segment_id": "35"
+            },
+            {
+                "id": "395238a3-26c7-42aa-8ac4-0ef6785e9783",
+                "text": " this",
+                "start": 230.26,
+                "end": 231.2,
+                "segment_id": "35"
+            },
+            {
+                "id": "c2e88ee4-a6db-4e0b-9366-92e91722a21a",
+                "text": " release",
+                "start": 231.2,
+                "end": 231.68,
+                "segment_id": "35"
+            },
+            {
+                "id": "e8ad76f2-9eb8-441e-b795-4df87a809f3f",
+                "text": " of",
+                "start": 231.68,
+                "end": 232.12,
+                "segment_id": "35"
+            },
+            {
+                "id": "3a24823e-280d-4206-9e8d-10531ae7f8c4",
+                "text": " co2",
+                "start": 232.12,
+                "end": 233.1,
+                "segment_id": "35"
+            },
+            {
+                "id": "00e098f9-ee6c-4e0c-bfc5-790e7ffbe80a",
+                "text": " is",
+                "start": 233.4,
+                "end": 233.7,
+                "segment_id": "36"
+            },
+            {
+                "id": "c90f7926-15f6-4e8d-a280-6ce8c945a79b",
+                "text": " a",
+                "start": 233.7,
+                "end": 233.78,
+                "segment_id": "36"
+            },
+            {
+                "id": "5f4ca60e-7d83-4d07-b856-f6c919546ad6",
+                "text": " major",
+                "start": 233.78,
+                "end": 234.16,
+                "segment_id": "36"
+            },
+            {
+                "id": "b8889556-2ec6-4852-ac84-22c559762c96",
+                "text": " contributor",
+                "start": 234.16,
+                "end": 234.68,
+                "segment_id": "36"
+            },
+            {
+                "id": "9ef3aa28-2dec-4fd5-a366-0764148c4271",
+                "text": " to",
+                "start": 234.68,
+                "end": 235.12,
+                "segment_id": "36"
+            },
+            {
+                "id": "8d5018da-015e-477b-929f-aa2adc10acd5",
+                "text": " cement's",
+                "start": 235.12,
+                "end": 235.62,
+                "segment_id": "36"
+            },
+            {
+                "id": "3123fda8-d5aa-49ad-be08-30965662525b",
+                "text": " carbon",
+                "start": 235.62,
+                "end": 235.86,
+                "segment_id": "36"
+            },
+            {
+                "id": "890f316f-6497-4534-a18f-1dcd02dc2639",
+                "text": " footprint",
+                "start": 235.86,
+                "end": 236.32,
+                "segment_id": "36"
+            },
+            {
+                "id": "aee6475c-b4df-4f32-893d-9eb9282b7a69",
+                "text": " a",
+                "start": 236.32,
+                "end": 237.14,
+                "segment_id": "36"
+            },
+            {
+                "id": "58ab24cc-9560-4552-9600-55da1618b810",
+                "text": " topic",
+                "start": 237.14,
+                "end": 237.48,
+                "segment_id": "36"
+            },
+            {
+                "id": "cf049956-65ff-4d97-8685-60c90edb9214",
+                "text": " we",
+                "start": 237.48,
+                "end": 237.68,
+                "segment_id": "36"
+            },
+            {
+                "id": "a27dd0cd-05b3-4661-a578-dae89fbcbe84",
+                "text": " touched",
+                "start": 237.68,
+                "end": 237.9,
+                "segment_id": "36"
+            },
+            {
+                "id": "449295f9-b4f6-4591-9ec6-196191dd3eb3",
+                "text": " on",
+                "start": 237.9,
+                "end": 238.16,
+                "segment_id": "36"
+            },
+            {
+                "id": "4b664e8e-ec8e-4385-94f2-d34bfb48f68a",
+                "text": " earlier",
+                "start": 238.16,
+                "end": 238.46,
+                "segment_id": "36"
+            }
+        ],
+        "visual": {
+            "type": "image",
+            "src": "https://pahppwewbggcchrvxpzg.supabase.co/storage/v1/object/public/interactive_files/images/28d99799-aa01-4111-81f9-c56fff528e25_image1jpg.jpg?",
+            "title": "Clinker Close-Up",
+            "alt": "A pile of dark gray cement clinkers on a white background.",
+            "startTime": 210.54,
+            "assist_image_id": "b6859729-c1c8-4827-8bf6-afb64f559d9e"
+        }
+    },
+    {
+        "startTime": 238.46,
+        "endTime": 264.88,
+        "id": 9,
+        "text": "After calcination, the preheated and calcined raw meal moves into the Kiln Burning stage, specifically a large, rotating rotary kiln. This is where the temperature reaches its peak, approximately 1450 degrees Celsius, Here, the material spends about 30 minutes. The primary function of kiln burning is to produce active cement clinker minerals.",
+        "keywords": [
+            {
+                "word": "Kiln Burning stage",
+                "type": "main"
+            },
+            {
+                "word": "rotary kiln",
+                "type": "Key Terms"
+            },
+            {
+                "word": "1450 degrees Celsius",
+                "type": "Callouts"
+            }
+        ],
+        "wordTimestamps": [
+            {
+                "id": "57f86002-61a9-4bf9-8db5-ec9df35f6a55",
+                "text": " after",
+                "start": 238.46,
+                "end": 239.4,
+                "segment_id": "36"
+            },
+            {
+                "id": "67d9bd5f-0100-4199-8f58-f8b060f7237a",
+                "text": " calcination",
+                "start": 239.4,
+                "end": 240.08,
+                "segment_id": "36"
+            },
+            {
+                "id": "7784fa6b-6250-4e72-8556-04dd403b5691",
+                "text": " the",
+                "start": 240.54,
+                "end": 240.92,
+                "segment_id": "37"
+            },
+            {
+                "id": "e5096dcd-b022-462c-942f-5209bd41149a",
+                "text": " preheated",
+                "start": 240.92,
+                "end": 241.56,
+                "segment_id": "37"
+            },
+            {
+                "id": "6def92e9-9b69-4f87-9301-eef56ce9a527",
+                "text": " and",
+                "start": 241.56,
+                "end": 241.72,
+                "segment_id": "37"
+            },
+            {
+                "id": "106d320a-535a-40e8-8bb5-3fe3a5f40f40",
+                "text": " calcined",
+                "start": 241.72,
+                "end": 242.32,
+                "segment_id": "37"
+            },
+            {
+                "id": "90334ee9-4839-4740-972d-3c1c4a98af9c",
+                "text": " raw",
+                "start": 242.32,
+                "end": 242.52,
+                "segment_id": "37"
+            },
+            {
+                "id": "4b34dbea-1fce-4c51-8d88-e53d12e98e4d",
+                "text": " meal",
+                "start": 242.52,
+                "end": 242.76,
+                "segment_id": "37"
+            },
+            {
+                "id": "b4b7dc63-fbb6-49f8-84ea-8f1f7d4c39c5",
+                "text": " moves",
+                "start": 242.76,
+                "end": 243.52,
+                "segment_id": "37"
+            },
+            {
+                "id": "e72f58ef-41ab-44d0-a5bf-f0f10b227e64",
+                "text": " into",
+                "start": 243.52,
+                "end": 243.84,
+                "segment_id": "37"
+            },
+            {
+                "id": "a7e68c31-3d3d-4f15-a6fa-c6a328d2b524",
+                "text": " the",
+                "start": 243.84,
+                "end": 244.1,
+                "segment_id": "37"
+            },
+            {
+                "id": "90eebafd-13ae-4308-ad74-0b4b636e1248",
+                "text": " 2",
+                "start": 244.1,
+                "end": 244.32,
+                "segment_id": "37"
+            },
+            {
+                "id": "b0b4ee52-3cde-4eb9-adb4-b8c8ef33e90b",
+                "text": ".2",
+                "start": 244.32,
+                "end": 245,
+                "segment_id": "37"
+            },
+            {
+                "id": "25ae2079-6908-4b25-9581-114f82213164",
+                "text": " kiln",
+                "start": 245,
+                "end": 245.5,
+                "segment_id": "37"
+            },
+            {
+                "id": "cdf01735-58b2-4658-b5fa-839b23e341cd",
+                "text": " burning",
+                "start": 245.5,
+                "end": 245.8,
+                "segment_id": "37"
+            },
+            {
+                "id": "b9a46a60-b7a6-4a89-b9ee-5273fd6e57e5",
+                "text": " stage",
+                "start": 245.8,
+                "end": 246.2,
+                "segment_id": "37"
+            },
+            {
+                "id": "86def257-6474-4cf9-9c09-bc07d1de4582",
+                "text": " specifically",
+                "start": 246.2,
+                "end": 247.2,
+                "segment_id": "37"
+            },
+            {
+                "id": "c8f21097-fb8a-4890-a928-987a3f6c67b7",
+                "text": " a",
+                "start": 247.2,
+                "end": 247.6,
+                "segment_id": "37"
+            },
+            {
+                "id": "7d1d8f95-8f07-4cb0-85e9-bb5625716dd9",
+                "text": " large",
+                "start": 247.6,
+                "end": 247.94,
+                "segment_id": "37"
+            },
+            {
+                "id": "c42b78ed-7bf9-458e-a017-adb8b47fe0fa",
+                "text": " rotating",
+                "start": 247.94,
+                "end": 248.48,
+                "segment_id": "38"
+            },
+            {
+                "id": "d104213d-5067-48f1-862f-21aee3b41cc6",
+                "text": " rotary",
+                "start": 248.48,
+                "end": 249.04,
+                "segment_id": "38"
+            },
+            {
+                "id": "8e494b0c-ffb3-4c6f-9526-b889a715d650",
+                "text": " kiln",
+                "start": 249.04,
+                "end": 249.58,
+                "segment_id": "38"
+            },
+            {
+                "id": "118a0739-82f4-4a37-af16-0932c8a302b8",
+                "text": " this",
+                "start": 249.58,
+                "end": 250.34,
+                "segment_id": "38"
+            },
+            {
+                "id": "81cce65b-7c71-4d01-a15b-ac9f66d0f526",
+                "text": " is",
+                "start": 250.34,
+                "end": 250.48,
+                "segment_id": "38"
+            },
+            {
+                "id": "41aca52b-087d-4f03-9bbf-d8490c9681a1",
+                "text": " where",
+                "start": 250.48,
+                "end": 250.72,
+                "segment_id": "38"
+            },
+            {
+                "id": "53f05991-0ca6-4b9d-90a0-4b35649539b0",
+                "text": " the",
+                "start": 250.72,
+                "end": 250.88,
+                "segment_id": "38"
+            },
+            {
+                "id": "3508349f-7f8e-4af6-a348-b82e87a80136",
+                "text": " temperature",
+                "start": 250.88,
+                "end": 251.22,
+                "segment_id": "38"
+            },
+            {
+                "id": "9ea3552e-2386-45bd-88fd-cc4066888ecb",
+                "text": " reaches",
+                "start": 251.22,
+                "end": 251.62,
+                "segment_id": "38"
+            },
+            {
+                "id": "98d1e02b-8b5b-4870-8b65-a2f8845a6355",
+                "text": " its",
+                "start": 251.62,
+                "end": 252,
+                "segment_id": "38"
+            },
+            {
+                "id": "9446dc3a-55e9-4de2-8e14-223c5a72ddc0",
+                "text": " peak",
+                "start": 252,
+                "end": 252.26,
+                "segment_id": "38"
+            },
+            {
+                "id": "ed7f4629-cb26-45eb-9f27-e89573d805d3",
+                "text": " approximately",
+                "start": 252.26,
+                "end": 253.2,
+                "segment_id": "38"
+            },
+            {
+                "id": "d966288e-e5db-4fab-966b-95724b0a7190",
+                "text": " 1450",
+                "start": 253.2,
+                "end": 255.32,
+                "segment_id": "38"
+            },
+            {
+                "id": "86ef5594-124b-45a0-ad32-56cd888524cd",
+                "text": " degrees",
+                "start": 255.32,
+                "end": 255.76,
+                "segment_id": "38"
+            },
+            {
+                "id": "c66b7e8b-f6c3-4948-870e-4cfb277a422e",
+                "text": " celsius",
+                "start": 255.76,
+                "end": 256.38,
+                "segment_id": "38"
+            },
+            {
+                "id": "66de332d-a5d2-4661-bd5c-190d0c521b31",
+                "text": " here",
+                "start": 257,
+                "end": 257.38,
+                "segment_id": "39"
+            },
+            {
+                "id": "627e3b12-87b8-4659-8c56-6fe026405f93",
+                "text": " the",
+                "start": 257.38,
+                "end": 257.66,
+                "segment_id": "39"
+            },
+            {
+                "id": "35cb55f1-f67a-4d4c-bf18-38884e3f7b7d",
+                "text": " material",
+                "start": 257.66,
+                "end": 258.1,
+                "segment_id": "39"
+            },
+            {
+                "id": "5f2c1008-7ffc-405c-bc98-e9524d53ad9d",
+                "text": " spends",
+                "start": 258.1,
+                "end": 258.42,
+                "segment_id": "39"
+            },
+            {
+                "id": "c7521b08-f161-452c-8f44-83f183df217e",
+                "text": " about",
+                "start": 258.42,
+                "end": 258.88,
+                "segment_id": "39"
+            },
+            {
+                "id": "8e00e2ef-f303-492c-9be2-b27ede476882",
+                "text": " 30",
+                "start": 258.88,
+                "end": 259.28,
+                "segment_id": "39"
+            },
+            {
+                "id": "13bc2cd4-2653-45c0-8a8d-e71bb5a29bf9",
+                "text": " minutes",
+                "start": 259.28,
+                "end": 259.64,
+                "segment_id": "39"
+            },
+            {
+                "id": "05dbfdc2-4893-48ad-878c-84d957af9eeb",
+                "text": " the",
+                "start": 259.64,
+                "end": 260.5,
+                "segment_id": "39"
+            },
+            {
+                "id": "3f1093e0-0566-4848-8dd7-88e451c51586",
+                "text": " primary",
+                "start": 260.5,
+                "end": 260.82,
+                "segment_id": "39"
+            },
+            {
+                "id": "c62b13a9-e002-4e3f-bb16-9b15e7b4060c",
+                "text": " function",
+                "start": 260.82,
+                "end": 261.3,
+                "segment_id": "39"
+            },
+            {
+                "id": "eda66f60-2c7c-4d74-bd55-46db5c96b8c2",
+                "text": " of",
+                "start": 261.3,
+                "end": 261.56,
+                "segment_id": "39"
+            },
+            {
+                "id": "c839e158-09ba-4693-99cc-d857542374e2",
+                "text": " kiln",
+                "start": 261.56,
+                "end": 261.9,
+                "segment_id": "39"
+            },
+            {
+                "id": "cd3f9ebe-0928-4115-9969-4d2facc55232",
+                "text": " burning",
+                "start": 261.9,
+                "end": 262.18,
+                "segment_id": "39"
+            },
+            {
+                "id": "304ec376-b691-4612-b222-51fc53d72495",
+                "text": " is",
+                "start": 262.18,
+                "end": 262.46,
+                "segment_id": "39"
+            },
+            {
+                "id": "6c3e12bb-c5ce-4678-88ce-70f10336c431",
+                "text": " to",
+                "start": 262.46,
+                "end": 262.62,
+                "segment_id": "39"
+            },
+            {
+                "id": "6a2cee03-ca5a-4ff1-bd0a-7bab796fe03c",
+                "text": " produce",
+                "start": 262.62,
+                "end": 263,
+                "segment_id": "39"
+            },
+            {
+                "id": "c8dbce7c-6bee-4b63-95fb-41e2d0ed1b90",
+                "text": " active",
+                "start": 263.4,
+                "end": 263.62,
+                "segment_id": "40"
+            },
+            {
+                "id": "67a3df3b-a62e-45d8-b060-0e4a6ffe505d",
+                "text": " cement",
+                "start": 263.62,
+                "end": 264,
+                "segment_id": "40"
+            },
+            {
+                "id": "417aee1d-f5ce-4af6-8260-3756f351a369",
+                "text": " clinker",
+                "start": 264,
+                "end": 264.42,
+                "segment_id": "40"
+            },
+            {
+                "id": "6280aa91-105f-4c49-a742-c80a360be6f0",
+                "text": " minerals",
+                "start": 264.42,
+                "end": 264.88,
+                "segment_id": "40"
+            }
+        ],
+        "visual": null
+    },
+    {
+        "startTime": 264.88,
+        "endTime": 305.06,
+        "id": 10,
+        "text": "At these extremely high temperatures, the calcium oxide reacts with the silicon, aluminum, and iron oxides to form new, complex compounds that are the active ingredients of cement. This process is a partial melting, or sintering, of the materials. Finally, the extremely hot clinker exits the kiln and undergoes 2.3) Cooling. The clinker needs to be cooled rapidly This fast cooling serves two crucial functions: first, it stabilizes the important clinker phases and their color, ensuring the desired mineralogical structure is retained.",
+        "keywords": [
+            {
+                "word": "extremely hot clinker",
+                "type": "main"
+            },
+            {
+                "word": "rapidly cooled",
+                "type": "Callouts"
+            },
+            {
+                "word": "mineralogical structure",
+                "type": "Key Terms"
+            }
+        ],
+        "wordTimestamps": [
+            {
+                "id": "aaa93c6f-89af-4273-ac40-d73efe8d8c00",
+                "text": " at",
+                "start": 264.88,
+                "end": 265.72,
+                "segment_id": "40"
+            },
+            {
+                "id": "5e975563-cb9a-4686-9c02-7ffbf1211f73",
+                "text": " these",
+                "start": 265.72,
+                "end": 266,
+                "segment_id": "40"
+            },
+            {
+                "id": "ca3ed167-7a92-4f2d-bc27-df2ab120a882",
+                "text": " extremely",
+                "start": 266,
+                "end": 266.5,
+                "segment_id": "40"
+            },
+            {
+                "id": "9f2b7973-4106-4cc1-9e43-575e3254d007",
+                "text": " high",
+                "start": 266.5,
+                "end": 266.8,
+                "segment_id": "40"
+            },
+            {
+                "id": "0469ba43-9777-4f11-b804-5201836747aa",
+                "text": " temperatures",
+                "start": 266.8,
+                "end": 267.36,
+                "segment_id": "40"
+            },
+            {
+                "id": "d69fb47b-1e3b-4e1c-9d73-f51bd6daef13",
+                "text": " the",
+                "start": 267.36,
+                "end": 267.98,
+                "segment_id": "40"
+            },
+            {
+                "id": "0eac1f38-3ada-4eed-b238-bd5f41b3acb2",
+                "text": " calcium",
+                "start": 267.98,
+                "end": 268.4,
+                "segment_id": "40"
+            },
+            {
+                "id": "7f4716d2-84c9-40a3-a735-af0453d5ac86",
+                "text": " oxide",
+                "start": 268.4,
+                "end": 268.9,
+                "segment_id": "40"
+            },
+            {
+                "id": "0f5d1025-8cdc-49a3-85aa-d57435546eaa",
+                "text": " reacts",
+                "start": 268.9,
+                "end": 269.52,
+                "segment_id": "40"
+            },
+            {
+                "id": "af9586b6-d840-4b26-99ac-7240c8610c28",
+                "text": " with",
+                "start": 269.52,
+                "end": 269.98,
+                "segment_id": "40"
+            },
+            {
+                "id": "30ce81f2-8628-4706-b6b0-01769fc97227",
+                "text": " the",
+                "start": 269.98,
+                "end": 270.12,
+                "segment_id": "41"
+            },
+            {
+                "id": "8f146a6c-0cf2-405a-8dc5-c08f49785484",
+                "text": " silicon",
+                "start": 270.12,
+                "end": 270.5,
+                "segment_id": "41"
+            },
+            {
+                "id": "53432ec3-f52f-4240-a066-9e4aa9a4a1f9",
+                "text": " aluminum",
+                "start": 270.5,
+                "end": 271.38,
+                "segment_id": "41"
+            },
+            {
+                "id": "fdacd654-5430-494f-8b90-b4b6780c68de",
+                "text": " and",
+                "start": 271.38,
+                "end": 272,
+                "segment_id": "41"
+            },
+            {
+                "id": "bd05b5b0-449c-4f42-9738-ee926447d252",
+                "text": " iron",
+                "start": 272,
+                "end": 272.4,
+                "segment_id": "41"
+            },
+            {
+                "id": "95671229-c474-4a11-aff0-b0400a422dc1",
+                "text": " oxides",
+                "start": 272.4,
+                "end": 273.1,
+                "segment_id": "41"
+            },
+            {
+                "id": "af0ca8b2-47d5-4e7e-9a15-e41b3f063458",
+                "text": " to",
+                "start": 273.1,
+                "end": 273.3,
+                "segment_id": "41"
+            },
+            {
+                "id": "08e5dcaa-9a0f-4a98-a21f-9b4498be4faa",
+                "text": " form",
+                "start": 273.3,
+                "end": 273.64,
+                "segment_id": "41"
+            },
+            {
+                "id": "4c57da27-328e-4b44-8c6b-b6585f4117c9",
+                "text": " new",
+                "start": 273.64,
+                "end": 274.1,
+                "segment_id": "41"
+            },
+            {
+                "id": "48212757-46d1-433d-8ab2-64c5671f6616",
+                "text": " complex",
+                "start": 274.1,
+                "end": 275.08,
+                "segment_id": "41"
+            },
+            {
+                "id": "7d16196a-babd-4407-b3ba-dedb036f50bc",
+                "text": " compounds",
+                "start": 275.08,
+                "end": 275.72,
+                "segment_id": "41"
+            },
+            {
+                "id": "7d491267-a42f-4084-a0f0-521b99903f5a",
+                "text": " that",
+                "start": 275.72,
+                "end": 276.48,
+                "segment_id": "41"
+            },
+            {
+                "id": "96223f33-6f0a-4cf6-86a1-5222cfda5d3e",
+                "text": " are",
+                "start": 276.48,
+                "end": 276.64,
+                "segment_id": "41"
+            },
+            {
+                "id": "aedf98ec-4948-4e7b-9911-b6b79eafc80f",
+                "text": " the",
+                "start": 276.64,
+                "end": 276.84,
+                "segment_id": "41"
+            },
+            {
+                "id": "6b765e23-69e3-470f-8cf9-55b17cf24d41",
+                "text": " active",
+                "start": 276.84,
+                "end": 277.3,
+                "segment_id": "41"
+            },
+            {
+                "id": "bf3e0880-cac0-4540-b296-ce37a3af8e5a",
+                "text": " ingredients",
+                "start": 277.3,
+                "end": 277.86,
+                "segment_id": "41"
+            },
+            {
+                "id": "74c1f2cb-8e0f-4650-b0b9-21c7cc975d42",
+                "text": " of",
+                "start": 277.86,
+                "end": 278.14,
+                "segment_id": "42"
+            },
+            {
+                "id": "189c1afa-7b08-4d6b-9b92-70b4d7389e40",
+                "text": " cement",
+                "start": 278.14,
+                "end": 278.46,
+                "segment_id": "42"
+            },
+            {
+                "id": "1e147a8b-e87c-4373-b87b-a3d1c0b9c31e",
+                "text": " this",
+                "start": 278.46,
+                "end": 279.48,
+                "segment_id": "42"
+            },
+            {
+                "id": "fd652c6d-70ae-4952-a416-f2b8e98fbb03",
+                "text": " process",
+                "start": 279.48,
+                "end": 279.94,
+                "segment_id": "42"
+            },
+            {
+                "id": "06f7e3b9-3aaa-41bd-a60c-8c810964d665",
+                "text": " is",
+                "start": 279.94,
+                "end": 280.2,
+                "segment_id": "42"
+            },
+            {
+                "id": "d3458943-a3a2-4843-ab60-64acc2e048de",
+                "text": " a",
+                "start": 280.2,
+                "end": 280.32,
+                "segment_id": "42"
+            },
+            {
+                "id": "1ddc5b9f-86f5-4460-bb37-5285acf16f8e",
+                "text": " partial",
+                "start": 280.32,
+                "end": 280.7,
+                "segment_id": "42"
+            },
+            {
+                "id": "d834da0f-f315-47bf-a617-e5a1b273b5db",
+                "text": " melting",
+                "start": 280.7,
+                "end": 281.26,
+                "segment_id": "42"
+            },
+            {
+                "id": "a026afaf-3942-44c9-b6f8-f4b8dfffe9ae",
+                "text": " or",
+                "start": 281.26,
+                "end": 281.66,
+                "segment_id": "42"
+            },
+            {
+                "id": "9fd7b3fe-4a0f-4103-a42c-2aada927c39a",
+                "text": " sintering",
+                "start": 281.66,
+                "end": 282.16,
+                "segment_id": "42"
+            },
+            {
+                "id": "1f64c0bf-f244-4a22-b6b0-c32bb2941a23",
+                "text": " of",
+                "start": 282.16,
+                "end": 282.54,
+                "segment_id": "42"
+            },
+            {
+                "id": "acc85913-2a2c-4712-b63a-7a9c370a92c5",
+                "text": " the",
+                "start": 282.54,
+                "end": 282.7,
+                "segment_id": "42"
+            },
+            {
+                "id": "0f940c1d-6d4a-4b74-9a00-373efce95f5e",
+                "text": " materials",
+                "start": 282.7,
+                "end": 283.14,
+                "segment_id": "42"
+            },
+            {
+                "id": "13e03c01-9e97-45b3-8fff-7d1bc166781e",
+                "text": " finally",
+                "start": 283.14,
+                "end": 284.06,
+                "segment_id": "42"
+            },
+            {
+                "id": "06d518e2-7409-486d-bd0f-9b1a55e55b07",
+                "text": " the",
+                "start": 284.06,
+                "end": 284.52,
+                "segment_id": "42"
+            },
+            {
+                "id": "dfa0fa1b-fbbd-4c04-99f8-b2a897280dab",
+                "text": " extremely",
+                "start": 284.52,
+                "end": 284.98,
+                "segment_id": "42"
+            },
+            {
+                "id": "76df0d86-e997-4491-87d1-1accbe0971ba",
+                "text": " hot",
+                "start": 284.98,
+                "end": 285.44,
+                "segment_id": "43"
+            },
+            {
+                "id": "24ed24d9-e245-4741-8c63-7bf1e3e7fa86",
+                "text": " clinker",
+                "start": 285.44,
+                "end": 285.88,
+                "segment_id": "43"
+            },
+            {
+                "id": "c95a602e-ee16-4599-93b7-763901a356a1",
+                "text": " exits",
+                "start": 285.88,
+                "end": 286.44,
+                "segment_id": "43"
+            },
+            {
+                "id": "c3f55c93-3337-4cc1-9e3f-4ff4ab1e9bc7",
+                "text": " the",
+                "start": 286.44,
+                "end": 286.7,
+                "segment_id": "43"
+            },
+            {
+                "id": "dcea8810-20cc-482c-ba79-fd923d33cd1e",
+                "text": " kiln",
+                "start": 286.7,
+                "end": 287.12,
+                "segment_id": "43"
+            },
+            {
+                "id": "f0534a8b-1fbc-4fd3-8518-9d9c79a7d0cf",
+                "text": " and",
+                "start": 287.12,
+                "end": 287.54,
+                "segment_id": "43"
+            },
+            {
+                "id": "834359d0-4ffd-486b-b838-0968e1c72eb9",
+                "text": " undergoes",
+                "start": 287.54,
+                "end": 288.32,
+                "segment_id": "43"
+            },
+            {
+                "id": "c940de86-9294-441a-8595-c22a96eba05a",
+                "text": " 2",
+                "start": 288.32,
+                "end": 288.5,
+                "segment_id": "43"
+            },
+            {
+                "id": "2e6d3df7-1bef-4cd1-96fa-ad2402960641",
+                "text": ".3",
+                "start": 288.5,
+                "end": 289.16,
+                "segment_id": "43"
+            },
+            {
+                "id": "6e90ad1a-cdca-4b1a-a341-cb28f28d7ab2",
+                "text": " cooling",
+                "start": 289.16,
+                "end": 289.58,
+                "segment_id": "43"
+            },
+            {
+                "id": "17e5ca63-9ba1-42fd-9988-d086b68425dd",
+                "text": " the",
+                "start": 289.58,
+                "end": 290.48,
+                "segment_id": "43"
+            },
+            {
+                "id": "e8e96061-ed85-43db-b75b-e83bb028db65",
+                "text": " clinker",
+                "start": 290.48,
+                "end": 290.86,
+                "segment_id": "43"
+            },
+            {
+                "id": "188762ff-c1cd-4213-a48c-e525dbf70981",
+                "text": " needs",
+                "start": 290.86,
+                "end": 291.38,
+                "segment_id": "43"
+            },
+            {
+                "id": "71fce954-12b9-42ca-a0d1-eb53ef1db0ed",
+                "text": " to",
+                "start": 291.38,
+                "end": 291.64,
+                "segment_id": "43"
+            },
+            {
+                "id": "89a782e7-1ee5-4a12-bf23-4adb09e364dc",
+                "text": " be",
+                "start": 291.64,
+                "end": 291.78,
+                "segment_id": "43"
+            },
+            {
+                "id": "98fce55e-c28f-471f-a6c0-987a3bd454d5",
+                "text": " cooled",
+                "start": 291.78,
+                "end": 292.06,
+                "segment_id": "43"
+            },
+            {
+                "id": "edeefd9d-e320-4aef-9cb8-38f03dd86bf4",
+                "text": " rapidly",
+                "start": 292.06,
+                "end": 292.6,
+                "segment_id": "43"
+            },
+            {
+                "id": "03eae3a8-b71f-4337-b9c0-0d3f692f9e7e",
+                "text": " this",
+                "start": 293.4,
+                "end": 293.78,
+                "segment_id": "44"
+            },
+            {
+                "id": "5d3a6c2f-25f7-43f9-99e5-c962e2cec01a",
+                "text": " fast",
+                "start": 293.78,
+                "end": 294.16,
+                "segment_id": "44"
+            },
+            {
+                "id": "b5e79709-d807-4dc1-9503-fdef7a479bd6",
+                "text": " cooling",
+                "start": 294.16,
+                "end": 294.56,
+                "segment_id": "44"
+            },
+            {
+                "id": "1b409768-5c43-4757-aaf4-4369facb9fc4",
+                "text": " serves",
+                "start": 294.56,
+                "end": 294.96,
+                "segment_id": "44"
+            },
+            {
+                "id": "4f492c72-edd6-4fd7-8184-5f4527174d58",
+                "text": " two",
+                "start": 294.96,
+                "end": 295.36,
+                "segment_id": "44"
+            },
+            {
+                "id": "a34d768f-7577-47ab-9079-7685364b6db7",
+                "text": " crucial",
+                "start": 295.36,
+                "end": 295.72,
+                "segment_id": "44"
+            },
+            {
+                "id": "5020e4d0-1abb-402e-ae78-72cda89042fd",
+                "text": " functions",
+                "start": 295.72,
+                "end": 296.28,
+                "segment_id": "44"
+            },
+            {
+                "id": "e929c7db-ff01-4879-9705-16c5ceef618c",
+                "text": " first",
+                "start": 296.28,
+                "end": 297.1,
+                "segment_id": "44"
+            },
+            {
+                "id": "9daa161b-f354-445f-897c-dea7dc71a388",
+                "text": " it",
+                "start": 297.1,
+                "end": 297.72,
+                "segment_id": "44"
+            },
+            {
+                "id": "f864bc20-ea2d-446b-a634-c67def818ce9",
+                "text": " stabilizes",
+                "start": 297.72,
+                "end": 298.58,
+                "segment_id": "44"
+            },
+            {
+                "id": "0c2da0d4-9134-4673-b719-addcb4f21a80",
+                "text": " the",
+                "start": 298.58,
+                "end": 298.76,
+                "segment_id": "44"
+            },
+            {
+                "id": "7bb12518-8e5c-4a95-80d7-3b0583f7e537",
+                "text": " important",
+                "start": 298.76,
+                "end": 299.1,
+                "segment_id": "44"
+            },
+            {
+                "id": "af04279f-a835-4ecd-b115-a169a159dd58",
+                "text": " clinker",
+                "start": 299.1,
+                "end": 299.62,
+                "segment_id": "44"
+            },
+            {
+                "id": "ff7e6352-9d9d-4907-a7df-bc8e53028fd9",
+                "text": " phases",
+                "start": 299.62,
+                "end": 300,
+                "segment_id": "44"
+            },
+            {
+                "id": "1c0a3f52-abf0-4606-bd30-603e30b6a5ba",
+                "text": " and",
+                "start": 300,
+                "end": 300.5,
+                "segment_id": "45"
+            },
+            {
+                "id": "bf70336d-7ab2-43fa-ba2e-9213b31fbe97",
+                "text": " their",
+                "start": 300.5,
+                "end": 300.68,
+                "segment_id": "45"
+            },
+            {
+                "id": "ad78de37-ce93-4cd7-bd43-25f0ce498c2d",
+                "text": " color",
+                "start": 300.68,
+                "end": 301.02,
+                "segment_id": "45"
+            },
+            {
+                "id": "1d118de5-d919-4c7a-bf1b-58ec1cb8d2d0",
+                "text": " ensuring",
+                "start": 301.02,
+                "end": 301.86,
+                "segment_id": "45"
+            },
+            {
+                "id": "972d648c-455e-4687-a5a9-ff0d57fda465",
+                "text": " the",
+                "start": 301.86,
+                "end": 302.34,
+                "segment_id": "45"
+            },
+            {
+                "id": "f8703faf-d3f4-445d-a205-cb1c038d242b",
+                "text": " desired",
+                "start": 302.34,
+                "end": 302.76,
+                "segment_id": "45"
+            },
+            {
+                "id": "27b533b8-6ae7-425a-aff1-ed0242c1c291",
+                "text": " mineralogical",
+                "start": 302.76,
+                "end": 303.7,
+                "segment_id": "45"
+            },
+            {
+                "id": "2ba08efe-a131-4b80-a09e-3b43ec0ea940",
+                "text": " structure",
+                "start": 303.7,
+                "end": 304.12,
+                "segment_id": "45"
+            },
+            {
+                "id": "8001ad5a-6fac-4009-aea2-bfc9b6cad96a",
+                "text": " is",
+                "start": 304.12,
+                "end": 304.62,
+                "segment_id": "45"
+            },
+            {
+                "id": "0610912b-822f-406a-ab33-b5f0c8194af7",
+                "text": " retained",
+                "start": 304.62,
+                "end": 305.06,
+                "segment_id": "45"
+            }
+        ],
+        "visual": {
+            "type": "image",
+            "src": "https://pahppwewbggcchrvxpzg.supabase.co/storage/v1/object/public/interactive_files/images/28d99799-aa01-4111-81f9-c56fff528e25_image1jpg.jpg?",
+            "title": "Clinker Close-Up",
+            "alt": "A pile of dark gray cement clinkers on a white background.",
+            "startTime": 283.16,
+            "assist_image_id": "b6859729-c1c8-4827-8bf6-afb64f559d9e"
+        }
+    },
+    {
+        "startTime": 305.06,
+        "endTime": 350.22,
+        "id": 11,
+        "text": "Second, it recaptures some of the intense heat energy, which can then be reused in the preheating stage, improving the overall energy efficiency of the plant. To summarize, the cement production journey from raw materials to clinker involves precise raw meal preparation to ensure uniform burnability, followed by pyro-processing. This includes preheating and calcination at 800-900°C to remove CO2 from limestone, then intense kiln burning at 1450°C to form active clinker minerals, and finally rapid cooling to stabilize these phases and recover heat.",
+        "keywords": [
+            {
+                "word": "precise raw meal preparation",
+                "type": "main"
+            },
+            {
+                "word": "uniform burnability",
+                "type": "Key Terms"
+            },
+            {
+                "word": "recover heat",
+                "type": "Callouts"
+            }
+        ],
+        "wordTimestamps": [
+            {
+                "id": "9c9a5863-6853-47c6-aef8-ecb85255382e",
+                "text": " second",
+                "start": 305.06,
+                "end": 306.44,
+                "segment_id": "45"
+            },
+            {
+                "id": "970ce8ed-41df-4bdf-b7e5-507803e0ed07",
+                "text": " it",
+                "start": 306.44,
+                "end": 307.16,
+                "segment_id": "45"
+            },
+            {
+                "id": "4dbf279e-6e10-4e3c-9d6b-981de252aec3",
+                "text": " recaptures",
+                "start": 307.16,
+                "end": 307.86,
+                "segment_id": "45"
+            },
+            {
+                "id": "c0d4f3d1-df9a-415c-849b-631ab5f1f676",
+                "text": " some",
+                "start": 307.86,
+                "end": 308.18,
+                "segment_id": "45"
+            },
+            {
+                "id": "9ea99e97-5182-44d6-897d-15cf7bd9eda3",
+                "text": " of",
+                "start": 308.18,
+                "end": 308.3,
+                "segment_id": "45"
+            },
+            {
+                "id": "63f299ce-e9ff-4cb6-a273-8c08f7b1f13c",
+                "text": " the",
+                "start": 308.3,
+                "end": 308.44,
+                "segment_id": "46"
+            },
+            {
+                "id": "8f9df9bd-fb65-413e-b6d4-7f99e2a13c90",
+                "text": " intense",
+                "start": 308.44,
+                "end": 308.74,
+                "segment_id": "46"
+            },
+            {
+                "id": "8dcc3cab-a39f-4e19-98eb-c7c6c14ec82c",
+                "text": " heat",
+                "start": 308.74,
+                "end": 309.12,
+                "segment_id": "46"
+            },
+            {
+                "id": "e0f3d183-0216-451d-a6af-2e537ac96452",
+                "text": " energy",
+                "start": 309.12,
+                "end": 309.44,
+                "segment_id": "46"
+            },
+            {
+                "id": "76d43a03-86ea-4ca6-b381-d8ecdec8bc75",
+                "text": " which",
+                "start": 309.44,
+                "end": 310.24,
+                "segment_id": "46"
+            },
+            {
+                "id": "dddef429-c9eb-48f5-b92a-68b3f7998e3a",
+                "text": " can",
+                "start": 310.24,
+                "end": 310.42,
+                "segment_id": "46"
+            },
+            {
+                "id": "7b71b68c-7a58-4789-8cdc-19d97b40e726",
+                "text": " then",
+                "start": 310.42,
+                "end": 310.72,
+                "segment_id": "46"
+            },
+            {
+                "id": "a0f8bc91-1dcc-4cec-a895-8b2dcbe501ca",
+                "text": " be",
+                "start": 310.72,
+                "end": 310.98,
+                "segment_id": "46"
+            },
+            {
+                "id": "587b6670-cf95-4818-a8ef-239df65fe414",
+                "text": " reused",
+                "start": 310.98,
+                "end": 311.52,
+                "segment_id": "46"
+            },
+            {
+                "id": "eade56ab-d1c6-461d-8200-f34d93af00df",
+                "text": " in",
+                "start": 311.52,
+                "end": 311.72,
+                "segment_id": "46"
+            },
+            {
+                "id": "60656fd2-358b-461e-90a1-c1e61fab6429",
+                "text": " the",
+                "start": 311.72,
+                "end": 311.84,
+                "segment_id": "46"
+            },
+            {
+                "id": "45763838-361a-4b78-aa46-a68ad53101f7",
+                "text": " preheating",
+                "start": 311.84,
+                "end": 312.48,
+                "segment_id": "46"
+            },
+            {
+                "id": "af7d66c5-24ff-40a2-aed4-8e479fe54225",
+                "text": " stage",
+                "start": 312.48,
+                "end": 312.8,
+                "segment_id": "46"
+            },
+            {
+                "id": "63c09e22-b3c5-4484-8b88-0ea47c480ff1",
+                "text": " improving",
+                "start": 312.8,
+                "end": 313.74,
+                "segment_id": "46"
+            },
+            {
+                "id": "ea394b81-939a-4cb1-94ed-2d82a71a6262",
+                "text": " the",
+                "start": 313.74,
+                "end": 314.14,
+                "segment_id": "46"
+            },
+            {
+                "id": "d809ab08-78dc-409b-9c4b-b62b377f338d",
+                "text": " overall",
+                "start": 314.14,
+                "end": 314.6,
+                "segment_id": "46"
+            },
+            {
+                "id": "b330e39a-ad03-43b8-94ee-2ca48b62d0f3",
+                "text": " energy",
+                "start": 314.6,
+                "end": 315.06,
+                "segment_id": "47"
+            },
+            {
+                "id": "47123e49-5410-4845-85b8-e9981b9510ea",
+                "text": " efficiency",
+                "start": 315.06,
+                "end": 315.66,
+                "segment_id": "47"
+            },
+            {
+                "id": "9f937e2c-30d9-4302-b9c5-687c111a4b81",
+                "text": " of",
+                "start": 315.66,
+                "end": 316,
+                "segment_id": "47"
+            },
+            {
+                "id": "258fb9bd-61a1-41f2-842f-4205894fe489",
+                "text": " the",
+                "start": 316,
+                "end": 316.12,
+                "segment_id": "47"
+            },
+            {
+                "id": "84238de7-c6bd-4e68-a988-1e5ce4561752",
+                "text": " plant",
+                "start": 316.12,
+                "end": 316.42,
+                "segment_id": "47"
+            },
+            {
+                "id": "9b92e636-5ff0-4bd5-a5b5-0bfc100fff41",
+                "text": " to",
+                "start": 316.42,
+                "end": 317.6,
+                "segment_id": "47"
+            },
+            {
+                "id": "e7021104-fe7e-4c15-99a9-40173705f4f2",
+                "text": " summarize",
+                "start": 317.6,
+                "end": 318.02,
+                "segment_id": "47"
+            },
+            {
+                "id": "141684f0-62e0-407b-b2e3-7e24ad88b608",
+                "text": " the",
+                "start": 318.02,
+                "end": 318.74,
+                "segment_id": "47"
+            },
+            {
+                "id": "a1e8718f-f4df-4179-b7c7-26fece634bef",
+                "text": " cement",
+                "start": 318.74,
+                "end": 319.12,
+                "segment_id": "47"
+            },
+            {
+                "id": "e4a1e261-0505-493b-89e4-5e8dfcdaf44c",
+                "text": " production",
+                "start": 319.12,
+                "end": 319.58,
+                "segment_id": "47"
+            },
+            {
+                "id": "8742e15b-b708-4741-9f8d-f857afe340f7",
+                "text": " journey",
+                "start": 319.58,
+                "end": 320.14,
+                "segment_id": "47"
+            },
+            {
+                "id": "a2b541c9-80c6-40ad-b2b1-9ac3f5ea4b8b",
+                "text": " from",
+                "start": 320.14,
+                "end": 320.5,
+                "segment_id": "47"
+            },
+            {
+                "id": "ae5a5166-f3b5-43da-918c-edd9ab352d6d",
+                "text": " raw",
+                "start": 320.5,
+                "end": 320.74,
+                "segment_id": "47"
+            },
+            {
+                "id": "a02c104e-0c45-478c-b97a-c427e255975e",
+                "text": " materials",
+                "start": 320.74,
+                "end": 321.26,
+                "segment_id": "47"
+            },
+            {
+                "id": "05b9b16d-80d1-496e-9276-5ebf1471a4ed",
+                "text": " to",
+                "start": 321.26,
+                "end": 321.6,
+                "segment_id": "47"
+            },
+            {
+                "id": "f6a8c595-9e2e-4002-8497-2ece9e4ae407",
+                "text": " clinker",
+                "start": 321.6,
+                "end": 321.94,
+                "segment_id": "48"
+            },
+            {
+                "id": "acc01fa8-e530-4f84-a9d7-780db1b18e53",
+                "text": " involves",
+                "start": 321.94,
+                "end": 322.82,
+                "segment_id": "48"
+            },
+            {
+                "id": "b3f14fea-be05-47f3-9e72-c66549dc39cb",
+                "text": " precision",
+                "start": 322.82,
+                "end": 323.38,
+                "segment_id": "48"
+            },
+            {
+                "id": "947f6b05-5a64-429d-bf40-f78475b602ca",
+                "text": " size",
+                "start": 323.4,
+                "end": 323.54,
+                "segment_id": "49"
+            },
+            {
+                "id": "8f951d52-e8c3-4b50-895f-044c6d6d631b",
+                "text": " raw",
+                "start": 323.54,
+                "end": 324.04,
+                "segment_id": "49"
+            },
+            {
+                "id": "3c5c2fcd-f1c1-45c4-8d27-c9be869e6800",
+                "text": " meal",
+                "start": 324.04,
+                "end": 324.34,
+                "segment_id": "49"
+            },
+            {
+                "id": "6ae60fe1-1dff-412c-a019-733c04c6dc8a",
+                "text": " preparation",
+                "start": 324.34,
+                "end": 324.84,
+                "segment_id": "49"
+            },
+            {
+                "id": "ca0549e3-503b-4235-9478-05e3f0936ce8",
+                "text": " to",
+                "start": 324.84,
+                "end": 325.64,
+                "segment_id": "49"
+            },
+            {
+                "id": "a71cc24b-2c40-47e4-b327-df834cf1094b",
+                "text": " ensure",
+                "start": 325.64,
+                "end": 325.94,
+                "segment_id": "49"
+            },
+            {
+                "id": "11fff577-eac1-442b-a3a6-1d31ffedd158",
+                "text": " uniform",
+                "start": 325.94,
+                "end": 326.62,
+                "segment_id": "49"
+            },
+            {
+                "id": "a52de99c-1374-46b9-bb78-21ad98e45f30",
+                "text": " burn",
+                "start": 326.62,
+                "end": 327,
+                "segment_id": "49"
+            },
+            {
+                "id": "2c731f95-179f-4430-90bc-77c1b07d3ad0",
+                "text": " ability",
+                "start": 327,
+                "end": 327.24,
+                "segment_id": "49"
+            },
+            {
+                "id": "d57e200d-9004-446f-8764-1f54ea4d54a9",
+                "text": " followed",
+                "start": 327.24,
+                "end": 328.22,
+                "segment_id": "49"
+            },
+            {
+                "id": "e2456acc-15dd-4a24-864a-7801eca8be89",
+                "text": " by",
+                "start": 328.22,
+                "end": 328.56,
+                "segment_id": "49"
+            },
+            {
+                "id": "9c897581-2eee-4788-9836-69919198465c",
+                "text": " pyro",
+                "start": 328.56,
+                "end": 329.18,
+                "segment_id": "49"
+            },
+            {
+                "id": "3e576329-07cf-4793-893e-35df3dfc71e8",
+                "text": " processing",
+                "start": 329.18,
+                "end": 329.7,
+                "segment_id": "49"
+            },
+            {
+                "id": "e173d993-4ab2-45b0-aa58-63269fad6dd4",
+                "text": " this",
+                "start": 329.7,
+                "end": 330.6,
+                "segment_id": "49"
+            },
+            {
+                "id": "66e0b776-301c-4026-a565-8d9d25ed23bb",
+                "text": " includes",
+                "start": 330.6,
+                "end": 331.02,
+                "segment_id": "49"
+            },
+            {
+                "id": "3aa0082e-eaf8-450e-9dd7-45cada359fb7",
+                "text": " preheating",
+                "start": 331.02,
+                "end": 331.8,
+                "segment_id": "50"
+            },
+            {
+                "id": "dd75bda2-3a62-4474-9270-3b457cfec8cf",
+                "text": " and",
+                "start": 331.8,
+                "end": 332.12,
+                "segment_id": "50"
+            },
+            {
+                "id": "33ca6ebb-251a-48be-87c5-e01c7526302b",
+                "text": " calcination",
+                "start": 332.12,
+                "end": 332.7,
+                "segment_id": "50"
+            },
+            {
+                "id": "6203297e-a751-4e56-8d4d-45d6e14a6724",
+                "text": " at",
+                "start": 332.7,
+                "end": 333.22,
+                "segment_id": "50"
+            },
+            {
+                "id": "44d475de-c1e9-4fdf-845c-9c4a9bed38fc",
+                "text": " 800",
+                "start": 333.22,
+                "end": 333.66,
+                "segment_id": "50"
+            },
+            {
+                "id": "20c21658-2b4e-4340-87b9-b60066491013",
+                "text": " to",
+                "start": 333.66,
+                "end": 334.12,
+                "segment_id": "50"
+            },
+            {
+                "id": "5cda8919-e891-4783-a862-691882b68561",
+                "text": " 900",
+                "start": 334.12,
+                "end": 334.56,
+                "segment_id": "50"
+            },
+            {
+                "id": "8c75660b-c818-41e3-adb0-9d2d735f5db7",
+                "text": " degrees",
+                "start": 334.56,
+                "end": 335.08,
+                "segment_id": "50"
+            },
+            {
+                "id": "ae347898-09ca-4943-85b3-51b136008dab",
+                "text": " celsius",
+                "start": 335.08,
+                "end": 335.7,
+                "segment_id": "50"
+            },
+            {
+                "id": "72443aae-c8ed-4d15-8190-4f9c23cf2a53",
+                "text": " to",
+                "start": 335.7,
+                "end": 336.26,
+                "segment_id": "50"
+            },
+            {
+                "id": "5dba7a0b-50c0-480c-822d-5d5bb28eb274",
+                "text": " remove",
+                "start": 336.26,
+                "end": 336.58,
+                "segment_id": "50"
+            },
+            {
+                "id": "35dfdd71-f4f3-4cff-963f-30db9b204108",
+                "text": " co2",
+                "start": 336.58,
+                "end": 337.3,
+                "segment_id": "50"
+            },
+            {
+                "id": "a684c94b-dfc1-4956-a6df-e9fb0cba949f",
+                "text": " from",
+                "start": 337.3,
+                "end": 337.74,
+                "segment_id": "50"
+            },
+            {
+                "id": "c539454b-f288-4a7e-bb87-f76c1bbd1f3b",
+                "text": " limestone",
+                "start": 337.74,
+                "end": 338.26,
+                "segment_id": "50"
+            },
+            {
+                "id": "0e8a9173-0ec1-48dd-9216-f9f906f680c7",
+                "text": " then",
+                "start": 338.26,
+                "end": 339,
+                "segment_id": "50"
+            },
+            {
+                "id": "11e8cd43-c744-46b6-b0a5-11716dcf9706",
+                "text": " intense",
+                "start": 339,
+                "end": 339.66,
+                "segment_id": "50"
+            },
+            {
+                "id": "5edcc1f4-daca-4920-9759-e66e264bb5c5",
+                "text": " kiln",
+                "start": 339.66,
+                "end": 340.02,
+                "segment_id": "51"
+            },
+            {
+                "id": "731c68c1-04d0-46ca-ac6c-e1a1921aad4b",
+                "text": " burning",
+                "start": 340.02,
+                "end": 340.5,
+                "segment_id": "51"
+            },
+            {
+                "id": "6b253100-74ac-4040-8521-05872c5c40e8",
+                "text": " at",
+                "start": 340.5,
+                "end": 340.8,
+                "segment_id": "51"
+            },
+            {
+                "id": "ff9d5ace-9049-4953-8a89-6c35a9799c07",
+                "text": " 1450",
+                "start": 340.8,
+                "end": 341.72,
+                "segment_id": "51"
+            },
+            {
+                "id": "8e3ba7d8-c94f-42d8-be99-50da901c4503",
+                "text": " degrees",
+                "start": 341.72,
+                "end": 342.36,
+                "segment_id": "51"
+            },
+            {
+                "id": "5f09b1b3-8859-45c5-bfae-93be8fed5765",
+                "text": " celsius",
+                "start": 342.36,
+                "end": 342.94,
+                "segment_id": "51"
+            },
+            {
+                "id": "07f755f4-f7e5-41cc-84d6-bd0ec3765920",
+                "text": " to",
+                "start": 342.94,
+                "end": 343.56,
+                "segment_id": "51"
+            },
+            {
+                "id": "0b1c9602-a812-4364-930d-cfbf2e7e09aa",
+                "text": " form",
+                "start": 343.56,
+                "end": 343.86,
+                "segment_id": "51"
+            },
+            {
+                "id": "18cfdc8b-2cfc-4066-bb99-4c9b85f5819d",
+                "text": " active",
+                "start": 343.86,
+                "end": 344.4,
+                "segment_id": "51"
+            },
+            {
+                "id": "7143488d-df81-422e-b985-2df1c63f80f7",
+                "text": " clinker",
+                "start": 344.4,
+                "end": 344.82,
+                "segment_id": "51"
+            },
+            {
+                "id": "f48122c3-7eda-43c0-8025-a2fb19529c9f",
+                "text": " minerals",
+                "start": 344.82,
+                "end": 345.3,
+                "segment_id": "51"
+            },
+            {
+                "id": "bbc84ff3-5b77-4651-8ba7-e32121198798",
+                "text": " and",
+                "start": 345.3,
+                "end": 345.9,
+                "segment_id": "51"
+            },
+            {
+                "id": "b518a0ea-cab1-4d42-8471-c7da90addcfe",
+                "text": " finally",
+                "start": 345.9,
+                "end": 346.38,
+                "segment_id": "51"
+            },
+            {
+                "id": "7897cf5e-523b-4c01-9e19-ae8c1aca67cc",
+                "text": " rapid",
+                "start": 346.38,
+                "end": 346.74,
+                "segment_id": "51"
+            },
+            {
+                "id": "a9b3199a-b5bd-46a1-b44c-db3fb4f426a7",
+                "text": " cooling",
+                "start": 346.74,
+                "end": 347.28,
+                "segment_id": "51"
+            },
+            {
+                "id": "b65a85c1-4164-431b-9208-6c2640766118",
+                "text": " to",
+                "start": 347.28,
+                "end": 347.64,
+                "segment_id": "52"
+            },
+            {
+                "id": "2ae7dd4a-410e-426b-a3ec-2a07ef811c5a",
+                "text": " stabilize",
+                "start": 347.64,
+                "end": 348.14,
+                "segment_id": "52"
+            },
+            {
+                "id": "95d388ce-fc56-4e7d-a158-ac4179b37543",
+                "text": " these",
+                "start": 348.14,
+                "end": 348.64,
+                "segment_id": "52"
+            },
+            {
+                "id": "97818006-b4ac-4cf7-b111-6fa3884135b1",
+                "text": " phases",
+                "start": 348.64,
+                "end": 349.06,
+                "segment_id": "52"
+            },
+            {
+                "id": "bee034fd-d927-479b-9887-21415233f77d",
+                "text": " and",
+                "start": 349.06,
+                "end": 349.48,
+                "segment_id": "52"
+            },
+            {
+                "id": "190f1895-6313-424e-af8d-70aae744f5e9",
+                "text": " recover",
+                "start": 349.48,
+                "end": 349.82,
+                "segment_id": "52"
+            },
+            {
+                "id": "09f663eb-0980-4b0d-bb84-c4ddf651fc90",
+                "text": " heat",
+                "start": 349.82,
+                "end": 350.22,
+                "segment_id": "52"
+            }
+        ],
+        "visual": null
+    },
+    {
+        "startTime": 351.12,
+        "endTime": 377.66,
+        "id": 12,
+        "text": "Now that we understand how clinker is formed, our next video, The Core of Cement: Chemical Changes and Major Clinker Minerals, will delve deeper into the fascinating chemistry happening inside the kiln, specifically focusing on the four main chemical components and the key mineral phases that give cement its strength and binding properties. Join us to unravel the molecular magic!",
+        "keywords": [
+            {
+                "word": "Chemical Changes",
+                "type": "main"
+            },
+            {
+                "word": "major clinker minerals",
+                "type": "Key Terms"
+            },
+            {
+                "word": "molecular magic",
+                "type": "Callouts"
+            }
+        ],
+        "wordTimestamps": [
+            {
+                "word": " these",
+                "start": 351.12,
+                "end": 351.12,
+                "word_type": "text"
+            },
+            {
+                "word": " phases",
+                "start": 351.12,
+                "end": 351.12,
+                "word_type": "text"
+            },
+            {
+                "word": " and",
+                "start": 351.12,
+                "end": 351.12,
+                "word_type": "text"
+            },
+            {
+                "word": " recover",
+                "start": 351.12,
+                "end": 351.12,
+                "word_type": "text"
+            },
+            {
+                "word": " heat",
+                "start": 351.12,
+                "end": 351.12,
+                "word_type": "text"
+            },
+            {
+                "word": " now",
+                "start": 351.12,
+                "end": 351.12,
+                "word_type": "text"
+            },
+            {
+                "word": " that",
+                "start": 351.12,
+                "end": 351.38,
+                "word_type": "text"
+            },
+            {
+                "word": " we",
+                "start": 351.38,
+                "end": 351.56,
+                "word_type": "text"
+            },
+            {
+                "word": " understand",
+                "start": 351.56,
+                "end": 351.72,
+                "word_type": "text"
+            },
+            {
+                "word": " how",
+                "start": 351.72,
+                "end": 352.52,
+                "word_type": "text"
+            },
+            {
+                "word": " clinker",
+                "start": 352.52,
+                "end": 353.16,
+                "word_type": "text"
+            },
+            {
+                "word": " is",
+                "start": 353.16,
+                "end": 353.46,
+                "word_type": "text"
+            },
+            {
+                "word": " formed",
+                "start": 353.46,
+                "end": 353.72,
+                "word_type": "text"
+            },
+            {
+                "word": " our",
+                "start": 354.5,
+                "end": 354.62,
+                "word_type": "text"
+            },
+            {
+                "word": " next",
+                "start": 354.62,
+                "end": 354.92,
+                "word_type": "text"
+            },
+            {
+                "word": " video",
+                "start": 354.92,
+                "end": 355.34,
+                "word_type": "text"
+            },
+            {
+                "word": " the",
+                "start": 355.34,
+                "end": 355.92,
+                "word_type": "text"
+            },
+            {
+                "word": " core",
+                "start": 355.92,
+                "end": 356.2,
+                "word_type": "text"
+            },
+            {
+                "word": " of",
+                "start": 356.2,
+                "end": 356.48,
+                "word_type": "text"
+            },
+            {
+                "word": " cement",
+                "start": 356.48,
+                "end": 356.78,
+                "word_type": "text"
+            },
+            {
+                "word": " chemical",
+                "start": 357.92,
+                "end": 357.92,
+                "word_type": "text"
+            },
+            {
+                "word": " changes",
+                "start": 357.92,
+                "end": 358.36,
+                "word_type": "text"
+            },
+            {
+                "word": " and",
+                "start": 358.36,
+                "end": 358.88,
+                "word_type": "text"
+            },
+            {
+                "word": " major",
+                "start": 358.88,
+                "end": 359.34,
+                "word_type": "text"
+            },
+            {
+                "word": " clinker",
+                "start": 359.34,
+                "end": 359.88,
+                "word_type": "text"
+            },
+            {
+                "word": " minerals",
+                "start": 360.24,
+                "end": 360.5,
+                "word_type": "text"
+            },
+            {
+                "word": " will",
+                "start": 360.5,
+                "end": 361.22,
+                "word_type": "text"
+            },
+            {
+                "word": " delve",
+                "start": 361.22,
+                "end": 361.64,
+                "word_type": "text"
+            },
+            {
+                "word": " deeper",
+                "start": 361.64,
+                "end": 362,
+                "word_type": "text"
+            },
+            {
+                "word": " into",
+                "start": 362,
+                "end": 362.42,
+                "word_type": "text"
+            },
+            {
+                "word": " the",
+                "start": 362.42,
+                "end": 362.76,
+                "word_type": "text"
+            },
+            {
+                "word": " fascinating",
+                "start": 363.46,
+                "end": 363.46,
+                "word_type": "text"
+            },
+            {
+                "word": " chemistry",
+                "start": 363.46,
+                "end": 363.8,
+                "word_type": "text"
+            },
+            {
+                "word": " happening",
+                "start": 363.8,
+                "end": 364.52,
+                "word_type": "text"
+            },
+            {
+                "word": " inside",
+                "start": 364.52,
+                "end": 365.22,
+                "word_type": "text"
+            },
+            {
+                "word": " the",
+                "start": 365.22,
+                "end": 365.54,
+                "word_type": "text"
+            },
+            {
+                "word": " kiln",
+                "start": 365.54,
+                "end": 365.9,
+                "word_type": "text"
+            },
+            {
+                "word": " specifically",
+                "start": 366.82,
+                "end": 366.9,
+                "word_type": "text"
+            },
+            {
+                "word": " focusing",
+                "start": 367.68,
+                "end": 368.3,
+                "word_type": "text"
+            },
+            {
+                "word": " on",
+                "start": 368.3,
+                "end": 368.62,
+                "word_type": "text"
+            },
+            {
+                "word": " the",
+                "start": 368.62,
+                "end": 368.72,
+                "word_type": "text"
+            },
+            {
+                "word": " main",
+                "start": 369.08,
+                "end": 369.28,
+                "word_type": "text"
+            },
+            {
+                "word": " chemical",
+                "start": 369.28,
+                "end": 369.84,
+                "word_type": "text"
+            },
+            {
+                "word": " components",
+                "start": 369.84,
+                "end": 370.64,
+                "word_type": "text"
+            },
+            {
+                "word": " and",
+                "start": 370.64,
+                "end": 371,
+                "word_type": "text"
+            },
+            {
+                "word": " the",
+                "start": 371,
+                "end": 371.16,
+                "word_type": "text"
+            },
+            {
+                "word": " key",
+                "start": 371.16,
+                "end": 371.36,
+                "word_type": "text"
+            },
+            {
+                "word": " mineral",
+                "start": 372,
+                "end": 372.42,
+                "word_type": "text"
+            },
+            {
+                "word": " phases",
+                "start": 373.24,
+                "end": 373.24,
+                "word_type": "text"
+            },
+            {
+                "word": " that",
+                "start": 373.24,
+                "end": 373.24,
+                "word_type": "text"
+            },
+            {
+                "word": " give",
+                "start": 373.24,
+                "end": 373.24,
+                "word_type": "text"
+            },
+            {
+                "word": " cement",
+                "start": 373.24,
+                "end": 373.62,
+                "word_type": "text"
+            },
+            {
+                "word": " its",
+                "start": 373.62,
+                "end": 373.88,
+                "word_type": "text"
+            },
+            {
+                "word": " strength",
+                "start": 373.88,
+                "end": 374.18,
+                "word_type": "text"
+            },
+            {
+                "word": " and",
+                "start": 374.18,
+                "end": 374.32,
+                "word_type": "text"
+            },
+            {
+                "word": " binding",
+                "start": 374.32,
+                "end": 374.72,
+                "word_type": "text"
+            },
+            {
+                "word": " properties",
+                "start": 375,
+                "end": 375.34,
+                "word_type": "text"
+            },
+            {
+                "word": " join",
+                "start": 375.72,
+                "end": 375.8,
+                "word_type": "text"
+            },
+            {
+                "word": " us",
+                "start": 375.8,
+                "end": 376.08,
+                "word_type": "text"
+            },
+            {
+                "word": " to",
+                "start": 376.08,
+                "end": 376.24,
+                "word_type": "text"
+            },
+            {
+                "word": " unravel",
+                "start": 376.24,
+                "end": 376.52,
+                "word_type": "text"
+            },
+            {
+                "word": " the",
+                "start": 376.52,
+                "end": 376.86,
+                "word_type": "text"
+            },
+            {
+                "word": " molecular",
+                "start": 376.86,
+                "end": 377.2,
+                "word_type": "text"
+            },
+            {
+                "word": " magic",
+                "start": 377.2,
+                "end": 377.66,
+                "word_type": "text"
+            }
+        ],
+        "visual": {
+            "type": "image",
+            "src": "http://feeco.com/wp-content/uploads/2015/09/Rotary-Kiln-Components-2-1024x628.jpg",
+            "title": "Industrial Kiln Cross-Section",
+            "alt": "Cross-sectional view of an industrial rotary kiln showing interior process with materials being processed through heat treatment.",
+            "startTime": 351.12,
+            "assist_image_id": "556b5ec8-14fe-4a30-90be-435df9b99446"
+        }
+    }
+]
