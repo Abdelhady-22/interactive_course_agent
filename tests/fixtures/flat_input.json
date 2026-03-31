@@ -1,0 +1,52 @@
+[
+  {
+    "startTime": 0,
+    "endTime": 28.52,
+    "id": 1,
+    "text": "Welcome back! In this video, our objective is to explain the main stages of cement clinker production. Join us on this precise journey as we discover how raw materials undergo incredible transformations.",
+    "keywords": [
+      {"word": "Cement production", "type": "main"},
+      {"word": "precise journey", "type": "Key Terms"},
+      {"word": "main stages", "type": "Callouts"}
+    ],
+    "wordTimestamps": [
+      {"word": "Welcome", "start": 0, "end": 0.5, "word_type": "text"},
+      {"word": "back", "start": 0.5, "end": 1.0, "word_type": "text"},
+      {"word": "In", "start": 1.5, "end": 1.8, "word_type": "text"},
+      {"word": "this", "start": 1.8, "end": 2.0, "word_type": "text"},
+      {"word": "video", "start": 2.0, "end": 2.5, "word_type": "text"}
+    ],
+    "visual": {
+      "type": "image",
+      "src": "https://example.com/cement_plant.jpg",
+      "title": "Industrial Cement Plant Overview",
+      "alt": "An aerial panoramic view of a large industrial cement production facility.",
+      "startTime": 0,
+      "assist_image_id": "abcc11a8-test-0001"
+    }
+  },
+  {
+    "startTime": 33.16,
+    "endTime": 50.36,
+    "id": 2,
+    "text": "In our previous video, we identified the fundamental raw materials for cement: limestone as the primary source of calcium, along with clay and iron ore. Today we explore their chemical composition and importance.",
+    "keywords": [
+      {"word": "fundamental raw materials", "type": "main"},
+      {"word": "limestone", "type": "Key Terms"},
+      {"word": "chemical composition", "type": "Callouts"}
+    ],
+    "wordTimestamps": [
+      {"word": "In", "start": 33.16, "end": 33.5, "word_type": "text"},
+      {"word": "our", "start": 33.5, "end": 33.84, "word_type": "text"},
+      {"word": "previous", "start": 33.84, "end": 34.2, "word_type": "text"}
+    ],
+    "visual": {
+      "type": "image",
+      "src": "https://example.com/magnetite.jpg",
+      "title": "Magnetite Rock Sample",
+      "alt": "A dark gray, rough-textured rock sample of magnetite.",
+      "startTime": 33,
+      "assist_image_id": "1b06768f-test-0002"
+    }
+  }
+]

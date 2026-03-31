@@ -1,0 +1,9 @@
+[project]
+name = "interactive-course-agent"
+version = "1.0.0"
+description = "AI-powered layout direction for educational video courses"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"

@@ -1,0 +1,21 @@
+{
+  "video_context": {
+    "description": "Educational chemistry course covering chemical reactions and compounds."
+  },
+  "paragraph": {
+    "id": "p_014",
+    "start_ms": 142300,
+    "end_ms": 158700,
+    "text": "When hydrochloric acid reacts with zinc, it produces hydrogen gas. This is a classic single displacement reaction that demonstrates the activity series of metals.",
+    "keywords": ["hydrochloric acid", "zinc", "hydrogen gas", "single displacement"]
+  },
+  "assets": [
+    {
+      "id": "asset_401",
+      "type": "formula",
+      "name": "reaction equation",
+      "description": "The balanced chemical equation for zinc reacting with hydrochloric acid.",
+      "content": "Zn + 2HCl → ZnCl₂ + H₂↑"
+    }
+  ]
+}
