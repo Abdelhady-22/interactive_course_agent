@@ -5,7 +5,12 @@ from __future__ import annotations
 from pydantic import BaseModel, Field
 from typing import Optional
 
-from app.schemas.enums import LayoutMode, TransitionType, DecisionSource
+from app.schemas.enums import (
+    LayoutMode, TransitionType, DecisionSource,
+    PipShape, PipBorder, AnimationType,
+    ScriptPosition, ScriptStyle, BoardBackground,
+    InstructorEnergy, InstructorGesture, FocusTarget,
+)
 
 
 # ─────────────────────────────────────────────
@@ -36,8 +41,9 @@ class PositionRect(BaseModel):
 # ─────────────────────────────────────────────
 
 class InstructorLayout(BaseModel):
-    """Instructor camera position and style."""
+    """Instructor camera position, style, and PiP options."""
     visible: bool = True
+    fullscreen: bool = Field(default=False, description="True if instructor is the background layer")
     position_rect: PositionRect = PositionRect(
         x_percent=0, y_percent=0, width_percent=100, height_percent=100,
         z_index=1, anchor="center",
@@ -46,14 +52,27 @@ class InstructorLayout(BaseModel):
     style: str = "normal"
     opacity: float = Field(default=1.0, ge=0.0, le=1.0)
 
+    # PiP styling (V2)
+    pip_shape: PipShape = Field(default=PipShape.ROUNDED_RECT, description="PiP overlay shape")
+    pip_border: PipBorder = Field(default=PipBorder.THIN_WHITE, description="PiP border style")
+    pip_shadow: bool = Field(default=True, description="Show drop shadow on PiP")
+    entrance_animation: AnimationType = Field(default=AnimationType.FADE_IN, description="Entrance animation")
+
 
 class BoardLayout(BaseModel):
-    """Board/content area position."""
+    """Board/content area position and style."""
     visible: bool = True
+    fullscreen: bool = Field(default=False, description="True if board is the background layer")
     position_rect: PositionRect = PositionRect(
         x_percent=0, y_percent=0, width_percent=100, height_percent=100,
         z_index=1, anchor="center",
     )
+
+    # Board styling (V2)
+    background: BoardBackground = Field(default=BoardBackground.DARK_GRADIENT, description="Board background style")
+    border_radius: int = Field(default=12, description="Border radius in px")
+    shadow: str = Field(default="medium", description="Shadow: none, small, medium, large")
+    board_opacity: float = Field(default=0.95, ge=0.0, le=1.0)
 
 
 class LayoutOutput(BaseModel):
@@ -65,11 +84,11 @@ class LayoutOutput(BaseModel):
 
 
 # ─────────────────────────────────────────────
-# Assets, keywords, script text
+# Assets with animations
 # ─────────────────────────────────────────────
 
 class AssetOutput(BaseModel):
-    """An asset placed on the board with exact position."""
+    """An asset placed on the board with exact position and animation."""
     id: str
     type: str
     name: str = ""
@@ -79,23 +98,65 @@ class AssetOutput(BaseModel):
     appear_at_ms: int = 0
     disappear_at_ms: int = 0
 
+    # Animation (V2)
+    entrance: AnimationType = Field(default=AnimationType.FADE_IN, description="Entrance animation")
+    exit: AnimationType = Field(default=AnimationType.FADE_OUT, description="Exit animation")
+    entrance_delay_ms: int = Field(default=0, description="Delay before entrance animation starts")
+    entrance_duration_ms: int = Field(default=400, description="Duration of entrance animation")
+
 
 class KeywordBadge(BaseModel):
-    """A keyword badge positioned on screen."""
+    """A keyword badge positioned on screen with animation."""
     word: str
     type: str = "main"
     position_rect: PositionRect
     appear_at_ms: int = 0
     disappear_at_ms: int = 0
     style: str = "badge"
+    spoken_at_ms: int = Field(default=0, description="When this keyword is spoken in the video")
+    highlight_in_script: bool = Field(default=True, description="Highlight this word in script text")
+
+    # Animation (V2)
+    entrance: AnimationType = Field(default=AnimationType.POP_IN, description="Entrance animation")
+    entrance_delay_ms: int = Field(default=0, description="Delay before entrance")
+    entrance_duration_ms: int = Field(default=300, description="Duration of entrance animation")
 
 
 class ScriptText(BaseModel):
-    """The paragraph script text area."""
-    position_rect: PositionRect
-    visibility_ratio: float = Field(default=0.5, ge=0.0, le=1.0)
-    reasoning: str = ""
+    """The paragraph script text area with display options."""
+    show: bool = Field(default=True, description="Whether to show script text")
+    full_text: str = Field(default="", description="The full script text for this paragraph")
+    position: ScriptPosition = Field(default=ScriptPosition.BOTTOM, description="Where to display")
+    script_style: ScriptStyle = Field(default=ScriptStyle.SUBTITLE, description="Display style")
+    font_size: str = Field(default="medium", description="Font size: small, medium, large")
+    background: str = Field(default="glassmorphism", description="Text background style")
+    position_rect: PositionRect = PositionRect()
     keywords_to_highlight: list[str] = []
+
+
+# ─────────────────────────────────────────────
+# Instructor Behavior Hints (V2)
+# ─────────────────────────────────────────────
+
+class InstructorBehavior(BaseModel):
+    """Suggested instructor behavior for this paragraph."""
+    energy: InstructorEnergy = Field(default=InstructorEnergy.NEUTRAL, description="Energy level")
+    gesture: InstructorGesture = Field(default=InstructorGesture.NONE, description="Suggested gesture")
+    eye_contact: str = Field(default="camera", description="Where to look: camera, board, asset")
+    movement: str = Field(default="still", description="Body movement: still, lean_forward, step_back")
+    note: str = Field(default="", description="Human-readable behavior instruction")
+
+
+# ─────────────────────────────────────────────
+# Focus Zone (V2)
+# ─────────────────────────────────────────────
+
+class FocusZone(BaseModel):
+    """Where the learner should focus attention."""
+    primary: FocusTarget = Field(default=FocusTarget.INSTRUCTOR, description="Primary attention target")
+    highlight_rect: Optional[PositionRect] = Field(default=None, description="Optional highlight area")
+    dim_background: bool = Field(default=False, description="Dim areas outside focus zone")
+    attention_cue: str = Field(default="none", description="Visual cue: none, arrow, glow, pulse")
 
 
 # ─────────────────────────────────────────────
@@ -146,6 +207,10 @@ class DecisionOutput(BaseModel):
     script_text: Optional[ScriptText] = None
     transition: TransitionOutput = TransitionOutput()
     continuity: ContinuityOutput = ContinuityOutput()
+
+    # V2 enhancements
+    instructor_behavior: InstructorBehavior = Field(default_factory=InstructorBehavior)
+    focus_zone: FocusZone = Field(default_factory=FocusZone)
 
     director_note: str = ""
     confidence: float = 0.5

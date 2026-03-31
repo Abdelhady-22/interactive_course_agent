@@ -1,0 +1,1405 @@
+{
+    "course_id": "64a49bd0-3dd6-4b03-ac42-d23bba4d0a64",
+    "title": "Cement production is not a simple industrial task; it is a p...",
+    "total_paragraphs": 10,
+    "stats": {
+        "decided_by_rule": 7,
+        "decided_by_llm": 3,
+        "decided_by_fallback": 0,
+        "rule_reviewed_by_llm": 1,
+        "llm_overrode_rule": 0,
+        "tokens": {
+            "prompt_tokens": 4652,
+            "completion_tokens": 4615
+        },
+        "processing_time_ms": 124110
+    },
+    "decisions": [
+        {
+            "id": "635905e6-b4b8-4013-a6a9-834472b450ed",
+            "paragraph_id": "1",
+            "paragraph_index": 0,
+            "time_range": {
+                "start_ms": 0,
+                "end_ms": 28520
+            },
+            "layout": {
+                "mode": "instructor_dominant",
+                "description": "Greeting/intro detected but paragraph has assets \u2014 instructor dominant with small overlay.",
+                "instructor": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 72.0,
+                        "y_percent": 72.0,
+                        "width_percent": 25.0,
+                        "height_percent": 25.0,
+                        "z_index": 10,
+                        "anchor": "bottom_right"
+                    },
+                    "size": "small",
+                    "style": "pip",
+                    "opacity": 1.0
+                },
+                "board": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 72.0,
+                        "y_percent": 5.0,
+                        "width_percent": 25.0,
+                        "height_percent": 30.0,
+                        "z_index": 5,
+                        "anchor": "top_right"
+                    }
+                }
+            },
+            "assets": [
+                {
+                    "id": "abcc11a8-afeb-43e7-bae6-f22cbbeab534",
+                    "type": "image",
+                    "name": "Industrial Cement Plant",
+                    "position_rect": {
+                        "x_percent": 75.0,
+                        "y_percent": 8.0,
+                        "width_percent": 19.0,
+                        "height_percent": 19.5,
+                        "z_index": 5,
+                        "anchor": "board_center"
+                    },
+                    "size": "large",
+                    "display_instruction": "Show Image 'Industrial Cement Plant' as a small overlay \u2014 supplementary to the instructor.",
+                    "appear_at_ms": 0,
+                    "disappear_at_ms": 28520
+                }
+            ],
+            "keyword_badges": [
+                {
+                    "word": "Cement production",
+                    "type": "main",
+                    "position_rect": {
+                        "x_percent": 74.0,
+                        "y_percent": 7.0,
+                        "width_percent": 6.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 0,
+                    "disappear_at_ms": 28520,
+                    "style": "badge"
+                },
+                {
+                    "word": "precise journey",
+                    "type": "Key Terms",
+                    "position_rect": {
+                        "x_percent": 81.0,
+                        "y_percent": 7.0,
+                        "width_percent": 6.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 3620,
+                    "disappear_at_ms": 28520,
+                    "style": "highlight"
+                },
+                {
+                    "word": "main stages",
+                    "type": "Callouts",
+                    "position_rect": {
+                        "x_percent": 88.0,
+                        "y_percent": 7.0,
+                        "width_percent": 6.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 19120,
+                    "disappear_at_ms": 28520,
+                    "style": "floating"
+                }
+            ],
+            "script_text": {
+                "position_rect": {
+                    "x_percent": 75.0,
+                    "y_percent": 84.0,
+                    "width_percent": 19.0,
+                    "height_percent": 13.0,
+                    "z_index": 12,
+                    "anchor": "board_bottom"
+                },
+                "visibility_ratio": 0.2,
+                "reasoning": "Visual assets are the primary focus. Show key phrases only as reinforcement.",
+                "keywords_to_highlight": [
+                    "Cement production",
+                    "precise journey",
+                    "main stages"
+                ]
+            },
+            "transition": {
+                "type": "fade",
+                "duration_ms": 400,
+                "instruction": "Opening fade in."
+            },
+            "continuity": {
+                "pin_instructor": true,
+                "pin_from_paragraph": "1",
+                "transition_instructor": true,
+                "sequence_position": "start",
+                "sequence_length": 4,
+                "sequence_note": "Starting 4-paragraph asset sequence. Instructor pinned for visual stability."
+            },
+            "director_note": "Greeting/intro detected but paragraph has assets \u2014 instructor dominant with small overlay.",
+            "confidence": 0.78,
+            "decided_by": "rule",
+            "reviewed_by_llm": true,
+            "llm_agreed": true,
+            "is_approved": false,
+            "token_usage": {
+                "prompt_tokens": 584,
+                "completion_tokens": 514
+            }
+        },
+        {
+            "id": "27f53c6b-9800-4d04-b529-5fe97cbfd11f",
+            "paragraph_id": "2",
+            "paragraph_index": 1,
+            "time_range": {
+                "start_ms": 33160,
+                "end_ms": 50360
+            },
+            "layout": {
+                "mode": "board_dominant",
+                "description": "Single image asset \u2014 board dominant with instructor as PiP.",
+                "instructor": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 72.0,
+                        "y_percent": 72.0,
+                        "width_percent": 25.0,
+                        "height_percent": 25.0,
+                        "z_index": 10,
+                        "anchor": "bottom_right"
+                    },
+                    "size": "small",
+                    "style": "pip",
+                    "opacity": 1.0
+                },
+                "board": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 0.0,
+                        "y_percent": 0.0,
+                        "width_percent": 70.0,
+                        "height_percent": 100.0,
+                        "z_index": 1,
+                        "anchor": "left"
+                    }
+                }
+            },
+            "assets": [
+                {
+                    "id": "1b06768f-5f91-4a1b-a27c-ba3366faa5ef",
+                    "type": "image",
+                    "name": "Magnetite Rock Sample",
+                    "position_rect": {
+                        "x_percent": 3.0,
+                        "y_percent": 3.0,
+                        "width_percent": 64.0,
+                        "height_percent": 65.0,
+                        "z_index": 5,
+                        "anchor": "board_center"
+                    },
+                    "size": "large",
+                    "display_instruction": "Show Image 'Magnetite Rock Sample' prominently on the board. It is the main visual focus.",
+                    "appear_at_ms": 33160,
+                    "disappear_at_ms": 50360
+                }
+            ],
+            "keyword_badges": [
+                {
+                    "word": "fundamental raw materials",
+                    "type": "main",
+                    "position_rect": {
+                        "x_percent": 2.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 35960,
+                    "disappear_at_ms": 50360,
+                    "style": "badge"
+                },
+                {
+                    "word": "limestone",
+                    "type": "Key Terms",
+                    "position_rect": {
+                        "x_percent": 18.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 38880,
+                    "disappear_at_ms": 50360,
+                    "style": "highlight"
+                },
+                {
+                    "word": "chemical composition",
+                    "type": "Callouts",
+                    "position_rect": {
+                        "x_percent": 34.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 49460,
+                    "disappear_at_ms": 50360,
+                    "style": "floating"
+                }
+            ],
+            "script_text": {
+                "position_rect": {
+                    "x_percent": 3.0,
+                    "y_percent": 83.5,
+                    "width_percent": 64.0,
+                    "height_percent": 13.5,
+                    "z_index": 12,
+                    "anchor": "board_bottom"
+                },
+                "visibility_ratio": 0.3,
+                "reasoning": "Visual assets are the primary focus. Show key phrases only as reinforcement.",
+                "keywords_to_highlight": [
+                    "fundamental raw materials",
+                    "limestone",
+                    "chemical composition"
+                ]
+            },
+            "transition": {
+                "type": "none",
+                "duration_ms": 0,
+                "instruction": "Instructor pinned \u2014 no transition, only board content changes."
+            },
+            "continuity": {
+                "pin_instructor": true,
+                "pin_from_paragraph": "1",
+                "transition_instructor": false,
+                "sequence_position": "middle",
+                "sequence_length": 4,
+                "sequence_note": "Continuing pinned sequence (4 paragraphs total)."
+            },
+            "director_note": "Single image asset \u2014 board dominant with instructor as PiP.",
+            "confidence": 0.85,
+            "decided_by": "rule",
+            "reviewed_by_llm": false,
+            "llm_agreed": null,
+            "is_approved": false,
+            "token_usage": {
+                "prompt_tokens": 0,
+                "completion_tokens": 0
+            }
+        },
+        {
+            "id": "49ee3ad7-9a35-43ef-9257-f9cbf29f5376",
+            "paragraph_id": "3",
+            "paragraph_index": 2,
+            "time_range": {
+                "start_ms": 51000,
+                "end_ms": 76440
+            },
+            "layout": {
+                "mode": "board_dominant",
+                "description": "Single image asset \u2014 board dominant with instructor as PiP.",
+                "instructor": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 72.0,
+                        "y_percent": 72.0,
+                        "width_percent": 25.0,
+                        "height_percent": 25.0,
+                        "z_index": 10,
+                        "anchor": "bottom_right"
+                    },
+                    "size": "small",
+                    "style": "pip",
+                    "opacity": 1.0
+                },
+                "board": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 0.0,
+                        "y_percent": 0.0,
+                        "width_percent": 70.0,
+                        "height_percent": 100.0,
+                        "z_index": 1,
+                        "anchor": "left"
+                    }
+                }
+            },
+            "assets": [
+                {
+                    "id": "776b7506-a535-4dd9-8f11-f0d235194e2c",
+                    "type": "image",
+                    "name": "Cement Manufacturing Process Diagram",
+                    "position_rect": {
+                        "x_percent": 3.0,
+                        "y_percent": 3.0,
+                        "width_percent": 64.0,
+                        "height_percent": 65.0,
+                        "z_index": 5,
+                        "anchor": "board_center"
+                    },
+                    "size": "large",
+                    "display_instruction": "Show Image 'Cement Manufacturing Process Diagram' prominently on the board. It is the main visual focus.",
+                    "appear_at_ms": 51000,
+                    "disappear_at_ms": 76440
+                }
+            ],
+            "keyword_badges": [
+                {
+                    "word": "cement production journey",
+                    "type": "main",
+                    "position_rect": {
+                        "x_percent": 2.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 55080,
+                    "disappear_at_ms": 76440,
+                    "style": "badge"
+                },
+                {
+                    "word": "pyro-processing",
+                    "type": "Key Terms",
+                    "position_rect": {
+                        "x_percent": 18.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 51000,
+                    "disappear_at_ms": 76440,
+                    "style": "highlight"
+                },
+                {
+                    "word": "three main parts",
+                    "type": "Callouts",
+                    "position_rect": {
+                        "x_percent": 34.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 58440,
+                    "disappear_at_ms": 76440,
+                    "style": "floating"
+                }
+            ],
+            "script_text": {
+                "position_rect": {
+                    "x_percent": 3.0,
+                    "y_percent": 83.5,
+                    "width_percent": 64.0,
+                    "height_percent": 13.5,
+                    "z_index": 12,
+                    "anchor": "board_bottom"
+                },
+                "visibility_ratio": 0.3,
+                "reasoning": "Visual assets are the primary focus. Show key phrases only as reinforcement.",
+                "keywords_to_highlight": [
+                    "cement production journey",
+                    "pyro-processing",
+                    "three main parts"
+                ]
+            },
+            "transition": {
+                "type": "none",
+                "duration_ms": 0,
+                "instruction": "Instructor pinned \u2014 no transition, only board content changes."
+            },
+            "continuity": {
+                "pin_instructor": true,
+                "pin_from_paragraph": "1",
+                "transition_instructor": false,
+                "sequence_position": "middle",
+                "sequence_length": 4,
+                "sequence_note": "Continuing pinned sequence (4 paragraphs total)."
+            },
+            "director_note": "Single image asset \u2014 board dominant with instructor as PiP.",
+            "confidence": 0.85,
+            "decided_by": "rule",
+            "reviewed_by_llm": false,
+            "llm_agreed": null,
+            "is_approved": false,
+            "token_usage": {
+                "prompt_tokens": 0,
+                "completion_tokens": 0
+            }
+        },
+        {
+            "id": "6efc2b88-9b38-46a7-8433-c470d7bf8830",
+            "paragraph_id": "4",
+            "paragraph_index": 3,
+            "time_range": {
+                "start_ms": 76640,
+                "end_ms": 103640
+            },
+            "layout": {
+                "mode": "board_dominant",
+                "description": "Single image asset \u2014 board dominant with instructor as PiP.",
+                "instructor": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 72.0,
+                        "y_percent": 72.0,
+                        "width_percent": 25.0,
+                        "height_percent": 25.0,
+                        "z_index": 10,
+                        "anchor": "bottom_right"
+                    },
+                    "size": "small",
+                    "style": "pip",
+                    "opacity": 1.0
+                },
+                "board": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 0.0,
+                        "y_percent": 0.0,
+                        "width_percent": 70.0,
+                        "height_percent": 100.0,
+                        "z_index": 1,
+                        "anchor": "left"
+                    }
+                }
+            },
+            "assets": [
+                {
+                    "id": "cc12931e-74cd-4a07-9246-a153d6e0418e",
+                    "type": "image",
+                    "name": "Pile of Concrete Powder",
+                    "position_rect": {
+                        "x_percent": 3.0,
+                        "y_percent": 3.0,
+                        "width_percent": 64.0,
+                        "height_percent": 65.0,
+                        "z_index": 5,
+                        "anchor": "board_center"
+                    },
+                    "size": "large",
+                    "display_instruction": "Show Image 'Pile of Concrete Powder' prominently on the board. It is the main visual focus.",
+                    "appear_at_ms": 76640,
+                    "disappear_at_ms": 103640
+                }
+            ],
+            "keyword_badges": [
+                {
+                    "word": "Preparation of the Raw Materials",
+                    "type": "main",
+                    "position_rect": {
+                        "x_percent": 2.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 76440,
+                    "disappear_at_ms": 103640,
+                    "style": "badge"
+                },
+                {
+                    "word": "raw meal",
+                    "type": "Key Terms",
+                    "position_rect": {
+                        "x_percent": 18.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 79980,
+                    "disappear_at_ms": 103640,
+                    "style": "highlight"
+                },
+                {
+                    "word": "80% calcium carbonate",
+                    "type": "Callouts",
+                    "position_rect": {
+                        "x_percent": 34.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 88900,
+                    "disappear_at_ms": 103640,
+                    "style": "floating"
+                }
+            ],
+            "script_text": {
+                "position_rect": {
+                    "x_percent": 3.0,
+                    "y_percent": 83.5,
+                    "width_percent": 64.0,
+                    "height_percent": 13.5,
+                    "z_index": 12,
+                    "anchor": "board_bottom"
+                },
+                "visibility_ratio": 0.3,
+                "reasoning": "Visual assets are the primary focus. Show key phrases only as reinforcement.",
+                "keywords_to_highlight": [
+                    "Preparation of the Raw Materials",
+                    "raw meal",
+                    "80% calcium carbonate"
+                ]
+            },
+            "transition": {
+                "type": "none",
+                "duration_ms": 0,
+                "instruction": "Instructor pinned \u2014 no transition, only board content changes."
+            },
+            "continuity": {
+                "pin_instructor": true,
+                "pin_from_paragraph": "1",
+                "transition_instructor": false,
+                "sequence_position": "end",
+                "sequence_length": 4,
+                "sequence_note": "End of 4-paragraph sequence. Instructor position may change next."
+            },
+            "director_note": "Single image asset \u2014 board dominant with instructor as PiP.",
+            "confidence": 0.85,
+            "decided_by": "rule",
+            "reviewed_by_llm": false,
+            "llm_agreed": null,
+            "is_approved": false,
+            "token_usage": {
+                "prompt_tokens": 0,
+                "completion_tokens": 0
+            }
+        },
+        {
+            "id": "514c6c27-cc18-4b28-a0b8-52a0aac51aef",
+            "paragraph_id": "5",
+            "paragraph_index": 4,
+            "time_range": {
+                "start_ms": 103600,
+                "end_ms": 128120
+            },
+            "layout": {
+                "mode": "board_dominant",
+                "description": "Board_dominant continues the established visual pattern for this cement production sequence. The technical content explaining homogeneous mixtures and burnability requires ample visual space for potential diagrams showing particle uniformity, while maintaining instructor presence for narrative continuity. Pinning the instructor creates visual stability across the educational sequence.",
+                "instructor": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 72.0,
+                        "y_percent": 72.0,
+                        "width_percent": 25.0,
+                        "height_percent": 25.0,
+                        "z_index": 10,
+                        "anchor": "bottom_right"
+                    },
+                    "size": "small",
+                    "style": "pip",
+                    "opacity": 1.0
+                },
+                "board": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 0.0,
+                        "y_percent": 0.0,
+                        "width_percent": 70.0,
+                        "height_percent": 100.0,
+                        "z_index": 1,
+                        "anchor": "left"
+                    }
+                }
+            },
+            "assets": [],
+            "keyword_badges": [
+                {
+                    "word": "homogeneous mixture",
+                    "type": "main",
+                    "position_rect": {
+                        "x_percent": 2.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 108080,
+                    "disappear_at_ms": 128120,
+                    "style": "badge"
+                },
+                {
+                    "word": "good burnability",
+                    "type": "Key Terms",
+                    "position_rect": {
+                        "x_percent": 18.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 119080,
+                    "disappear_at_ms": 128120,
+                    "style": "highlight"
+                },
+                {
+                    "word": "uniform raw meal",
+                    "type": "Callouts",
+                    "position_rect": {
+                        "x_percent": 34.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 113260,
+                    "disappear_at_ms": 128120,
+                    "style": "floating"
+                }
+            ],
+            "script_text": {
+                "position_rect": {
+                    "x_percent": 3.0,
+                    "y_percent": 81.5,
+                    "width_percent": 64.0,
+                    "height_percent": 15.5,
+                    "z_index": 12,
+                    "anchor": "board_bottom"
+                },
+                "visibility_ratio": 0.7,
+                "reasoning": "Text-heavy moment \u2014 most of the script should be visible.",
+                "keywords_to_highlight": [
+                    "homogeneous mixture",
+                    "good burnability",
+                    "uniform raw meal"
+                ]
+            },
+            "transition": {
+                "type": "fade",
+                "duration_ms": 400,
+                "instruction": "Smooth fade transition."
+            },
+            "continuity": {
+                "pin_instructor": false,
+                "pin_from_paragraph": null,
+                "transition_instructor": true,
+                "sequence_position": "standalone",
+                "sequence_length": 0,
+                "sequence_note": "Standalone paragraph \u2014 no sequence context."
+            },
+            "director_note": "Board_dominant continues the established visual pattern for this cement production sequence. The technical content explaining homogeneous mixtures and burnability requires ample visual space for potential diagrams showing particle uniformity, while maintaining instructor presence for narrative continuity. Pinning the instructor creates visual stability across the educational sequence.",
+            "confidence": 0.92,
+            "decided_by": "llm",
+            "reviewed_by_llm": false,
+            "llm_agreed": null,
+            "is_approved": false,
+            "token_usage": {
+                "prompt_tokens": 1345,
+                "completion_tokens": 1269
+            }
+        },
+        {
+            "id": "7d8efbd4-28f8-419a-b93c-2391da1c5222",
+            "paragraph_id": "6",
+            "paragraph_index": 5,
+            "time_range": {
+                "start_ms": 128120,
+                "end_ms": 175940
+            },
+            "layout": {
+                "mode": "board_dominant",
+                "description": "Single image asset \u2014 board dominant with instructor as PiP.",
+                "instructor": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 72.0,
+                        "y_percent": 72.0,
+                        "width_percent": 25.0,
+                        "height_percent": 25.0,
+                        "z_index": 10,
+                        "anchor": "bottom_right"
+                    },
+                    "size": "small",
+                    "style": "pip",
+                    "opacity": 1.0
+                },
+                "board": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 0.0,
+                        "y_percent": 0.0,
+                        "width_percent": 70.0,
+                        "height_percent": 100.0,
+                        "z_index": 1,
+                        "anchor": "left"
+                    }
+                }
+            },
+            "assets": [
+                {
+                    "id": "556b5ec8-14fe-4a30-90be-435df9b99446",
+                    "type": "image",
+                    "name": "Industrial Kiln Cross-Section",
+                    "position_rect": {
+                        "x_percent": 3.0,
+                        "y_percent": 3.0,
+                        "width_percent": 64.0,
+                        "height_percent": 65.0,
+                        "z_index": 5,
+                        "anchor": "board_center"
+                    },
+                    "size": "large",
+                    "display_instruction": "Show Image 'Industrial Kiln Cross-Section' prominently on the board. It is the main visual focus.",
+                    "appear_at_ms": 128120,
+                    "disappear_at_ms": 175940
+                }
+            ],
+            "keyword_badges": [
+                {
+                    "word": "Pyro Processing stage",
+                    "type": "main",
+                    "position_rect": {
+                        "x_percent": 2.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 150060,
+                    "disappear_at_ms": 175940,
+                    "style": "badge"
+                },
+                {
+                    "word": "clinker production",
+                    "type": "Key Terms",
+                    "position_rect": {
+                        "x_percent": 18.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 134360,
+                    "disappear_at_ms": 175940,
+                    "style": "highlight"
+                },
+                {
+                    "word": "strict control",
+                    "type": "Callouts",
+                    "position_rect": {
+                        "x_percent": 34.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 159680,
+                    "disappear_at_ms": 175940,
+                    "style": "floating"
+                }
+            ],
+            "script_text": {
+                "position_rect": {
+                    "x_percent": 3.0,
+                    "y_percent": 83.5,
+                    "width_percent": 64.0,
+                    "height_percent": 13.5,
+                    "z_index": 12,
+                    "anchor": "board_bottom"
+                },
+                "visibility_ratio": 0.3,
+                "reasoning": "Visual assets are the primary focus. Show key phrases only as reinforcement.",
+                "keywords_to_highlight": [
+                    "Pyro Processing stage",
+                    "clinker production",
+                    "strict control"
+                ]
+            },
+            "transition": {
+                "type": "fade",
+                "duration_ms": 400,
+                "instruction": "Smooth fade transition."
+            },
+            "continuity": {
+                "pin_instructor": false,
+                "pin_from_paragraph": null,
+                "transition_instructor": true,
+                "sequence_position": "standalone",
+                "sequence_length": 0,
+                "sequence_note": "Standalone paragraph \u2014 no sequence context."
+            },
+            "director_note": "Single image asset \u2014 board dominant with instructor as PiP.",
+            "confidence": 0.85,
+            "decided_by": "rule",
+            "reviewed_by_llm": false,
+            "llm_agreed": null,
+            "is_approved": false,
+            "token_usage": {
+                "prompt_tokens": 0,
+                "completion_tokens": 0
+            }
+        },
+        {
+            "id": "d9f8fbf6-7189-433d-9907-06abd93ba4e8",
+            "paragraph_id": "7",
+            "paragraph_index": 6,
+            "time_range": {
+                "start_ms": 175940,
+                "end_ms": 210200
+            },
+            "layout": {
+                "mode": "board_dominant",
+                "description": "Board_dominant layout is optimal for this technical content - the preheater tower diagram with temperature annotations requires visual prominence. The instructor remains visible but secondary, allowing learners to focus on the process flow while hearing the explanation.",
+                "instructor": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 72.0,
+                        "y_percent": 72.0,
+                        "width_percent": 25.0,
+                        "height_percent": 25.0,
+                        "z_index": 10,
+                        "anchor": "bottom_right"
+                    },
+                    "size": "small",
+                    "style": "pip",
+                    "opacity": 1.0
+                },
+                "board": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 0.0,
+                        "y_percent": 0.0,
+                        "width_percent": 70.0,
+                        "height_percent": 100.0,
+                        "z_index": 1,
+                        "anchor": "left"
+                    }
+                }
+            },
+            "assets": [],
+            "keyword_badges": [
+                {
+                    "word": "Preheating/Calcination",
+                    "type": "main",
+                    "position_rect": {
+                        "x_percent": 2.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 175940,
+                    "disappear_at_ms": 210200,
+                    "style": "badge"
+                },
+                {
+                    "word": "preheater tower",
+                    "type": "Key Terms",
+                    "position_rect": {
+                        "x_percent": 18.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 185620,
+                    "disappear_at_ms": 210200,
+                    "style": "highlight"
+                },
+                {
+                    "word": "energy efficiency",
+                    "type": "Callouts",
+                    "position_rect": {
+                        "x_percent": 34.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 208920,
+                    "disappear_at_ms": 210200,
+                    "style": "floating"
+                }
+            ],
+            "script_text": {
+                "position_rect": {
+                    "x_percent": 3.0,
+                    "y_percent": 81.5,
+                    "width_percent": 64.0,
+                    "height_percent": 15.5,
+                    "z_index": 12,
+                    "anchor": "board_bottom"
+                },
+                "visibility_ratio": 0.7,
+                "reasoning": "Text-heavy moment \u2014 most of the script should be visible.",
+                "keywords_to_highlight": [
+                    "Preheating/Calcination",
+                    "preheater tower",
+                    "energy efficiency"
+                ]
+            },
+            "transition": {
+                "type": "fade",
+                "duration_ms": 400,
+                "instruction": "Smooth fade transition."
+            },
+            "continuity": {
+                "pin_instructor": false,
+                "pin_from_paragraph": null,
+                "transition_instructor": true,
+                "sequence_position": "standalone",
+                "sequence_length": 0,
+                "sequence_note": "Standalone paragraph \u2014 no sequence context."
+            },
+            "director_note": "Board_dominant layout is optimal for this technical content - the preheater tower diagram with temperature annotations requires visual prominence. The instructor remains visible but secondary, allowing learners to focus on the process flow while hearing the explanation.",
+            "confidence": 0.92,
+            "decided_by": "llm",
+            "reviewed_by_llm": false,
+            "llm_agreed": null,
+            "is_approved": false,
+            "token_usage": {
+                "prompt_tokens": 1372,
+                "completion_tokens": 1375
+            }
+        },
+        {
+            "id": "2030dab5-25e0-42ce-8d2c-ad498c6c0be1",
+            "paragraph_id": "8",
+            "paragraph_index": 7,
+            "time_range": {
+                "start_ms": 210540,
+                "end_ms": 238460
+            },
+            "layout": {
+                "mode": "board_dominant",
+                "description": "Single image asset \u2014 board dominant with instructor as PiP.",
+                "instructor": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 72.0,
+                        "y_percent": 72.0,
+                        "width_percent": 25.0,
+                        "height_percent": 25.0,
+                        "z_index": 10,
+                        "anchor": "bottom_right"
+                    },
+                    "size": "small",
+                    "style": "pip",
+                    "opacity": 1.0
+                },
+                "board": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 0.0,
+                        "y_percent": 0.0,
+                        "width_percent": 70.0,
+                        "height_percent": 100.0,
+                        "z_index": 1,
+                        "anchor": "left"
+                    }
+                }
+            },
+            "assets": [
+                {
+                    "id": "b6859729-c1c8-4827-8bf6-afb64f559d9e",
+                    "type": "image",
+                    "name": "Clinker Close-Up",
+                    "position_rect": {
+                        "x_percent": 3.0,
+                        "y_percent": 3.0,
+                        "width_percent": 64.0,
+                        "height_percent": 65.0,
+                        "z_index": 5,
+                        "anchor": "board_center"
+                    },
+                    "size": "large",
+                    "display_instruction": "Show Image 'Clinker Close-Up' prominently on the board. It is the main visual focus.",
+                    "appear_at_ms": 210540,
+                    "disappear_at_ms": 238460
+                }
+            ],
+            "keyword_badges": [
+                {
+                    "word": "calcination",
+                    "type": "main",
+                    "position_rect": {
+                        "x_percent": 2.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 212860,
+                    "disappear_at_ms": 238460,
+                    "style": "badge"
+                },
+                {
+                    "word": "carbon dioxide",
+                    "type": "Key Terms",
+                    "position_rect": {
+                        "x_percent": 18.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 216480,
+                    "disappear_at_ms": 238460,
+                    "style": "highlight"
+                },
+                {
+                    "word": "carbon footprint",
+                    "type": "Warnings",
+                    "position_rect": {
+                        "x_percent": 34.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 216480,
+                    "disappear_at_ms": 238460,
+                    "style": "floating"
+                }
+            ],
+            "script_text": {
+                "position_rect": {
+                    "x_percent": 3.0,
+                    "y_percent": 83.5,
+                    "width_percent": 64.0,
+                    "height_percent": 13.5,
+                    "z_index": 12,
+                    "anchor": "board_bottom"
+                },
+                "visibility_ratio": 0.3,
+                "reasoning": "Visual assets are the primary focus. Show key phrases only as reinforcement.",
+                "keywords_to_highlight": [
+                    "calcination",
+                    "carbon dioxide",
+                    "carbon footprint"
+                ]
+            },
+            "transition": {
+                "type": "fade",
+                "duration_ms": 400,
+                "instruction": "Smooth fade transition."
+            },
+            "continuity": {
+                "pin_instructor": false,
+                "pin_from_paragraph": null,
+                "transition_instructor": true,
+                "sequence_position": "standalone",
+                "sequence_length": 0,
+                "sequence_note": "Standalone paragraph \u2014 no sequence context."
+            },
+            "director_note": "Single image asset \u2014 board dominant with instructor as PiP.",
+            "confidence": 0.85,
+            "decided_by": "rule",
+            "reviewed_by_llm": false,
+            "llm_agreed": null,
+            "is_approved": false,
+            "token_usage": {
+                "prompt_tokens": 0,
+                "completion_tokens": 0
+            }
+        },
+        {
+            "id": "1bc07304-055d-4eab-a9e2-e35e339d8d4d",
+            "paragraph_id": "9",
+            "paragraph_index": 8,
+            "time_range": {
+                "start_ms": 238460,
+                "end_ms": 264880
+            },
+            "layout": {
+                "mode": "board_dominant",
+                "description": "Board dominant layout serves the technical content best - the rotary kiln diagram with temperature visualization helps learners grasp the peak temperature concept and 30-minute retention. Instructor remains pinned for continuity as this is the fourth consecutive paragraph explaining the cement production process.",
+                "instructor": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 72.0,
+                        "y_percent": 72.0,
+                        "width_percent": 25.0,
+                        "height_percent": 25.0,
+                        "z_index": 10,
+                        "anchor": "bottom_right"
+                    },
+                    "size": "small",
+                    "style": "pip",
+                    "opacity": 1.0
+                },
+                "board": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 0.0,
+                        "y_percent": 0.0,
+                        "width_percent": 70.0,
+                        "height_percent": 100.0,
+                        "z_index": 1,
+                        "anchor": "left"
+                    }
+                }
+            },
+            "assets": [],
+            "keyword_badges": [
+                {
+                    "word": "Kiln Burning stage",
+                    "type": "main",
+                    "position_rect": {
+                        "x_percent": 2.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 245000,
+                    "disappear_at_ms": 264880,
+                    "style": "badge"
+                },
+                {
+                    "word": "rotary kiln",
+                    "type": "Key Terms",
+                    "position_rect": {
+                        "x_percent": 18.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 245000,
+                    "disappear_at_ms": 264880,
+                    "style": "highlight"
+                },
+                {
+                    "word": "1450 degrees Celsius",
+                    "type": "Callouts",
+                    "position_rect": {
+                        "x_percent": 34.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 253200,
+                    "disappear_at_ms": 264880,
+                    "style": "floating"
+                }
+            ],
+            "script_text": {
+                "position_rect": {
+                    "x_percent": 3.0,
+                    "y_percent": 81.5,
+                    "width_percent": 64.0,
+                    "height_percent": 15.5,
+                    "z_index": 12,
+                    "anchor": "board_bottom"
+                },
+                "visibility_ratio": 0.7,
+                "reasoning": "Text-heavy moment \u2014 most of the script should be visible.",
+                "keywords_to_highlight": [
+                    "Kiln Burning stage",
+                    "rotary kiln",
+                    "1450 degrees Celsius"
+                ]
+            },
+            "transition": {
+                "type": "fade",
+                "duration_ms": 400,
+                "instruction": "Smooth fade transition."
+            },
+            "continuity": {
+                "pin_instructor": false,
+                "pin_from_paragraph": null,
+                "transition_instructor": true,
+                "sequence_position": "standalone",
+                "sequence_length": 0,
+                "sequence_note": "Standalone paragraph \u2014 no sequence context."
+            },
+            "director_note": "Board dominant layout serves the technical content best - the rotary kiln diagram with temperature visualization helps learners grasp the peak temperature concept and 30-minute retention. Instructor remains pinned for continuity as this is the fourth consecutive paragraph explaining the cement production process.",
+            "confidence": 0.92,
+            "decided_by": "llm",
+            "reviewed_by_llm": false,
+            "llm_agreed": null,
+            "is_approved": false,
+            "token_usage": {
+                "prompt_tokens": 1351,
+                "completion_tokens": 1457
+            }
+        },
+        {
+            "id": "243f2399-5033-45e8-aeb3-441930b0fc9d",
+            "paragraph_id": "10",
+            "paragraph_index": 9,
+            "time_range": {
+                "start_ms": 264880,
+                "end_ms": 305060
+            },
+            "layout": {
+                "mode": "board_dominant",
+                "description": "Single image asset \u2014 board dominant with instructor as PiP.",
+                "instructor": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 72.0,
+                        "y_percent": 72.0,
+                        "width_percent": 25.0,
+                        "height_percent": 25.0,
+                        "z_index": 10,
+                        "anchor": "bottom_right"
+                    },
+                    "size": "small",
+                    "style": "pip",
+                    "opacity": 1.0
+                },
+                "board": {
+                    "visible": true,
+                    "position_rect": {
+                        "x_percent": 0.0,
+                        "y_percent": 0.0,
+                        "width_percent": 70.0,
+                        "height_percent": 100.0,
+                        "z_index": 1,
+                        "anchor": "left"
+                    }
+                }
+            },
+            "assets": [
+                {
+                    "id": "b6859729-c1c8-4827-8bf6-afb64f559d9e",
+                    "type": "image",
+                    "name": "Clinker Close-Up",
+                    "position_rect": {
+                        "x_percent": 3.0,
+                        "y_percent": 3.0,
+                        "width_percent": 64.0,
+                        "height_percent": 65.0,
+                        "z_index": 5,
+                        "anchor": "board_center"
+                    },
+                    "size": "large",
+                    "display_instruction": "Show Image 'Clinker Close-Up' prominently on the board. It is the main visual focus.",
+                    "appear_at_ms": 264880,
+                    "disappear_at_ms": 305060
+                }
+            ],
+            "keyword_badges": [
+                {
+                    "word": "extremely hot clinker",
+                    "type": "main",
+                    "position_rect": {
+                        "x_percent": 2.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 266000,
+                    "disappear_at_ms": 305060,
+                    "style": "badge"
+                },
+                {
+                    "word": "rapidly cooled",
+                    "type": "Callouts",
+                    "position_rect": {
+                        "x_percent": 18.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 291780,
+                    "disappear_at_ms": 305060,
+                    "style": "floating"
+                },
+                {
+                    "word": "mineralogical structure",
+                    "type": "Key Terms",
+                    "position_rect": {
+                        "x_percent": 34.0,
+                        "y_percent": 2.0,
+                        "width_percent": 15.0,
+                        "height_percent": 4.0,
+                        "z_index": 8,
+                        "anchor": "board_top"
+                    },
+                    "appear_at_ms": 302760,
+                    "disappear_at_ms": 305060,
+                    "style": "highlight"
+                }
+            ],
+            "script_text": {
+                "position_rect": {
+                    "x_percent": 3.0,
+                    "y_percent": 83.5,
+                    "width_percent": 64.0,
+                    "height_percent": 13.5,
+                    "z_index": 12,
+                    "anchor": "board_bottom"
+                },
+                "visibility_ratio": 0.3,
+                "reasoning": "Visual assets are the primary focus. Show key phrases only as reinforcement.",
+                "keywords_to_highlight": [
+                    "extremely hot clinker",
+                    "rapidly cooled",
+                    "mineralogical structure"
+                ]
+            },
+            "transition": {
+                "type": "fade",
+                "duration_ms": 400,
+                "instruction": "Smooth fade transition."
+            },
+            "continuity": {
+                "pin_instructor": false,
+                "pin_from_paragraph": null,
+                "transition_instructor": true,
+                "sequence_position": "standalone",
+                "sequence_length": 0,
+                "sequence_note": "Standalone paragraph \u2014 no sequence context."
+            },
+            "director_note": "Single image asset \u2014 board dominant with instructor as PiP.",
+            "confidence": 0.85,
+            "decided_by": "rule",
+            "reviewed_by_llm": false,
+            "llm_agreed": null,
+            "is_approved": false,
+            "token_usage": {
+                "prompt_tokens": 0,
+                "completion_tokens": 0
+            }
+        }
+    ]
+}

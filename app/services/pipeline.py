@@ -18,6 +18,8 @@ from app.schemas.outputs import (
     AssetOutput,
     ContinuityOutput,
     DecisionOutput,
+    FocusZone,
+    InstructorBehavior,
     InstructorLayout,
     KeywordBadge,
     LayoutOutput,
@@ -27,10 +29,17 @@ from app.schemas.outputs import (
     TokenUsage,
     TransitionOutput,
 )
-from app.services.board_layout import compute_board_content
+from app.services.board_layout import (
+    compute_board_content,
+    compute_instructor_behavior,
+    compute_focus_zone,
+)
 from app.services.ingestion import ingest_transcript
 from app.services.output_builder import build_playback_json
-from app.services.position_calculator import compute_layout_positions
+from app.services.position_calculator import (
+    compute_layout_positions,
+    compute_dynamic_board_rect,
+)
 from app.services.rule_engine import evaluate_rules
 from app.services.sequence_analyzer import analyze_sequences
 from app.utils.logger import logger
@@ -192,16 +201,36 @@ class Pipeline:
                 decided_by = DecisionSource.LLM
 
         # ── Apply continuity enforcement ──
-        instructor, board = compute_layout_positions(layout_mode)
+        instructor, board = compute_layout_positions(layout_mode, use_fullscreen=True)
 
         if hint.pin_instructor and hint.is_in_sequence:
             instructor.position_rect = hint.pin_position
             instructor.size = hint.pin_size
             instructor.style = hint.pin_style
 
+        # ── Dynamic board sizing for overlays ──
+        has_assets = bool(paragraph.assets)
+        is_board_overlay = not board.fullscreen and board.visible
+        if is_board_overlay and has_assets:
+            asset_types = [a.type for a in paragraph.assets]
+            board.position_rect = compute_dynamic_board_rect(
+                asset_count=len(paragraph.assets),
+                asset_types=asset_types,
+                base_rect=board.position_rect,
+                is_overlay=True,
+            )
+
         # ── Compute board content ──
         assets, keyword_badges, script_text = compute_board_content(
             paragraph, layout_mode, board.position_rect, suggested_asset_ids,
+        )
+
+        # ── Compute V2 enhancements ──
+        instructor_behavior = compute_instructor_behavior(
+            paragraph, layout_mode, has_assets,
+        )
+        focus_zone = compute_focus_zone(
+            layout_mode, has_assets, board.position_rect, instructor.visible,
         )
 
         # ── Build transition ──
@@ -233,6 +262,8 @@ class Pipeline:
             script_text=script_text,
             transition=transition,
             continuity=continuity,
+            instructor_behavior=instructor_behavior,
+            focus_zone=focus_zone,
             director_note=director_note,
             confidence=confidence,
             decided_by=decided_by,

@@ -27,7 +27,7 @@ class ContinuityHint(BaseModel):
     sequence_start_paragraph_id: Optional[str] = None
     pin_instructor: bool = False
     pin_position: PositionRect = PositionRect(
-        x_percent=72, y_percent=72, width_percent=25, height_percent=25,
+        x_percent=75, y_percent=73, width_percent=22, height_percent=22,
         z_index=10, anchor="bottom_right",
     )
     pin_size: str = "small"
