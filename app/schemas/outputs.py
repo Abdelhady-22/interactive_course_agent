@@ -236,10 +236,42 @@ class ProcessingStats(BaseModel):
     processing_time_ms: int = 0
 
 
+class CourseSummary(BaseModel):
+    """Course-level summary for quality review."""
+    total_duration_ms: int = Field(default=0, description="Total course duration")
+    layout_mode_distribution: dict[str, int] = Field(
+        default_factory=dict,
+        description="Count of each layout mode used",
+    )
+    unique_assets_used: int = Field(default=0, description="Number of unique assets")
+    duplicate_assets: list[str] = Field(
+        default_factory=list,
+        description="Asset names that appeared in multiple paragraphs",
+    )
+    paragraphs_without_assets: list[int] = Field(
+        default_factory=list,
+        description="Paragraph indexes with no visual assets",
+    )
+    animation_variety_score: float = Field(
+        default=0.0,
+        description="0-1 score: how varied the animation types are (1.0 = all different)",
+    )
+    visual_variety_score: float = Field(
+        default=0.0,
+        description="0-1 score: how varied the visual experience is (layout diversity + asset spread)",
+    )
+    avg_confidence: float = Field(default=0.0, description="Average decision confidence")
+    warnings: list[str] = Field(
+        default_factory=list,
+        description="Quality warnings for human review",
+    )
+
+
 class PlaybackJSON(BaseModel):
     """The complete output — consumed by the frontend video player."""
     course_id: str
     title: str = ""
     total_paragraphs: int = 0
     stats: ProcessingStats = ProcessingStats()
+    summary: Optional[CourseSummary] = Field(default=None, description="Course-level quality summary")
     decisions: list[DecisionOutput] = []

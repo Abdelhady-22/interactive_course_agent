@@ -161,6 +161,8 @@ def build_director_prompt(
     assets: list[dict],
     previous_decisions: list[dict],
     continuity_hint: dict,
+    next_paragraph_text: str | None = None,
+    recently_used_asset_names: list[str] | None = None,
 ) -> str:
     """Build the user prompt for the Layout Director agent."""
     prompt_parts = [
@@ -177,10 +179,25 @@ def build_director_prompt(
     if previous_decisions:
         prompt_parts.append("\n## Previous Decisions (for context)\n")
         for i, d in enumerate(previous_decisions[-3:], 1):
+            text_snippet = d.get('paragraph_text', '')
+            assets_used = d.get('assets_used', [])
             prompt_parts.append(
                 f"- Paragraph {i}: mode={d.get('layout_mode', '?')}, "
-                f"instructor={d.get('instructor_position', '?')}\n"
+                f"instructor={d.get('instructor_position', '?')}"
             )
+            if text_snippet:
+                prompt_parts.append(f", text=\"{text_snippet}...\"")
+            if assets_used:
+                prompt_parts.append(f", assets=[{', '.join(assets_used)}]")
+            prompt_parts.append("\n")
+
+    if next_paragraph_text:
+        prompt_parts.append(f"\n## Next Paragraph (preview)\n**Text**: {next_paragraph_text[:120]}...\n")
+
+    if recently_used_asset_names:
+        prompt_parts.append("\n## ⚠️ Recently Used Assets (avoid repeating)\n")
+        prompt_parts.append(f"These assets appeared in the last 3 paragraphs: {', '.join(recently_used_asset_names)}\n")
+        prompt_parts.append("Do NOT reuse the same asset unless absolutely necessary.\n")
 
     if continuity_hint:
         prompt_parts.append(f"\n## Continuity Hint\n{_format_hint(continuity_hint)}\n")

@@ -11,7 +11,7 @@ from app.agents.director import LayoutDirector
 from app.agents.reviewer import LayoutReviewer
 from app.llm.provider import LLMProvider
 from app.llm.token_tracker import TokenTracker
-from app.schemas.enums import DecisionSource, LayoutMode, TransitionType
+from app.schemas.enums import BoardBackground, DecisionSource, FocusTarget, LayoutMode, TransitionType
 from app.schemas.inputs import NormalizedParagraph, NormalizedTranscript
 from app.schemas.internals import ContinuityHint, LLMResponse, RuleResult
 from app.schemas.outputs import (
@@ -84,6 +84,7 @@ class Pipeline:
         logger.info("═══ Phase 3: Processing %d paragraphs ═══", len(transcript.paragraphs))
         decisions: list[DecisionOutput] = []
         previous_decision_context: list[dict] = []
+        recently_used_assets: list[dict] = []  # Track {id, name, paragraph_index} for duplicate detection
 
         for i, paragraph in enumerate(transcript.paragraphs):
             hint = hints[i] if i < len(hints) else ContinuityHint()
@@ -94,13 +95,37 @@ class Pipeline:
                 previous_decisions=previous_decision_context,
                 force_llm=str(paragraph.id) in force_ids or str(paragraph.index) in force_ids,
                 review_rules=review_rules and self.settings.enable_llm_review,
+                recently_used_assets=recently_used_assets,
+                all_paragraphs=transcript.paragraphs,
             )
+
+            # ── Fix 3: No-asset fallback ──
+            # If board_dominant but no assets, switch to instructor_only
+            decision = self._apply_no_asset_fallback(decision)
+
+            # ── Fix 6: Timing validation ──
+            decision = self._validate_timestamps(decision)
+
             decisions.append(decision)
+
+            # ── Fix 5: Track used assets for duplicate detection ──
+            for asset in decision.assets:
+                recently_used_assets.append({
+                    "id": asset.id,
+                    "name": asset.name,
+                    "paragraph_index": i,
+                })
+            # Keep only last 5 paragraphs worth of asset history
+            recently_used_assets = [
+                a for a in recently_used_assets if a["paragraph_index"] >= i - 4
+            ]
 
             # Track context for next paragraph (sliding window of last 3)
             previous_decision_context.append({
                 "layout_mode": decision.layout.mode.value,
                 "instructor_position": decision.layout.instructor.position_rect.anchor,
+                "paragraph_text": paragraph.text[:80],  # Fix 4: include text snippet
+                "assets_used": [a.name for a in decision.assets],
             })
             if len(previous_decision_context) > 3:
                 previous_decision_context.pop(0)
@@ -141,6 +166,8 @@ class Pipeline:
         previous_decisions: list[dict],
         force_llm: bool,
         review_rules: bool,
+        recently_used_assets: list[dict] | None = None,
+        all_paragraphs: list[NormalizedParagraph] | None = None,
     ) -> DecisionOutput:
         """Process a single paragraph through the rule → LLM → fallback pipeline."""
         logger.info("── Processing paragraph '%s' (index=%d) ──", paragraph.id, paragraph.index)
@@ -246,6 +273,20 @@ class Pipeline:
             sequence_note=self._sequence_note(hint),
         )
 
+        # ── Fix 5: Duplicate asset warning ──
+        duplicate_warning = ""
+        if recently_used_assets:
+            for asset_out in assets:
+                recent_matches = [
+                    a for a in recently_used_assets
+                    if a["id"] == asset_out.id and a["paragraph_index"] != paragraph.index
+                ]
+                if recent_matches:
+                    prev_idx = recent_matches[-1]["paragraph_index"]
+                    duplicate_warning += (
+                        f"Asset '{asset_out.name}' was already used in paragraph {prev_idx + 1}."
+                    )
+
         return DecisionOutput(
             id=str(uuid.uuid4()),
             paragraph_id=paragraph.id,
@@ -264,7 +305,7 @@ class Pipeline:
             continuity=continuity,
             instructor_behavior=instructor_behavior,
             focus_zone=focus_zone,
-            director_note=director_note,
+            director_note=director_note + duplicate_warning,
             confidence=confidence,
             decided_by=decided_by,
             reviewed_by_llm=reviewed_by_llm,
@@ -324,3 +365,54 @@ class Pipeline:
         elif pos == "end":
             return f"End of {length}-paragraph sequence. Instructor position may change next."
         return ""
+
+    def _apply_no_asset_fallback(self, decision: DecisionOutput) -> DecisionOutput:
+        """Fix 3: If board_dominant but no assets, switch to keyword-focused or instructor layout."""
+        no_assets = len(decision.assets) == 0
+        board_focused = decision.layout.mode in (
+            LayoutMode.BOARD_DOMINANT,
+            LayoutMode.BOARD_ONLY,
+            LayoutMode.FULLSCREEN_ASSET,
+        )
+
+        if no_assets and board_focused:
+            has_keywords = len(decision.keyword_badges) > 0
+
+            if has_keywords:
+                # Keep board_dominant but note it's keyword-only
+                decision.director_note += " [Fallback: No assets — displaying keywords only on board.]"
+                decision.layout.board.background = BoardBackground.DARK_GRADIENT
+            else:
+                # No assets AND no keywords — switch to instructor_only
+                from app.services.position_calculator import compute_layout_positions
+                instructor, board = compute_layout_positions(
+                    LayoutMode.INSTRUCTOR_ONLY, use_fullscreen=True,
+                )
+                decision.layout.mode = LayoutMode.INSTRUCTOR_ONLY
+                decision.layout.instructor = instructor
+                decision.layout.board = board
+                decision.director_note += " [Fallback: No assets or keywords — switched to instructor_only.]"
+                decision.focus_zone.primary = FocusTarget.INSTRUCTOR
+                decision.focus_zone.dim_background = False
+
+        return decision
+
+    def _validate_timestamps(self, decision: DecisionOutput) -> DecisionOutput:
+        """Fix 6: Clamp all appear/disappear timestamps to the paragraph's time range."""
+        start = decision.time_range["start_ms"]
+        end = decision.time_range["end_ms"]
+
+        for asset in decision.assets:
+            asset.appear_at_ms = max(start, min(asset.appear_at_ms, end))
+            asset.disappear_at_ms = max(asset.appear_at_ms, min(asset.disappear_at_ms, end))
+            # Ensure minimum 1 second display time
+            if asset.disappear_at_ms - asset.appear_at_ms < 1000:
+                asset.disappear_at_ms = min(asset.appear_at_ms + 1000, end)
+
+        for kw in decision.keyword_badges:
+            kw.appear_at_ms = max(start, min(kw.appear_at_ms, end))
+            kw.disappear_at_ms = max(kw.appear_at_ms, min(kw.disappear_at_ms, end))
+            kw.spoken_at_ms = max(start, min(kw.spoken_at_ms, end))
+
+        return decision
+

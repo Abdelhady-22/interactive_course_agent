@@ -85,10 +85,14 @@ def compute_board_content(
     for i, asset in enumerate(assets_to_display):
         pos = asset_positions[i] if i < len(asset_positions) else asset_positions[-1]
 
-        # Stagger appearance: first asset appears immediately, others 2s later each
-        stagger_ms = i * 2000
-        appear = paragraph.start_ms + stagger_ms
-        disappear = paragraph.end_ms
+        # Smart timing: appear when asset topic is first mentioned
+        appear = _find_asset_appear_time(asset, paragraph, i)
+        # Disappear 3s before paragraph end (or at paragraph end if too short)
+        para_duration = paragraph.end_ms - paragraph.start_ms
+        min_display_ms = max(3000, int(para_duration * 0.5))  # At least 50% of paragraph
+        disappear = min(paragraph.end_ms, appear + min_display_ms)
+        # But never exceed paragraph boundary
+        disappear = min(disappear, paragraph.end_ms)
 
         # Pick animation (cycle through presets)
         entrance_anim = anim_presets[i % len(anim_presets)]
@@ -104,7 +108,7 @@ def compute_board_content(
             disappear_at_ms=disappear,
             entrance=entrance_anim,
             exit=AnimationType.FADE_OUT,
-            entrance_delay_ms=stagger_ms,
+            entrance_delay_ms=0,
             entrance_duration_ms=400,
         ))
 
@@ -400,3 +404,39 @@ def _has_numbers_or_lists(text: str) -> bool:
     """Check if text contains numbered lists or quantities."""
     import re
     return bool(re.search(r'\b(first|second|third|four|five|step \d|stage \d|\d+%|\d+ degrees)', text))
+
+
+def _find_asset_appear_time(
+    asset,
+    paragraph: NormalizedParagraph,
+    asset_index: int,
+) -> int:
+    """Find the best time for an asset to appear based on word timestamps.
+
+    Strategy: search word timestamps for any word in the asset name.
+    If found, the asset appears when that word is spoken.
+    If not found, stagger from paragraph start (2s per asset index).
+    """
+    if not paragraph.word_timestamps:
+        # No word timestamps available — stagger from paragraph start
+        return paragraph.start_ms + (asset_index * 2000)
+
+    # Split asset name into searchable words (skip short common words)
+    name_words = [
+        w.lower() for w in (asset.name or "").split()
+        if len(w) > 3 and w.lower() not in {"the", "and", "for", "with", "from", "that", "this", "image", "close"}
+    ]
+
+    if not name_words:
+        return paragraph.start_ms + (asset_index * 2000)
+
+    # Search word timestamps for asset name match
+    for wt in paragraph.word_timestamps:
+        word_lower = wt.word.lower().strip(".,;:!?()[]")
+        for name_word in name_words:
+            if name_word in word_lower or word_lower in name_word:
+                # Found a match — appear when this word is spoken
+                return max(wt.start_ms, paragraph.start_ms)
+
+    # No match found — stagger from paragraph start
+    return paragraph.start_ms + (asset_index * 2000)
